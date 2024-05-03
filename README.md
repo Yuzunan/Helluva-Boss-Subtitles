@@ -1,4 +1,4 @@
-# HelluvaBossSubtitles
+# Helluva Boss Subtitles
 These are English subtitles for Helluva Boss episodes. 
 You need to download the original video for them to work.
 By opening your video application app, you can select .str or .ass files to the current video. Those are .ass files.
