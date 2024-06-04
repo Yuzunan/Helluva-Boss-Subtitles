@@ -1,0 +1,541 @@
+[Script Info]
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+
+[Yuzunan Project Garbage]
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 0.625000
+Scroll Position: 374
+Active Line: 376
+Video Position: 32782
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Top,Arial,50,&H00FFFFFF,&H000000FF,&H00472A27,&H00000000,-1,0,0,0,100,100,0,0,1,4,2,8,10,10,10,1
+Style: Default,Arial,50,&H00FFFFFF,&H000000FF,&H00472A27,&H00000000,-1,0,0,0,100,100,0,0,1,4,2,2,10,10,10,1
+Style: Left,Arial,50,&H00FFFFFF,&H000000FF,&H00472A27,&H00000000,-1,0,0,0,100,100,0,0,1,4,2,1,10,10,10,1
+Style: Right,Arial,50,&H00FFFFFF,&H000000FF,&H00472A27,&H00000000,-1,0,0,0,100,100,0,0,1,4,2,3,10,10,10,1
+Style: StolasR,Arial,50,&H00585FD3,&H000000FF,&H00813D3D,&H00000000,-1,0,0,0,100,100,0,0,1,4,2,1,10,10,10,1
+Style: Stolas,Arial,50,&H00585FD3,&H000000FF,&H00813D3D,&H00000000,-1,0,0,0,100,100,0,0,1,4,2,2,10,10,10,1
+Style: Blitz,Arial,50,&H00000000,&H000000FF,&H000004FF,&H00000000,-1,0,0,0,100,100,0,0,1,4,2,2,10,10,10,1
+Style: BlitzL,Arial,50,&H00000000,&H000000FF,&H00004FF,&H00000000,-1,0,0,0,100,100,0,0,1,4,2,3,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:17.87,0:00:21.51,Stolas,0,0,0,,♪ Thank you to the butterflies in my stomach, ♪
+Dialogue: 0,0:00:21.52,0:00:24.93,Stolas,0,0,0,,♪ I haven't felt this nervous since I was ♪
+Dialogue: 0,0:00:24.94,0:00:26.95,Stolas,0,0,0,,♪ a little fluffy down nesting. ♪
+Dialogue: 0,0:00:27.19,0:00:30.95,Stolas,0,0,0,,♪ My daring do is half disguised behind the smile ♪
+Dialogue: 0,0:00:31.09,0:00:34.13,Stolas,0,0,0,,♪ my beak is grinding, never minding. ♪
+Dialogue: 0,0:00:34.27,0:00:36.51,Stolas,0,0,0,,♪ I swore I wouldn't dwell on the divorce, ♪
+Dialogue: 0,0:00:36.65,0:00:40.95,Stolas,0,0,0,,♪ so for my own health, I'll remind myself ♪
+Dialogue: 0,0:00:42.30,0:00:44.70,Stolas,0,0,0,,♪ that when I see him, ♪
+Dialogue: 0,0:00:45.00,0:00:47.45,Stolas,0,0,0,,♪ I know that it won't feel so tough. ♪
+Dialogue: 0,0:00:47.81,0:00:49.55,Stolas,0,0,0,,♪ I'll believe him ♪
+Dialogue: 0,0:00:49.56,0:00:52.95,Stolas,0,0,0,,♪ and not the voice that says I'm not enough ♪
+Dialogue: 0,0:00:53.23,0:00:55.41,Stolas,0,0,0,,♪ No need for an arrangement, ♪
+Dialogue: 0,0:00:55.83,0:00:58.07,Stolas,0,0,0,,♪ it can just be him and me, ♪
+Dialogue: 0,0:00:58.21,0:00:59.47,Stolas,0,0,0,,♪ I'll set us free, ♪
+Dialogue: 0,0:00:59.87,0:01:02.31,Stolas,0,0,0,,♪ how perfect it could be ♪
+Dialogue: 0,0:01:02.83,0:01:04.99,Stolas,0,0,0,,♪ when I see him tonight. ♪
+Dialogue: 0,0:01:08.71,0:01:09.81,Blitz,0,0,0,,♪ See him tonight? ♪
+Dialogue: 0,0:01:10.21,0:01:10.87,Blitz,0,0,0,,♪ Alright, alright. ♪
+Dialogue: 0,0:01:11.25,0:01:13.05,Blitz,0,0,0,,♪ It's been a while since he begged for attention. ♪
+Dialogue: 0,0:01:13.39,0:01:14.07,Blitz,0,0,0,,♪ Are we okay? ♪
+Dialogue: 0,0:01:14.29,0:01:15.27,Blitz,0,0,0,,♪ Heh. Can't really say. ♪
+Dialogue: 0,0:01:15.55,0:01:17.53,Blitz,0,0,0,,♪ I've been getting by by avoiding his questions. ♪
+Dialogue: 0,0:01:17.75,0:01:19.43,Blitz,0,0,0,,♪ So complicated, I hate when it's complicated. ♪
+Dialogue: 0,0:01:19.57,0:01:21.05,Blitz,0,0,0,,♪ Why do I always end up in situations ♪
+Dialogue: 0,0:01:21.06,0:01:21.71,Blitz,0,0,0,,♪ that are complicated? ♪
+Dialogue: 0,0:01:22.19,0:01:23.85,Blitz,0,0,0,,♪ Here I go again, getting in my head, ♪
+Dialogue: 0,0:01:23.95,0:01:25.71,Blitz,0,0,0,,♪ so I'll focus on the sexy stuff instead. ♪
+Dialogue: 0,0:01:25.73,0:01:27.25,StolasR,0,0,0,,♪ When I see him, ♪
+Dialogue: 0,0:01:26.88,0:01:30.07,BlitzL,0,0,0,,♪ When I see him I'm gonna do that thing he likes. ♪
+Dialogue: 0,0:01:30.27,0:01:32.25,StolasR,0,0,0,,♪ I will change things! ♪
+Dialogue: 0,0:01:31.17,0:01:32.63,BlitzL,0,0,0,,♪ No need to change things, ♪
+Dialogue: 0,0:01:32.69,0:01:34.45,BlitzL,0,0,0,,♪ I'll just bring the rope and spikes. ♪
+Dialogue: 0,0:01:34.46,0:01:35.00,StolasR,0,0,0,,♪ Oh God! ♪
+Dialogue: 0,0:01:34.95,0:01:36.69,BlitzL,0,0,0,,♪ We've got a nice arrangement, ♪
+Dialogue: 0,0:01:36.93,0:01:39.19,BlitzL,0,0,0,,♪ and it's working out just fine! ♪
+Dialogue: 0,0:01:39.27,0:01:40.21,BlitzL,0,0,0,,♪ We'll keep it light! ♪
+Dialogue: 0,0:01:40.39,0:01:43.05,StolasR,0,0,0,,♪ I'll fucking die alone if this goes bad ♪
+Dialogue: 0,0:01:43.06,0:01:44.81,BlitzL,0,0,0,,♪ When I see him tonight. ♪
+Dialogue: 0,0:01:43.06,0:01:44.81,StolasR,0,0,0,,♪ When I see him tonight. ♪
+Dialogue: 0,0:01:45.41,0:01:47.17,StolasR,0,0,0,,♪ Am I doing something I can't take back? ♪
+Dialogue: 0,0:01:47.29,0:01:48.15,BlitzL,0,0,0,,♪ Relax! ♪
+Dialogue: 0,0:01:47.95,0:01:49.69,StolasR,0,0,0,,♪ Would he want me if he was free? ♪
+Dialogue: 0,0:01:49.77,0:01:50.50,BlitzL,0,0,0,,♪ We're fine! ♪
+Dialogue: 0,0:01:50.41,0:01:52.39,StolasR,0,0,0,,♪ -and if he's only here as a prisoner, ♪
+Dialogue: 0,0:01:52.55,0:01:54.65,StolasR,0,0,0,,♪ what kind of monster does that make me? ♪
+Dialogue: 0,0:01:55.31,0:01:57.27,StolasR,0,0,0,,♪ My entire life's been written in stone. ♪
+Dialogue: 0,0:01:57.31,0:01:57.95,BlitzL,0,0,0,,♪ We're gonna bone! ♪
+Dialogue: 0,0:01:58.05,0:02:00.20,StolasR,0,0,0,,♪ He taught me that I could choose. ♪
+Dialogue: 0,0:01:59.65,0:02:00.30,BlitzL,0,0,0,,♪ It's cool! ♪
+Dialogue: 0,0:02:00.43,0:02:02.63,StolasR,0,0,0,,♪ He deserves the choice to stay or go, ♪
+Dialogue: 0,0:02:02.64,0:02:05.77,StolasR,0,0,0,,♪ though it scares me to think what I'd lose. ♪
+Dialogue: 0,0:02:06.07,0:02:08.77,BlitzL,0,0,0,,♪ Can't wait to lose ourselves in nasty sex ♪
+Dialogue: 0,0:02:08.78,0:02:10.29,BlitzL,0,0,0,,♪ and make that bird squawk! ♪
+Dialogue: 0,0:02:10.31,0:02:11.80,StolasR,0,0,0,,♪ We really must converse ♪
+Dialogue: 0,0:02:11.33,0:02:13.29,BlitzL,0,0,0,,♪ We'll just stick with what makes sense, ♪
+Dialogue: 0,0:02:13.47,0:02:14.61,BlitzL,0,0,0,,♪ like him sucking my- ♪
+Dialogue: 0,0:02:14.54,0:02:15.99,StolasR,0,0,0,,♪ God! this is the worst. ♪
+Dialogue: 0,0:02:16.21,0:02:17.55,StolasR,0,0,0,,♪ Waiting for the shoe to drop. ♪
+Dialogue: 0,0:02:17.75,0:02:20.03,BlitzL,0,0,0,,♪ Who needs words when you've got a mouth full of- ♪
+Dialogue: 0,0:02:20.04,0:02:21.00,StolasR,0,0,0,,♪ Come to your senses. ♪
+Dialogue: 0,0:02:20.79,0:02:22.41,BlitzL,0,0,0,,♪ Then I'll do that thing with my tongue where I- ♪
+Dialogue: 0,0:02:22.31,0:02:24.63,StolasR,0,0,0,,♪ -is worthy of your love and trust ♪
+Dialogue: 0,0:02:24.13,0:02:26.37,BlitzL,0,0,0,,♪ I'll leave his bird puss nice and rough! ♪
+Dialogue: 0,0:02:26.43,0:02:29.47,StolasR,0,0,0,,♪ Tonight cannot come soon- ♪
+Dialogue: 0,0:02:27.67,0:02:29.47,BlitzL,0,0,0,,♪ It'll be coming soon- ♪
+Dialogue: 0,0:02:29.48,0:02:30.33,BlitzL,0,0,0,,♪ -enough! ♪
+Dialogue: 0,0:02:29.48,0:02:30.33,StolasR,0,0,0,,♪ -enough! ♪
+Dialogue: 0,0:02:30.57,0:02:31.53,BlitzL,0,0,0,,♪ Oh yeah! ♪
+Dialogue: 0,0:02:32.34,0:02:34.13,Stolas,0,0,0,,♪ But when I see him, ♪
+Dialogue: 0,0:02:34.43,0:02:37.51,Stolas,0,0,0,,♪ will it be tender, or be tough? ♪
+Dialogue: 0,0:02:38.01,0:02:39.69,Stolas,0,0,0,,♪ Will it please him? ♪
+Dialogue: 0,0:02:39.97,0:02:43.91,Stolas,0,0,0,,♪ or will I just be fucking it all up? ♪
+Dialogue: 0,0:02:44.31,0:02:46.53,Stolas,0,0,0,,♪ Can this be a relationship, ♪
+Dialogue: 0,0:02:47.07,0:02:48.95,Stolas,0,0,0,,♪  or am I still naive? ♪
+Dialogue: 0,0:02:49.69,0:02:50.51,Stolas,0,0,0,,♪ I'll set us free. ♪
+Dialogue: 0,0:02:51.49,0:02:53.65,Stolas,0,0,0,,♪ Whatever it may be, ♪
+Dialogue: 0,0:02:54.31,0:02:55.87,Stolas,0,0,0,,♪ when I see him ♪
+Dialogue: 0,0:02:57.03,0:02:57.91,Stolas,0,0,0,,♪ tonight. ♪
+
+Dialogue: 0,0:03:06.56,0:03:07.50,Default,0,0,0,,My baby!
+Dialogue: 0,0:03:07.86,0:03:10.06,Default,0,0,0,,Someone save my baby!
+Dialogue: 0,0:03:14.68,0:03:16.14,Default,0,0,0,,Sure hope this glass doesn't break.
+Dialogue: 0,0:03:17.50,0:03:18.20,Default,0,0,0,,It broke!
+Dialogue: 0,0:03:29.20,0:03:30.95,Default,0,0,0,,Oh, thank you! Thank you!
+Dialogue: 0,0:03:31.22,0:03:33.64,Default,0,0,0,,How could I ever repay you?
+Dialogue: 0,0:03:33.80,0:03:34.86,Default,0,0,0,,No need, ma'am.
+Dialogue: 0,0:03:34.87,0:03:37.86,Default,0,0,0,,I was just in the right place at the right time.
+Dialogue: 0,0:03:44.63,0:03:46.25,Default,0,0,0,,Did you have to hug him so hard?
+Dialogue: 0,0:03:46.59,0:03:48.03,Default,0,0,0,,I'm at underwear level, you know
+Dialogue: 0,0:03:48.33,0:03:50.27,Default,0,0,0,,And that guy clearly hadn't showered today!
+Dialogue: 0,0:03:50.47,0:03:51.73,Default,0,0,0,,Oh, stop complaining. 
+Dialogue: 0,0:03:52.11,0:03:53.49,Default,0,0,0,,I had to sell it, didn't I?
+Dialogue: 0,0:03:53.91,0:03:54.65,Default,0,0,0,,How'd we do, Cletus?
+Dialogue: 0,0:03:56.47,0:03:57.19,Default,0,0,0,,Not great.
+Dialogue: 0,0:03:57.53,0:03:58.85,Default,0,0,0,,Let's set up for another run!
+Dialogue: 0,0:03:59.05,0:03:59.97,Default,0,0,0,,I don't know, Cletus.
+Dialogue: 0,0:04:00.27,0:04:02.07,Default,0,0,0,,Doesn't this all seem a little...
+Dialogue: 0,0:04:03.07,0:04:03.63,Default,0,0,0,,sinful?
+Dialogue: 0,0:04:04.01,0:04:05.49,Default,0,0,0,,We've been over this!
+Dialogue: 0,0:04:05.50,0:04:07.39,Default,0,0,0,,We are still helpin' people.
+Dialogue: 0,0:04:07.79,0:04:08.89,Default,0,0,0,,We just provided that man
+Dialogue: 0,0:04:08.90,0:04:11.97,Default,0,0,0,,with an opportunity to be selfless and heroic.
+Dialogue: 0,0:04:12.35,0:04:15.11,Default,0,0,0,,After {\i1}that{\i0} performance,\Nhe's sure to get into Heaven!
+Dialogue: 0,0:04:15.32,0:04:16.69,Default,0,0,0,,We just saved a soul!
+Dialogue: 0,0:04:16.85,0:04:18.91,Default,0,0,0,,Is... that how it works?
+Dialogue: 0,0:04:19.11,0:04:21.61,Default,0,0,0,,Don't you think eternal salvation is worth...
+Dialogue: 0,0:04:21.62,0:04:24.51,Default,0,0,0,,20 bucks and a Queesno sponge card?
+Dialogue: 0,0:04:24.71,0:04:26.35,Default,0,0,0,,I- I guess.
+Dialogue: 0,0:04:26.47,0:04:27.05,Default,0,0,0,,It's just...
+Dialogue: 0,0:04:27.06,0:04:28.07,Default,0,0,0,,You wanna eat, don't you?
+Dialogue: 0,0:04:28.51,0:04:30.07,Default,0,0,0,,You wanna live long enough to save
+Dialogue: 0,0:04:30.08,0:04:32.31,Default,0,0,0,,more souls and earn our way back into Heaven?
+Dialogue: 0,0:04:32.45,0:04:34.13,Default,0,0,0,,Of course! I just--
+Dialogue: 0,0:04:34.14,0:04:36.77,Default,0,0,0,,Well, then quiet your incessant winghing,
+Dialogue: 0,0:04:36.78,0:04:39.05,Default,0,0,0,,and get back under that coat!
+Dialogue: 0,0:04:39.37,0:04:40.05,Default,0,0,0,,We have to-
+Dialogue: 0,0:04:40.06,0:04:40.37,Default,0,0,0,,Whoa!
+Dialogue: 0,0:04:40.45,0:04:41.99,Default,0,0,0,,Whoaa...
+Dialogue: 0,0:04:42.99,0:04:43.11,Default,0,0,0,,Ahh!
+Dialogue: 0,0:04:47.75,0:04:49.31,Default,0,0,0,,Where are we?!
+Dialogue: 0,0:04:49.59,0:04:51.89,Default,0,0,0,,{\i1}We{\i0} ask the questions here,
+Dialogue: 0,0:04:52.67,0:04:53.49,Default,0,0,0,,{\i1}hellspawn.{\i0}
+Dialogue: 0,0:04:53.65,0:04:55.61,Default,0,0,0,,I'm just a little baby!
+Dialogue: 0,0:04:55.83,0:04:56.79,Default,0,0,0,,Why would you-
+Dialogue: 0,0:04:56.80,0:04:57.93,Default,0,0,0,,Drop the bullshit!
+Dialogue: 0,0:04:58.49,0:05:00.63,Default,0,0,0,,We know you're working for that demon filth!
+Dialogue: 0,0:05:00.77,0:05:02.13,Default,0,0,0,,Where's your boss?
+Dialogue: 0,0:05:02.43,0:05:03.19,Default,0,0,0,,What boss?
+Dialogue: 0,0:05:03.20,0:05:04.03,Default,0,0,0,,This guy!
+Dialogue: 0,0:05:05.99,0:05:07.19,Default,0,0,0,,You know that...
+Dialogue: 0,0:05:07.93,0:05:08.57,Default,0,0,0,,peanut head?
+Dialogue: 0,0:05:08.79,0:05:10.43,Default,0,0,0,,So that's his name...
+Dialogue: 0,0:05:10.77,0:05:14.87,Default,0,0,0,,You know, I think maybe\Nwe can help each other out here.
+Dialogue: 0,0:05:16.79,0:05:18.57,Default,0,0,0,,Hard shooting there, Mox,
+Dialogue: 0,0:05:18.73,0:05:20.15,Default,0,0,0,,pro as usual!
+Dialogue: 0,0:05:20.61,0:05:22.71,Default,0,0,0,,Millie, beautiful bloody mess in there.
+Dialogue: 0,0:05:23.07,0:05:23.63,Default,0,0,0,,Mwah!
+Dialogue: 0,0:05:24.07,0:05:26.27,Default,0,0,0,,What a great fuckin' day this is!
+Dialogue: 0,0:05:28.65,0:05:30.91,Default,0,0,0,,You sure seem in good spirits today, sir.
+Dialogue: 0,0:05:31.27,0:05:32.81,Default,0,0,0,,It's rare to see you wear something...
+Dialogue: 0,0:05:33.39,0:05:34.19,Default,0,0,0,,not bad.
+Dialogue: 0,0:05:34.41,0:05:35.15,Default,0,0,0,,Well, it's the--
+Dialogue: 0,0:05:35.16,0:05:35.91,Default,0,0,0,,first of all, fuck you.
+Dialogue: 0,0:05:36.03,0:05:36.91,Default,0,0,0,,It's the full moon,
+Dialogue: 0,0:05:37.07,0:05:38.39,Default,0,0,0,,I gotta meet up with Stolas tonight.
+Dialogue: 0,0:05:38.49,0:05:40.45,Default,0,0,0,,Felt like dressing up a little since it's been
+Dialogue: 0,0:05:40.46,0:05:42.75,Default,0,0,0,,a few months since I've been inside of his feathered ass.
+Dialogue: 0,0:05:42.81,0:05:44.01,Default,0,0,0,,A few months?!
+Dialogue: 0,0:05:44.19,0:05:46.53,Default,0,0,0,,Yeah, the bird started giving me more ways out
+Dialogue: 0,0:05:46.54,0:05:47.91,Default,0,0,0,,of our monthly fuck-sesh.
+Dialogue: 0,0:05:47.97,0:05:48.57,Default,0,0,0,,He'd be all like
+Dialogue: 0,0:05:48.89,0:05:51.25,Default,0,0,0,, "Oh, Blitzy, I know it's the Full Moon tonight,
+Dialogue: 0,0:05:51.37,0:05:53.81,Default,0,0,0,,but you don't have to come if you don't want to, Blitzy"
+Dialogue: 0,0:05:53.91,0:05:55.05,Default,0,0,0,,so I've just been taking breaks
+Dialogue: 0,0:05:55.06,0:05:58.41,Default,0,0,0,,from having to plow his feathered ass\Ninto his fancy ass mattress.
+Dialogue: 0,0:05:58.69,0:06:00.63,Default,0,0,0,,Ugh... TMI, sir.
+Dialogue: 0,0:06:00.85,0:06:01.37,Default,0,0,0,,Point being:
+Dialogue: 0,0:06:01.38,0:06:03.57,Default,0,0,0,,tonight I feel like I could use a little fuckery.
+Dialogue: 0,0:06:03.69,0:06:06.09,Default,0,0,0,,It's been a good day, feeling like my stamina's up.
+Dialogue: 0,0:06:06.39,0:06:07.19,Default,0,0,0,,And I'm horny.
+Dialogue: 0,0:06:07.81,0:06:08.25,Default,0,0,0,,Oh, shit.
+Dialogue: 0,0:06:08.43,0:06:09.35,Default,0,0,0,,He's getting bored of you.
+Dialogue: 0,0:06:09.47,0:06:10.17,Default,0,0,0,,Whaaaat?
+Dialogue: 0,0:06:10.43,0:06:10.91,Default,0,0,0,,Yeah, man.
+Dialogue: 0,0:06:11.17,0:06:12.85,Default,0,0,0,,If someone wants to see you less and less,
+Dialogue: 0,0:06:13.11,0:06:14.15,Default,0,0,0,,{\i1}big{\i0} red flag.
+Dialogue: 0,0:06:14.63,0:06:15.93,Default,0,0,0,,If they give you chances to ditch,
+Dialogue: 0,0:06:15.99,0:06:17.21,Default,0,0,0,,they probably want out themselves.
+Dialogue: 0,0:06:17.57,0:06:19.65,Default,0,0,0,,Just wanna be more passive aggressive about it.
+Dialogue: 0,0:06:20.09,0:06:20.53,Default,0,0,0,,Dicks.
+Dialogue: 0,0:06:21.23,0:06:22.81,Default,0,0,0,,How do you know... Loona?
+Dialogue: 0,0:06:27.27,0:06:30.49,Default,0,0,0,,{\i1}'Cause I do that all the time.{\i0}
+Dialogue: 0,0:06:30.63,0:06:31.59,Default,0,0,0,,Well, tits.
+Dialogue: 0,0:06:32.21,0:06:34.91,Default,0,0,0,,Guess I finally gotta do Position 37 tonight.
+Dialogue: 0,0:06:35.15,0:06:35.91,Default,0,0,0,,Don't worry though,
+Dialogue: 0,0:06:35.97,0:06:37.03,Default,0,0,0,,this book ain't going nowhere
+Dialogue: 0,0:06:37.04,0:06:38.53,Default,0,0,0,,if I have anything to fuck about it.
+Dialogue: 0,0:06:38.71,0:06:39.91,Default,0,0,0,,I'll dick him so good,
+Dialogue: 0,0:06:39.99,0:06:41.91,Default,0,0,0,,he'll let us keep this thing another year easy.
+Dialogue: 0,0:06:42.15,0:06:43.09,Default,0,0,0,,Well, I hope so, sir!
+Dialogue: 0,0:06:43.37,0:06:44.97,Default,0,0,0,,Business has actually hit a peak,
+Dialogue: 0,0:06:45.07,0:06:48.23,Default,0,0,0,,and it would be disastrous\Nto lose what we worked for now.
+Dialogue: 0,0:06:48.55,0:06:49.89,Default,0,0,0,,So, fuck him good, sir.
+Dialogue: 0,0:06:50.01,0:06:50.67,Default,0,0,0,,Don't worry, Mox.
+Dialogue: 0,0:06:50.71,0:06:51.33,Default,0,0,0,,By the end of the night,
+Dialogue: 0,0:06:51.37,0:06:53.29,Default,0,0,0,,I'll have Stolas eating out of my ass...
+Dialogue: 0,0:06:53.73,0:06:55.25,Default,0,0,0,,if the gag'll let him!
+Dialogue: 0,0:06:55.30,0:06:56.90,Default,0,0,0,,Eh? Eh?
+Dialogue: 0,0:06:58.81,0:07:00.21,Default,0,0,0,,{\i1}Stoooop..!{\i0}
+Dialogue: 0,0:07:01.89,0:07:02.95,Default,0,0,0,,Okay, grow up, Mox.
+Dialogue: 0,0:07:02.95,0:07:04.03,Default,0,0,0,,That's what adults do, we're horny.
+Dialogue: 0,0:07:05.59,0:07:07.89,Default,0,0,0,,Ffffuck me Moxxie.
+Dialogue: 0,0:07:07.91,0:07:09.43,Default,0,0,0,,We've used, like, all the shit in this box.
+Dialogue: 0,0:07:09.65,0:07:11.63,Default,0,0,0,,I- If Stolas is bored after {\i1}this{\i0}
+Dialogue: 0,0:07:12.29,0:07:13.35,Default,0,0,0,,I need to update any.
+Dialogue: 0,0:07:13.99,0:07:15.35,Default,0,0,0,,Moxxie, I need you to hold down the fort.
+Dialogue: 0,0:07:15.45,0:07:16.93,Default,0,0,0,,Get some overdue paperwork done.
+Dialogue: 0,0:07:17.49,0:07:18.89,Default,0,0,0,,What overdue paperwork?
+Dialogue: 0,0:07:23.53,0:07:27.13,Default,0,0,0,,So why would a bunch of\Nangels be looking for demons?
+Dialogue: 0,0:07:27.55,0:07:28.71,Default,0,0,0,,We just want to get back into-
+Dialogue: 0,0:07:28.72,0:07:29.77,Default,0,0,0,,We're Exorcists!
+Dialogue: 0,0:07:29.97,0:07:32.37,Default,0,0,0,,The flaming swords of the Heavens here
+Dialogue: 0,0:07:32.38,0:07:35.39,Default,0,0,0,,to strike them down with fiery vengeance.
+Dialogue: 0,0:07:35.51,0:07:36.55,Default,0,0,0,,Oh, yeah, yeah, yeah.
+Dialogue: 0,0:07:36.83,0:07:39.21,Default,0,0,0,,We lay in wait for them to return to Earth,
+Dialogue: 0,0:07:39.22,0:07:41.71,Default,0,0,0,,so we might smite them once and for all!
+Dialogue: 0,0:07:41.79,0:07:42.39,Default,0,0,0,,What are you guys talking
+Dialogue: 0,0:07:42.40,0:07:43.23,Default,0,0,0,,abooouu-OOWW?!
+Dialogue: 0,0:07:46.81,0:07:48.75,Default,0,0,0,,Maybe you don't have to wait.
+Dialogue: 0,0:07:49.03,0:07:50.13,Default,0,0,0,,Come with us.
+Dialogue: 0,0:08:06.03,0:08:08.25,Default,0,0,0,,Since their assault on Compound X,
+Dialogue: 0,0:08:08.35,0:08:10.63,Default,0,0,0,,our government has quadrupled our funding
+Dialogue: 0,0:08:10.64,0:08:12.65,Default,0,0,0,,and allowed us unfettered access to
+Dialogue: 0,0:08:12.66,0:08:15.81,Default,0,0,0,,the most bleeding edge military advancements.
+Dialogue: 0,0:08:16.09,0:08:17.89,Default,0,0,0,,Demonic containment cells,
+Dialogue: 0,0:08:18.49,0:08:20.55,Default,0,0,0,,Hellfire suppression suits,
+Dialogue: 0,0:08:21.07,0:08:23.01,Default,0,0,0,,camouflage exoskeletons
+Dialogue: 0,0:08:23.23,0:08:26.79,Default,0,0,0,,and a battalion of\Nhighly trained combat priests.
+Dialogue: 0,0:08:27.31,0:08:29.63,Default,0,0,0,,All so we could finally utilize...
+Dialogue: 0,0:08:30.17,0:08:30.80,Default,0,0,0,,this!
+Dialogue: 0,0:08:32.83,0:08:34.75,Default,0,0,0,,What is it?
+Dialogue: 0,0:08:35.45,0:08:38.31,Default,0,0,0,,Our ticket to the other side.
+Dialogue: 0,0:08:38.32,0:08:41.37,Default,0,0,0,,An extra-dimensional portal generator.
+Dialogue: 0,0:08:41.85,0:08:44.91,Default,0,0,0,,This bad boy will allow us\Nto open a door straight into Hell,
+Dialogue: 0,0:08:45.15,0:08:47.23,Default,0,0,0,,where we plan on eliminating the demonic threat
+Dialogue: 0,0:08:47.24,0:08:49.59,Default,0,0,0,,before they can tarnish this great country!
+Dialogue: 0,0:08:52.01,0:08:53.89,Default,0,0,0,,...Well uh, once we work out
+Dialogue: 0,0:08:53.90,0:08:54.59,Default,0,0,0,,all the kinks, yeah.
+Dialogue: 0,0:08:54.73,0:08:55.11,Default,0,0,0,,Kinks?
+Dialogue: 0,0:08:57.57,0:09:01.27,Default,0,0,0,,So far we've only been able\Nto open the portal about 2 feet in diameter.
+Dialogue: 0,0:09:01.73,0:09:03.49,Default,0,0,0,,Hardly big enough to fit a child through.
+Dialogue: 0,0:09:03.61,0:09:05.55,Default,0,0,0,,And we can't very well send children.
+Dialogue: 0,0:09:06.41,0:09:08.55,Default,0,0,0,,...Not after last time.
+Dialogue: 0,0:09:12.05,0:09:14.13,Default,0,0,0,,Those goddamn American heroes.
+Dialogue: 0,0:09:14.53,0:09:17.63,Default,0,0,0,,Honestly, we're not even sure\Nthat was Hell we sent them to.
+Dialogue: 0,0:09:18.11,0:09:18.97,Default,0,0,0,,Point is,
+Dialogue: 0,0:09:19.35,0:09:23.59,Default,0,0,0,, we could use someone or someones,\Nwith more experience.
+Dialogue: 0,0:09:24.15,0:09:25.37,Default,0,0,0,,How about it, little guys?
+Dialogue: 0,0:09:25.91,0:09:28.11,Left,0,0,0,,Wanna help us hunt\Nsome demon scum?
+Dialogue: 0,0:09:25.91,0:09:28.11,Right,0,0,0,,Wanna help us hunt\Nsome demon scum?
+Dialogue: 0,0:09:30.79,0:09:32.75,Left,0,0,0,,FUCK YEAH, HA HA!!!
+Dialogue: 0,0:09:30.79,0:09:32.75,Right,0,0,0,,FUCK YEAH, HA HA!!!
+Dialogue: 0,0:10:16.31,0:10:17.97,Default,0,0,0,,Welcome little one.
+Dialogue: 0,0:10:18.31,0:10:20.13,Default,0,0,0,,What can I interest you in today?
+Dialogue: 0,0:10:20.65,0:10:22.75,Default,0,0,0,,I'm looking for a snazzy candle.
+Dialogue: 0,0:10:22.97,0:10:24.59,Default,0,0,0,,One that screams sexy.
+Dialogue: 0,0:10:24.97,0:10:26.89,Default,0,0,0,,You got anything that will\Nget anyone in the mood, buddy?
+Dialogue: 0,0:10:27.23,0:10:28.67,Default,0,0,0,,Bitch you're in the Lust ring!
+Dialogue: 0,0:10:29.03,0:10:31.31,Default,0,0,0,,Everything here has {\i1}sexy{\i0} energy.
+Dialogue: 0,0:10:31.62,0:10:33.63,Default,0,0,0,,But what kind of mood are you aiming for?
+Dialogue: 0,0:10:33.75,0:10:35.17,Default,0,0,0,,Just... horny?
+Dialogue: 0,0:10:35.37,0:10:37.47,Default,0,0,0,,H-gre-v-ver- very horny.
+Dialogue: 0,0:10:37.79,0:10:38.39,Default,0,0,0,,Max horny.
+Dialogue: 0,0:10:38.47,0:10:39.41,Default,0,0,0,,They're all horny!
+Dialogue: 0,0:10:39.73,0:10:40.61,Default,0,0,0,,What's the mood?
+Dialogue: 0,0:10:40.81,0:10:41.59,Default,0,0,0,,I don't know!
+Dialogue: 0,0:10:41.79,0:10:43.17,Default,0,0,0,,I'm a simple pervert imp.
+Dialogue: 0,0:10:43.23,0:10:45.25,Default,0,0,0,,I just need something fucky.
+Dialogue: 0,0:10:48.19,0:10:49.77,Default,0,0,0,,Ooooh! There he is!
+Dialogue: 0,0:10:49.83,0:10:50.97,Default,0,0,0,,Let's take him.
+Dialogue: 0,0:10:51.15,0:10:51.63,Default,0,0,0,,Hold on!
+Dialogue: 0,0:10:52.01,0:10:52.97,Default,0,0,0,,Where's the rest of them?
+Dialogue: 0,0:10:53.37,0:10:54.65,Default,0,0,0,,He wasn't alone before.
+Dialogue: 0,0:10:54.95,0:10:56.61,Default,0,0,0,,I say we follow him for a bit.
+Dialogue: 0,0:10:56.93,0:10:59.41,Default,0,0,0,,Make {\i1}suure{\i0} he's by himself!
+Dialogue: 0,0:10:59.41,0:11:00.79,Default,0,0,0,,Cletus, if we don't do this,
+Dialogue: 0,0:11:00.85,0:11:02.25,Default,0,0,0,,we're {\i1}never{\i0} getting back into Heaven.
+Dialogue: 0,0:11:02.47,0:11:04.63,Default,0,0,0,,Which is why we have to make sure
+Dialogue: 0,0:11:04.64,0:11:06.99,Default,0,0,0,,this goes smoooothly.
+Dialogue: 0,0:11:07.17,0:11:08.75,Default,0,0,0,,We have only one shot!
+Dialogue: 0,0:11:08.97,0:11:10.37,Default,0,0,0,,It has to be perfect.
+Dialogue: 0,0:11:16.04,0:11:18.14,Default,0,0,0,,Do you know the measurements of the other one?
+Dialogue: 0,0:11:18.30,0:11:19.78,Default,0,0,0,,Not really, but he's tall as shit.
+Dialogue: 0,0:11:19.88,0:11:22.26,Default,0,0,0,,Well, we have some pretty long harnesses.
+Dialogue: 0,0:11:23.02,0:11:25.94,Default,0,0,0,,Also, can't go wrong with\Nsomething that's stretches.
+Dialogue: 0,0:11:26.36,0:11:27.98,Default,0,0,0,,Ooh, that is fancy.
+Dialogue: 0,0:11:28.24,0:11:29.46,Default,0,0,0,,Alright, I'm into it.
+Dialogue: 0,0:11:31.86,0:11:34.30,Default,0,0,0,,Sweet Heavens, what kind of store is this?
+Dialogue: 0,0:11:34.50,0:11:36.38,Default,0,0,0,,This guy {\i1}truly{\i0} is
+Dialogue: 0,0:11:36.39,0:11:37.04,Default,0,0,0,,a sicko!
+Dialogue: 0,0:11:37.74,0:11:39.32,Default,0,0,0,,Can I help you all?
+Dialogue: 0,0:11:41.36,0:11:43.84,Default,0,0,0,,Hello, fellow vile hellbeast!
+Dialogue: 0,0:11:43.88,0:11:46.68,Default,0,0,0,,We are on a totally normal demon day!
+Dialogue: 0,0:11:46.96,0:11:49.74,Default,0,0,0,,Just out lookin' to\Nget some good tormenting in!
+Dialogue: 0,0:11:50.02,0:11:51.28,Default,0,0,0,,We need some good tor...
+Dialogue: 0,0:11:54.36,0:11:55.48,Default,0,0,0,,...torture. supplies.
+Dialogue: 0,0:11:55.78,0:11:57.70,Default,0,0,0,,Well, you have come to the right place,
+Dialogue: 0,0:11:57.78,0:11:59.58,Default,0,0,0,,my slily robotic looking friend.
+Dialogue: 0,0:11:59.59,0:12:02.10,Default,0,0,0,,What kind of torturing are we looking to do?
+Dialogue: 0,0:12:02.60,0:12:04.78,Default,0,0,0,,Oh! You know, just your standard...
+Dialogue: 0,0:12:04.89,0:12:05.70,Default,0,0,0,,...pain.
+Dialogue: 0,0:12:05.90,0:12:07.68,Default,0,0,0,,As long as it doesn't hurt too much.
+Dialogue: 0,0:12:08.00,0:12:10.42,Default,0,0,0,,Like, do you have any\Nharshly worded bumper stickers?
+Dialogue: 0,0:12:11.76,0:12:12.44,Default,0,0,0,,Uuugh...
+Dialogue: 0,0:12:12.45,0:12:14.24,Default,0,0,0,,Or something for a mild... spanking?
+Dialogue: 0,0:12:14.74,0:12:16.16,Default,0,0,0,,Oh! That, we have in spades.
+Dialogue: 0,0:12:16.20,0:12:22.80,Default,0,0,0,,We got your flops, your crops, your whips, your whisks,\Nsudden, un-sudden, wooden, leather, titanium, brimstone,\Nwhat are you intoooo??
+Dialogue: 0,0:12:24.64,0:12:28.02,Default,0,0,0,,I don't know if that's\N{\i1}exactly{\i0} what we're looking for...
+Dialogue: 0,0:12:28.03,0:12:32.08,Default,0,0,0,,What was that {\i1}ooother{\i0} horrid hellspawn looking at?
+Dialogue: 0,0:12:32.24,0:12:33.46,Default,0,0,0,,Oh! Just some of those.
+Dialogue: 0,0:12:40.48,0:12:44.34,Default,0,0,0,,Cletus! He's clearly on his way\Nto claim another innocent, earthty soul,
+Dialogue: 0,0:12:44.34,0:12:46.08,Default,0,0,0,,in some sick, barbaric fashion!
+Dialogue: 0,0:12:46.22,0:12:47.54,Default,0,0,0,,We have to stop him!
+Dialogue: 0,0:12:47.58,0:12:48.12,Default,0,0,0,,Not yet!
+Dialogue: 0,0:12:48.44,0:12:50.08,Default,0,0,0,,We have to wait...
+Dialogue: 0,0:12:50.09,0:12:51.50,Default,0,0,0,,for our moment.
+Dialogue: 0,0:12:52.94,0:12:54.72,Default,0,0,0,,You know, thanks for doing this solid Fizz.
+Dialogue: 0,0:12:54.82,0:12:56.16,Default,0,0,0,,I gotta get the good shit for tonight,
+Dialogue: 0,0:12:56.17,0:12:58.00,Default,0,0,0,,and I know you and Ozz make the best toys in town!
+Dialogue: 0,0:12:58.10,0:12:58.88,Default,0,0,0,,I got you buddy.
+Dialogue: 0,0:12:59.16,0:13:00.36,Default,0,0,0,,We have some new prototypes, 
+Dialogue: 0,0:13:00.60,0:13:02.06,Default,0,0,0,,that I think will get the job done
+Dialogue: 0,0:13:02.07,0:13:03.84,Default,0,0,0,,for a fancy gentleman like yourself.
+Dialogue: 0,0:13:16.43,0:13:18.97,Default,0,0,0,,Now, we have got these new beads.
+Dialogue: 0,0:13:19.17,0:13:19.53,Default,0,0,0,,Ooh!
+Dialogue: 0,0:13:19.89,0:13:21.53,Default,0,0,0,,They're made of real obsidian.
+Dialogue: 0,0:13:21.85,0:13:22.51,Default,0,0,0,,That's beautiful,
+Dialogue: 0,0:13:22.63,0:13:24.65,Default,0,0,0,,but you know, Stolas never\Nreally seamed into the beaaads.
+Dialogue: 0,0:13:25.07,0:13:26.52,Default,0,0,0,,Oh, righty, not into the beads.
+Dialogue: 0,0:13:26.55,0:13:26.97,Default,0,0,0,,I get it.
+Dialogue: 0,0:13:27.33,0:13:27.99,Default,0,0,0,,Fancier then.
+Dialogue: 0,0:13:28.00,0:13:30.39,Default,0,0,0,,We have some stylish blindfolds!
+Dialogue: 0,0:13:30.69,0:13:33.21,Default,0,0,0,,Our new collection has encrusted {\i1}jewels{\i0}.
+Dialogue: 0,0:13:33.67,0:13:36.27,Default,0,0,0,,Oh shit! Those are niiice.
+Dialogue: 0,0:13:36.69,0:13:39.07,Default,0,0,0,,And if you're feeling, really frisky,
+Dialogue: 0,0:13:39.45,0:13:40.77,Default,0,0,0,,we have, the new
+Dialogue: 0,0:13:40.83,0:13:45.41,Default,0,0,0,,Dragon Driller 5000, now with vibrations!
+Dialogue: 0,0:13:48.33,0:13:50.43,Default,0,0,0,,There we go! That's his speed.
+Dialogue: 0,0:13:50.49,0:13:51.79,Default,0,0,0,,I will take that.
+Dialogue: 0,0:13:56.43,0:13:56.99,Default,0,0,0,,Heavens.
+Dialogue: 0,0:13:57.11,0:13:58.85,Default,0,0,0,,What is this place?
+Dialogue: 0,0:13:59.23,0:14:00.87,Default,0,0,0,,It's so heavily guarded!
+Dialogue: 0,0:14:01.07,0:14:03.25,Default,0,0,0,,Um, armory? War room?
+Dialogue: 0,0:14:03.57,0:14:03.95,Default,0,0,0,,Quiet!
+Dialogue: 0,0:14:04.33,0:14:07.67,Default,0,0,0,,Don't you realize stealth\Nis our greaaatest advantage here?
+Dialogue: 0,0:14:08.15,0:14:09.89,Default,0,0,0,,Oh darling look. Voyeurs.
+Dialogue: 0,0:14:10.63,0:14:12.49,Default,0,0,0,,Positively adooorable, darling.
+Dialogue: 0,0:14:14.99,0:14:16.17,Default,0,0,0,,I think he's coming a-
+Dialogue: 0,0:14:16.25,0:14:17.57,Default,0,0,0,,Oh God! What's that?!
+Dialogue: 0,0:14:19.25,0:14:20.97,Default,0,0,0,,Dear Gooood.
+Dialogue: 0,0:14:21.17,0:14:22.35,Default,0,0,0,,He's gonna use THAT?!
+Dialogue: 0,0:14:22.65,0:14:24.73,Default,0,0,0,,On an innocent PERSON?!!
+Dialogue: 0,0:14:25.15,0:14:26.77,Default,0,0,0,,We have to stop him, NOW!!
+Dialogue: 0,0:14:26.95,0:14:27.37,Default,0,0,0,,You're right!
+Dialogue: 0,0:14:27.63,0:14:28.79,Default,0,0,0,,Okay, guys, it's time.
+Dialogue: 0,0:14:29.15,0:14:30.25,Default,0,0,0,,Now's our moment.
+Dialogue: 0,0:14:30.61,0:14:33.81,Default,0,0,0,,Remember everything that horny\Nlittle fudge knuckle did to us,
+Dialogue: 0,0:14:33.82,0:14:34.69,Default,0,0,0,,because now,
+Dialogue: 0,0:14:35.20,0:14:36.45,Default,0,0,0,,we make him pay!
+Dialogue: 0,0:14:36.46,0:14:37.67,Default,0,0,0,,For the humans,
+Dialogue: 0,0:14:37.99,0:14:38.81,Default,0,0,0,,for the Heavens,
+Dialogue: 0,0:14:39.01,0:14:40.75,Default,0,0,0,,AND MOST OF ALL FOR US!
+Dialogue: 0,0:14:41.13,0:14:42.89,Default,0,0,0,,LET'S GO KICK SOME ASS!!
+Dialogue: 0,0:14:43.23,0:14:44.71,Default,0,0,0,,LET'S FUCK HIM UP!
+Dialogue: 0,0:14:48.10,0:14:48.73,Default,0,0,0,,What?
+Dialogue: 0,0:14:49.03,0:14:49.89,Default,0,0,0,,How did you find-OW!
+Dialogue: 0,0:14:50.39,0:14:51.15,Default,0,0,0,,Find ya?
+Dialogue: 0,0:14:51.35,0:14:53.37,Default,0,0,0,,We were already following our dumbass boss
+Dialogue: 0,0:14:53.38,0:14:55.63,Default,0,0,0,,to make sure he doesn't\Nfuck up and lose our meal ticket.
+Dialogue: 0,0:14:57.71,0:14:59.87,Default,0,0,0,,And, you weren't exactly covert.
+Dialogue: 0,0:15:00.75,0:15:02.65,Default,0,0,0,,You got a lot of nerve\Ncoming to our neighborhood
+Dialogue: 0,0:15:02.66,0:15:04.79,Default,0,0,0,,after the ass-kicking you took last time.
+Dialogue: 0,0:15:05.25,0:15:06.15,Default,0,0,0,,A lot of nerve,
+Dialogue: 0,0:15:06.16,0:15:09.17,Default,0,0,0,,and a looot of upgrades, mutt!
+Dialogue: 0,0:15:16.27,0:15:16.87,Default,0,0,0,,The boss!
+Dialogue: 0,0:15:17.35,0:15:19.29,Default,0,0,0,,GET. THEIR. BOOOOSS!!
+Dialogue: 0,0:15:22.50,0:15:23.73,Default,0,0,0,,No you don't, bitch!
+Dialogue: 0,0:15:27.73,0:15:29.25,Default,0,0,0,,Hey! Wake up asshole!
+Dialogue: 0,0:15:46.13,0:15:47.05,Default,0,0,0,,Sorry, hon.
+Dialogue: 0,0:15:47.13,0:15:48.31,Default,0,0,0,,You can play as me,
+Dialogue: 0,0:15:48.32,0:15:50.79,Default,0,0,0,,but that don't mean you're anywhere {\i1}close{\i0}!
+Dialogue: 0,0:15:57.50,0:15:58.50,Default,0,0,0,,AAH!
+Dialogue: 0,0:16:01.89,0:16:02.59,Default,0,0,0,,Mox!
+Dialogue: 0,0:16:08.35,0:16:10.17,Default,0,0,0,,Welcome to hell, {\i1}bitch{\i0}!
+Dialogue: 0,0:16:38.30,0:16:43.30,Default,0,0,0,,AAAAHH!!
+Dialogue: 0,0:16:51.20,0:16:54.60,Default,0,0,0,,AAAAHH!!
+Dialogue: 0,0:17:11.71,0:17:12.89,Default,0,0,0,,Sooo,
+Dialogue: 0,0:17:13.01,0:17:14.17,Default,0,0,0,,how'd it go?
+Dialogue: 0,0:17:27.96,0:17:29.56,Default,0,0,0,,Hidey-ha-hoo-ha Stolas.
+Dialogue: 0,0:17:31.94,0:17:33.36,Default,0,0,0,,Guess what I got for us.
+Dialogue: 0,0:17:33.70,0:17:35.06,Default,0,0,0,,I got lots of fuun
+Dialogue: 0,0:17:35.07,0:17:37.42,Default,0,0,0,,shit for us to play with!
+Dialogue: 0,0:17:37.43,0:17:38.00,Default,0,0,0,,Tonight.
+Dialogue: 0,0:17:38.46,0:17:41.28,Default,0,0,0,,Like this extra-large candle
+Dialogue: 0,0:17:41.29,0:17:43.16,Default,0,0,0,,that smells like...
+Dialogue: 0,0:17:44.30,0:17:45.18,Default,0,0,0,,Horny!
+Dialogue: 0,0:17:45.78,0:17:46.26,Default,0,0,0,,I got...
+Dialogue: 0,0:17:46.72,0:17:50.04,Default,0,0,0,,I got what-whatever uh this- little guy is,
+Dialogue: 0,0:17:50.22,0:17:53.00,Default,0,0,0,,but I'm sure there's some place\Nin your cloaca we can stick it!
+Dialogue: 0,0:17:53.42,0:17:56.12,Default,0,0,0,,Aaand, look at thiiis bad boy!
+Dialogue: 0,0:18:03.54,0:18:04.55,Default,0,0,0,,Do you... Um.
+Dialogue: 0,0:18:05.94,0:18:07.00,Default,0,0,0,,Do you have my book, Blitzø?
+Dialogue: 0,0:18:08.36,0:18:09.56,Default,0,0,0,,Yeah! Uh... yeah
+Dialogue: 0,0:18:09.80,0:18:11.20,Default,0,0,0,,Yeah it's, it's right here.
+Dialogue: 0,0:18:11.24,0:18:12.72,Default,0,0,0,,I always bring it. Why do you...
+Dialogue: 0,0:18:12.72,0:18:13.80,Default,0,0,0,,I... need it back.
+Dialogue: 0,0:18:15.14,0:18:15.90,Default,0,0,0,,Permanently.
+Dialogue: 0,0:18:16.04,0:18:16.38,Default,0,0,0,,No, no no no.
+Dialogue: 0,0:18:16.45,0:18:17.52,Default,0,0,0,,Ho- Hold on, Stolas.
+Dialogue: 0,0:18:17.70,0:18:18.16,Default,0,0,0,,Come on.
+Dialogue: 0,0:18:18.48,0:18:21.18,Default,0,0,0,,Is this because I've taken up\Nskipping a few rounds with you in bed,
+Dialogue: 0,0:18:21.19,0:18:22.32,Default,0,0,0,,because {\i1}I'm{\i0} busy?
+Dialogue: 0,0:18:22.70,0:18:23.60,Default,0,0,0,,That ain't fair.
+Dialogue: 0,0:18:23.94,0:18:26.22,Default,0,0,0,,I-I- I can still hold up my end of the bargain!
+Dialogue: 0,0:18:26.42,0:18:28.60,Default,0,0,0,,Alright, le-let me show you a good time tonight.
+Dialogue: 0,0:18:28.82,0:18:29.74,Default,0,0,0,,You know I caaan.
+Dialogue: 0,0:18:30.10,0:18:32.38,Default,0,0,0,,Please, don't say it like that Blitzø!
+Dialogue: 0,0:18:32.58,0:18:34.02,Default,0,0,0,,Come ooon, bitch!
+Dialogue: 0,0:18:34.38,0:18:37.20,Default,0,0,0,,You {\i1}know{\i0} I don't disappoint...
+Dialogue: 0,0:18:37.36,0:18:38.22,Default,0,0,0,,No no, no, no.
+Dialogue: 0,0:18:38.42,0:18:39.22,Default,0,0,0,,There's no need!
+Dialogue: 0,0:18:39.72,0:18:40.78,Default,0,0,0,,...I've made up my mind!
+Dialogue: 0,0:18:41.04,0:18:41.72,Default,0,0,0,,Stolas! Please! Don't-
+Dialogue: 0,0:18:41.73,0:18:43.20,Default,0,0,0,,I- I {\i1}need{\i0} this book.
+Dialogue: 0,0:18:43.34,0:18:43.75,Default,0,0,0,,Please!
+Dialogue: 0,0:18:44.80,0:18:46.30,Default,0,0,0,,I need this book Stolas.
+Dialogue: 0,0:18:47.34,0:18:48.24,Default,0,0,0,,I will do anything.
+Dialogue: 0,0:18:50.40,0:18:53.50,Default,0,0,0,,This, is an Asmodean crystal.
+Dialogue: 0,0:18:53.82,0:18:55.56,Default,0,0,0,,It's registered in your name..!
+Dialogue: 0,0:18:55.72,0:18:56.40,Default,0,0,0,,A what...?
+Dialogue: 0,0:18:56.78,0:19:00.30,Default,0,0,0,,Asmodeus has his demons legally\Ntravel to Earth for work all the time!
+Dialogue: 0,0:19:00.86,0:19:02.40,Default,0,0,0,,I made the case for you to own one.
+Dialogue: 0,0:19:02.84,0:19:05.28,Default,0,0,0,,You will be technically under {\i1}his{\i0} jurisdiction,
+Dialogue: 0,0:19:05.62,0:19:08.92,Default,0,0,0,,but, you will be able to go\Nanywhere you want in the human realm,
+Dialogue: 0,0:19:08.93,0:19:10.54,Default,0,0,0,,without fear of consequence.
+Dialogue: 0,0:19:11.72,0:19:13.58,Default,0,0,0,,Without breaking demon law...
+Dialogue: 0,0:19:14.42,0:19:17.04,Default,0,0,0,,You no longer need my grimoire.
+Dialogue: 0,0:19:17.34,0:19:18.30,Default,0,0,0,,Whaaat?
+Dialogue: 0,0:19:18.52,0:19:19.14,Default,0,0,0,,You...
+Dialogue: 0,0:19:19.86,0:19:22.66,Default,0,0,0,,no longer have any obligation to see me,
+Dialogue: 0,0:19:22.78,0:19:23.72,Default,0,0,0,,to touch me,
+Dialogue: 0,0:19:24.28,0:19:25.90,Default,0,0,0,,to bed me, you are...
+Dialogue: 0,0:19:26.25,0:19:27.18,Default,0,0,0,,You are free of me...!
+Dialogue: 0,0:19:27.28,0:19:28.98,Default,0,0,0,,I- don't understand.
+Dialogue: 0,0:19:29.08,0:19:30.58,Default,0,0,0,,{\i1}Why{\i0} are you giving me this?
+Dialogue: 0,0:19:30.74,0:19:32.80,Default,0,0,0,,Am I not...like, fucking you good enough?
+Dialogue: 0,0:19:32.86,0:19:33.80,Default,0,0,0,,Because I-I can always...
+Dialogue: 0,0:19:33.81,0:19:34.98,Default,0,0,0,,I can always do better.
+Dialogue: 0,0:19:35.08,0:19:37.58,Default,0,0,0,,Blitzø, I'm giving you this because,
+Dialogue: 0,0:19:37.99,0:19:38.86,Default,0,0,0,,I care...
+Dialogue: 0,0:19:39.67,0:19:41.02,Default,0,0,0,,very deeply for you.
+Dialogue: 0,0:19:41.70,0:19:43.04,Default,0,0,0,,And I have for some time.
+Dialogue: 0,0:19:44.10,0:19:46.76,Default,0,0,0,,But, this transactional thing we have, 
+Dialogue: 0,0:19:47.10,0:19:48.42,Default,0,0,0,,it's not {\i1}right{\i0} anymore.
+Dialogue: 0,0:19:48.54,0:19:49.10,Default,0,0,0,,It hasn't been!
+Dialogue: 0,0:19:49.92,0:19:50.82,Default,0,0,0,,It never was...!
+Dialogue: 0,0:19:51.06,0:19:51.55,Default,0,0,0,,And now,
+Dialogue: 0,0:19:51.89,0:19:53.46,Default,0,0,0,,all I can see is how wrong it is
+Dialogue: 0,0:19:53.47,0:19:55.52,Default,0,0,0,,to be so... tethered to someone,
+Dialogue: 0,0:19:55.63,0:19:57.16,Default,0,0,0,,in such an unfair way.
+Dialogue: 0,0:19:58.27,0:20:00.74,Default,0,0,0,,And, not know how {\i1}they{\i0} feel...
+Dialogue: 0,0:20:01.96,0:20:04.83,Default,0,0,0,,But, I want you, to continue to...
+Dialogue: 0,0:20:05.30,0:20:06.16,Default,0,0,0,,be who you are.
+Dialogue: 0,0:20:06.76,0:20:07.58,Default,0,0,0,,Your business!
+Dialogue: 0,0:20:09.38,0:20:10.88,Default,0,0,0,,You don't have to stay here with me.
+Dialogue: 0,0:20:13.48,0:20:13.90,Default,0,0,0,,But,
+Dialogue: 0,0:20:14.20,0:20:14.98,Default,0,0,0,,I want you to.
+Dialogue: 0,0:20:17.62,0:20:19.28,Default,0,0,0,,I want you to stay here with me,
+Dialogue: 0,0:20:20.24,0:20:21.15,Default,0,0,0,,because you want to.
+Dialogue: 0,0:20:22.63,0:20:24.24,Default,0,0,0,,Only, if you want to.
+Dialogue: 0,0:20:25.56,0:20:27.20,Default,0,0,0,,Ooookay, all right.
+Dialogue: 0,0:20:27.26,0:20:28.42,Default,0,0,0,,You're fucking with me.
+Dialogue: 0,0:20:28.68,0:20:30.16,Default,0,0,0,,This is an interesting roleplay,
+Dialogue: 0,0:20:30.18,0:20:31.68,Default,0,0,0,,never done this one, but I can get into it.
+Dialogue: 0,0:20:31.74,0:20:32.30,Default,0,0,0,,Alright, how's this, okay...
+Dialogue: 0,0:20:32.72,0:20:33.50,Default,0,0,0,,"Oh, Stolas."
+Dialogue: 0,0:20:33.94,0:20:35.00,Default,0,0,0,,"I'll stay with you."
+Dialogue: 0,0:20:35.01,0:20:37.31,Default,0,0,0,,"I love you soo much. I-"
+Dialogue: 0,0:20:37.32,0:20:37.92,Default,0,0,0,,Thank you Blitzø.
+Dialogue: 0,0:20:40.08,0:20:41.50,Default,0,0,0,,For... awakening me...
+Dialogue: 0,0:20:43.16,0:20:45.34,Default,0,0,0,,For making so happy.
+Dialogue: 0,0:20:46.32,0:20:47.82,Default,0,0,0,,Even if only for a little while.
+Dialogue: 0,0:20:50.79,0:20:51.93,Default,0,0,0,,I wish you the best with your business.
+Dialogue: 0,0:20:52.11,0:20:52.55,Default,0,0,0,,Wait, what?
+Dialogue: 0,0:20:53.25,0:20:54.21,Default,0,0,0,,You were {\i1}serious{\i0}?
+Dialogue: 0,0:20:55.00,0:20:56.37,Default,0,0,0,,Oh, hold on now, Stolas.
+Dialogue: 0,0:20:56.63,0:20:57.33,Default,0,0,0,,What the fuck?
+Dialogue: 0,0:20:57.41,0:20:58.81,Default,0,0,0,,I have my answer, Blitzø.
+Dialogue: 0,0:20:59.99,0:21:01.09,Default,0,0,0,,You needn't say anything.
+Dialogue: 0,0:21:02.23,0:21:04.45,Default,0,0,0,,I have wanted you for {\i1}so{\i0} long,
+Dialogue: 0,0:21:04.76,0:21:07.77,Default,0,0,0,,the fact that you couldn't believe\Nthat I might have these feelings about you,
+Dialogue: 0,0:21:07.97,0:21:11.45,Default,0,0,0,,that your first instinct is that it's always...
+Dialogue: 0,0:21:11.86,0:21:12.63,Default,0,0,0,,about sex.
+Dialogue: 0,0:21:14.67,0:21:16.43,Default,0,0,0,,That's enough to know what this is.
+Dialogue: 0,0:21:16.61,0:21:16.99,Default,0,0,0,,What?!
+Dialogue: 0,0:21:17.43,0:21:18.69,Default,0,0,0,,FUCK you, Stolas!
+Dialogue: 0,0:21:18.85,0:21:21.31,Default,0,0,0,,You spring this feelings bullshit on me,
+Dialogue: 0,0:21:21.35,0:21:22.75,Default,0,0,0,,are you fucking kidding??
+Dialogue: 0,0:21:23.51,0:21:26.43,Default,0,0,0,,Can I get a FUCKING minute to think
+Dialogue: 0,0:21:26.44,0:21:28.83,Default,0,0,0,,after everything you put me through,
+Dialogue: 0,0:21:28.95,0:21:29.81,Default,0,0,0,,you pompous,
+Dialogue: 0,0:21:29.99,0:21:30.61,Default,0,0,0,,rich
+Dialogue: 0,0:21:30.62,0:21:32.00,Default,0,0,0,,{\i1}{\u1}ASSHOLE{\i0}{\u0}?!
+Dialogue: 0,0:21:32.67,0:21:35.55,Default,0,0,0,,Treat me like one of your little butler imps?
+Dialogue: 0,0:21:35.63,0:21:37.57,Default,0,0,0,,You can't just dismiss me like that.
+Dialogue: 0,0:21:37.79,0:21:38.07,Default,0,0,0,,I mean,
+Dialogue: 0,0:21:38.19,0:21:41.71,Default,0,0,0,,you royal fucks think\Nyou can do this EVERY TIME.
+Dialogue: 0,0:21:41.79,0:21:43.39,Default,0,0,0,, Like you can just play with our feelings
+Dialogue: 0,0:21:43.40,0:21:44.55,Default,0,0,0,,because we're smaller,
+Dialogue: 0,0:21:44.56,0:21:45.87,Default,0,0,0,,and not as IMPORTANT!
+Dialogue: 0,0:21:46.41,0:21:46.86,Default,0,0,0,,Well,
+Dialogue: 0,0:21:46.87,0:21:48.85,Default,0,0,0,,I'm not letting you, BITCH.
+Dialogue: 0,0:21:49.29,0:21:50.90,Default,0,0,0,,{\i1}{\u1}LET'S GOOO{\i0}{\u0}.
+Dialogue: 0,0:21:56.08,0:21:56.94,Default,0,0,0,,Blitzø...
+Dialogue: 0,0:21:57.15,0:21:59.48,Default,0,0,0,,I think so very highly of you.
+Dialogue: 0,0:22:01.34,0:22:03.34,Default,0,0,0,,I didn't realize you think so low of me...!
+Dialogue: 0,0:22:05.52,0:22:06.70,Default,0,0,0,,Goodbye, Blitzø.
+Dialogue: 0,0:22:07.72,0:22:08.36,Default,0,0,0,,Stolas, wait!!
+Dialogue: 0,0:22:08.53,0:22:09.10,Default,0,0,0,,I'm s-
+Dialogue: 0,0:22:11.07,0:22:12.12,Default,0,0,0,,What...
+Dialogue: 0,0:22:12.70,0:22:14.40,Default,0,0,0,,the...
+Dialogue: 0,0:22:14.41,0:22:16.80,Default,0,0,0,,{\i1}{\u1}FUUUUUUUUCK{\i0}{\u0}?!
