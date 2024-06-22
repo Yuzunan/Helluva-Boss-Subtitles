@@ -1,0 +1,203 @@
+[Script Info]
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+
+[Yuzunan Project Garbage]
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 0.625000
+Scroll Position: 374
+Active Line: 376
+Video Position: 32782
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Top,Arial,50,&H00FFFFFF,&H000000FF,&H00472A27,&H00000000,-1,0,0,0,100,100,0,0,1,4,2,8,10,10,10,1
+Style: Default,Arial,50,&H00FFFFFF,&H000000FF,&H00472A27,&H00000000,-1,0,0,0,100,100,0,0,1,4,2,2,10,10,10,1
+Style: Left,Arial,50,&H00FFFFFF,&H000000FF,&H00472A27,&H00000000,-1,0,0,0,100,100,0,0,1,4,2,1,10,10,10,1
+Style: Right,Arial,50,&H00FFFFFF,&H000000FF,&H00472A27,&H00000000,-1,0,0,0,100,100,0,0,1,4,2,3,10,10,10,1
+Style: StolasUp,Arial,50,&H00585FD3,&H000000FF,&H00813D3D,&H00000000,-1,0,0,0,100,100,0,0,1,4,2,8,10,10,10,1
+Style: Stolas,Arial,50,&H00585FD3,&H000000FF,&H00813D3D,&H00000000,-1,0,0,0,100,100,0,0,1,4,2,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:13.00,0:00:15.00,Default,0,0,0,,Heeeello, hello, hello Stolas.
+Dialogue: 0,0:00:15.21,0:00:17.00,Default,0,0,0,,You have- AH!
+Dialogue: 0,0:00:17.01,0:00:20.04,Default,0,0,0,,You haven't been answering my texts,\Nand I sent you a bunch of funny shit.
+Dialogue: 0,0:00:20.05,0:00:20.90,Default,0,0,0,,So what gives?
+Dialogue: 0,0:00:20.95,0:00:24.00,Default,0,0,0,,I was hoping my lack of "ha ha’s"\Nin response to the photos you sent
+Dialogue: 0,0:00:24.05,0:00:26.44,Default,0,0,0,,would be an indicator\NI didn’t want to talk right now.
+Dialogue: 0,0:00:26.50,0:00:28.50,Default,0,0,0,,Oh come on, Stolas,\Nwe just had a rough night.
+Dialogue: 0,0:00:28.55,0:00:30.10,Default,0,0,0,,'Sides, you always want to hear from me.
+Dialogue: 0,0:00:30.26,0:00:32.85,Default,0,0,0,,[Sighs]\NBlitzø. What is it you want?
+Dialogue: 0,0:00:32.90,0:00:35.12,Default,0,0,0,,I wanna feel like\NI’m {\i1}earning{\i0} my way to earth.
+Dialogue: 0,0:00:35.36,0:00:37.70,Default,0,0,0,,Kay? So get your tight, feathered\Nass out of that lawn chair
+Dialogue: 0,0:00:37.71,0:00:39.82,Default,0,0,0,,and into the bedroom so I can-
+Dialogue: 0,0:00:39.83,0:00:40.81,Default,0,0,0,,fuck it.
+Dialogue: 0,0:00:40.82,0:00:43.20,Default,0,0,0,,Wow. Poetry.
+Dialogue: 0,0:00:43.50,0:00:47.14,Default,0,0,0,,I’m sure such a statement would have\Nhad me swooning by now.
+Dialogue: 0,0:00:47.34,0:00:51.35,Default,0,0,0,,Uhhh, I- sh- Yeah, sure that wa- okay,\Nthat was a shitty way for me to say it-
+Dialogue: 0,0:00:51.36,0:00:54.00,Default,0,0,0,,But you usually like it when I talk\Nall dirty, and fucky, and shit.
+Dialogue: 0,0:00:55.50,0:00:57.00,Default,0,0,0,,Come on, we don’t do words.
+Dialogue: 0,0:00:57.10,0:00:57.90,Default,0,0,0,,We do sex.
+Dialogue: 0,0:00:57.95,0:01:00.50,Default,0,0,0,,As shocking as this might seem, Blitzø-
+Dialogue: 0,0:01:00.56,0:01:03.55,Default,0,0,0,,I don’t think I’m in the mood to\N"do sex" with you.
+Dialogue: 0,0:01:03.70,0:01:07.28,Default,0,0,0,,In fact, I don’t think I’m even\Nin the mood to do {\i1}words{\i0} with you!
+Dialogue: 0,0:01:07.29,0:01:08.90,Default,0,0,0,,So how about you respect that.
+Dialogue: 0,0:01:08.95,0:01:11.46,Default,0,0,0,,Oh come on, Stolas. You can’t mean that.
+Dialogue: 0,0:01:11.49,0:01:13.50,Default,0,0,0,,You always love seeing {\i1}this{\i0}.
+Dialogue: 0,0:01:13.75,0:01:16.04,Default,0,0,0,,Seeing you right now is hard!
+Dialogue: 0,0:01:16.15,0:01:18.00,Default,0,0,0,,I don’t want to feel\Nworse than I already do.
+Dialogue: 0,0:01:18.10,0:01:22.27,Default,0,0,0,,It’s bad enough I got an invite\Nto this anti-Blitzo party,
+Dialogue: 0,0:01:22.29,0:01:25.34,Default,0,0,0,,an honorary invite for\Nbeing your freshest ex.
+Dialogue: 0,0:01:25.36,0:01:28.49,Default,0,0,0,,Anti-Blitzo party,\Nwho the fuck’s behind this?!
+Dialogue: 0,0:01:28.50,0:01:30.43,Default,0,0,0,,Oh, it’s entirely immature.
+Dialogue: 0,0:01:30.43,0:01:33.20,Default,0,0,0,,I’d never indulge this nonsense, it’s silly.
+Dialogue: 0,0:01:33.21,0:01:35.30,Default,0,0,0,,Real silly. Real fucking claaassy.
+Dialogue: 0,0:01:35.31,0:01:36.80,Default,0,0,0,,Kind of them to invite me, though.
+Dialogue: 0,0:01:37.26,0:01:39.29,Default,0,0,0,,It might be rude not to make an appearance.
+Dialogue: 0,0:01:39.30,0:01:41.20,Default,0,0,0,,Verosika!?
+Dialogue: 0,0:01:41.21,0:01:43.15,Default,0,0,0,,Of course that fucking bitch.
+Dialogue: 0,0:01:43.16,0:01:48.75,Default,0,0,0,,I will say, it’s rather concerning you have\Nan entire party devoted to hating you though, Blitzø.
+Dialogue: 0,0:01:48.80,0:01:51.50,Default,0,0,0,,Oh please, everyone hates\Nme for shitty reasons.
+Dialogue: 0,0:01:51.54,0:01:55.40,Default,0,0,0,,In the end, everyone’s just bitter\Nthey couldn’t tie this ass down.
+Dialogue: 0,0:01:55.41,0:01:57.04,Default,0,0,0,,I'm too much imp to simp.
+Dialogue: 0,0:01:57.05,0:01:58.90,Default,0,0,0,,You really think that’s the reason?
+Dialogue: 0,0:01:58.95,0:02:01.44,Default,0,0,0,,Yessir, they couldn’t\Nhandle that I moved on.
+Dialogue: 0,0:02:01.50,0:02:02.16,Default,0,0,0,,Oh!
+Dialogue: 0,0:02:02.17,0:02:05.10,Default,0,0,0,,So you’re used to being the one\Nwho crushes others’ feelings, hm?
+Dialogue: 0,0:02:05.11,0:02:07.64,Default,0,0,0,,If by "crushes others' feelings" you mean-
+Dialogue: 0,0:02:05.80,0:02:07.17,Top,0,0,0,,[impersonating Stolas]
+Dialogue: 0,0:02:07.65,0:02:10.28,Default,0,0,0,,ends shit before it gets serious, then bingo.
+Dialogue: 0,0:02:10.35,0:02:14.71,Default,0,0,0,,I’m doing everyone a favor because\Nrelationships are boooring. 
+Dialogue: 0,0:02:15.78,0:02:18.37,Default,0,0,0,,Oh yes, very boring.
+Dialogue: 0,0:02:18.60,0:02:19.63,Default,0,0,0,,So what are you doing here then?
+Dialogue: 0,0:02:19.72,0:02:23.99,Default,0,0,0,,Uh, I- waiting for you to realize how\Ngood an angry fuck would be right now!
+Dialogue: 0,0:02:24.15,0:02:25.60,Default,0,0,0,,Get out!
+Dialogue: 0,0:02:25.65,0:02:26.99,Default,0,0,0,,Right now.
+Dialogue: 0,0:02:27.19,0:02:27.70,Default,0,0,0,,What?
+Dialogue: 0,0:02:27.75,0:02:28.71,Default,0,0,0,,I'm tired of this.
+Dialogue: 0,0:02:28.78,0:02:31.31,Default,0,0,0,,I’m uncomfortable with how\Nyou’re speaking to me now.
+Dialogue: 0,0:02:31.40,0:02:32.40,Default,0,0,0,,Oh come on, Stolas.
+Dialogue: 0,0:02:32.41,0:02:34.67,Default,0,0,0,,You can’t tell me this\Nisn’t a fantasy of yours.
+Dialogue: 0,0:02:34.87,0:02:39.52,Default,0,0,0,,You want me to show your rich,\Nprince-y ass what a real fuckin' is.
+Dialogue: 0,0:02:39.60,0:02:40.50,Default,0,0,0,,Stop it!
+Dialogue: 0,0:02:40.55,0:02:42.23,Default,0,0,0,,Ha! I’m right, aren’t I?
+Dialogue: 0,0:02:42.24,0:02:45.69,Default,0,0,0,,{\i1}You{\i0} get off to getting plowed\Nby people you look down on.
+Dialogue: 0,0:02:45.75,0:02:47.25,Default,0,0,0,,I don’t look down on you!
+Dialogue: 0,0:02:47.26,0:02:49.57,Default,0,0,0,,How many times do I ha- When have I ever!?
+Dialogue: 0,0:02:49.85,0:02:53.17,Default,0,0,0,,You speak just like that\Nvile Striker friend of yours.
+Dialogue: 0,0:02:53.25,0:02:55.87,Default,0,0,0,,The one who tried to kill me and you\Ncouldn’t be bothered to come help me.
+Dialogue: 0,0:02:55.95,0:02:56.53,Default,0,0,0,,Remember him?
+Dialogue: 0,0:02:56.60,0:03:00.57,Default,0,0,0,,Hey look- I do not sound like-\NI- and I didn’t know he was capable-
+Dialogue: 0,0:03:00.58,0:03:03.29,Default,0,0,0,,I- I stopped him the first time, didn't I?
+Dialogue: 0,0:03:03.35,0:03:05.04,Default,0,0,0,,The first time?
+Dialogue: 0,0:03:05.70,0:03:08.06,Default,0,0,0,,Yeah, the- oh. Oops.
+Dialogue: 0,0:03:08.20,0:03:10.82,Default,0,0,0,,I- uh- no, who said tha- I-
+Dialogue: 0,0:03:11.00,0:03:14.32,Default,0,0,0,,You knew someone was\Ntrying to assassinate me?
+Dialogue: 0,0:03:14.60,0:03:16.10,Default,0,0,0,,I, I- I stopped him!
+Dialogue: 0,0:03:16.05,0:03:18.47,Default,0,0,0,,And I- I really didn’t think\Nyou could actually get hurt-
+Dialogue: 0,0:03:18.55,0:03:21.68,Default,0,0,0,,you’re immortal and shit!\NYou’re a fucking prince!
+Dialogue: 0,0:03:21.75,0:03:24.05,Default,0,0,0,,If me and my team could kick\Nthat guy’s ass that easily-
+Dialogue: 0,0:03:24.10,0:03:25.33,Default,0,0,0,,then I’m sure you’d have no problem.
+Dialogue: 0,0:03:25.40,0:03:27.33,Default,0,0,0,,I suppose you are right, silly me.
+Dialogue: 0,0:03:27.40,0:03:30.33,Default,0,0,0,,It’s not an imp’s place\Nto protect a Goetia is it?
+Dialogue: 0,0:03:30.40,0:03:32.89,Default,0,0,0,,Aaand there it is. Took ya long enough!
+Dialogue: 0,0:03:32.95,0:03:34.84,Default,0,0,0,,That’s all you were waiting for wasn’t it?
+Dialogue: 0,0:03:35.00,0:03:37.87,Default,0,0,0,,For me to play into this idea you\Nhave of me that I’m this prince
+Dialogue: 0,0:03:37.90,0:03:39.27,Default,0,0,0,,who thinks he’s so much better than you.
+Dialogue: 0,0:03:39.40,0:03:40.44,Default,0,0,0,,Well I don't!
+Dialogue: 0,0:03:40.60,0:03:43.03,Default,0,0,0,,Why would I allow everyone\Nto see how much I like you?
+Dialogue: 0,0:03:43.08,0:03:46.30,Default,0,0,0,,How I’ve tried so fucking hard to\Nspend time with you, to support you?
+Dialogue: 0,0:03:46.35,0:03:50.37,Default,0,0,0,,You don’t owe me those things,\Nbut you can’t just {\i1}ignore{\i0} all that!
+Dialogue: 0,0:03:50.45,0:03:51.85,Default,0,0,0,,You know, Stolas...
+Dialogue: 0,0:03:52.00,0:03:56.39,Default,0,0,0,,I’ve spent the entirety of this\Nmorning listening to love ballads,
+Dialogue: 0,0:03:56.59,0:03:58.71,Default,0,0,0,,and that was still the
+Dialogue: 0,0:03:58.74,0:04:01.51,Default,0,0,0,,GAYEST THING I’VE HEARD ALL DAY!
+Dialogue: 0,0:04:01.80,0:04:04.72,Default,0,0,0,,Do you feel any kind of\Nremorse for what you do?
+Dialogue: 0,0:04:05.00,0:04:07.75,Default,0,0,0,,Have you ever even\Napologized once in your life?
+Dialogue: 0,0:04:07.80,0:04:09.70,Default,0,0,0,,OH, you think I can’t apologize?
+Dialogue: 0,0:04:09.97,0:04:11.43,Default,0,0,0,,For what?! You want me to be like
+Dialogue: 0,0:04:11.46,0:04:15.24,Default,0,0,0,,Oh sorry, this entire time I assumed the\Nworst because I was convinced a prince
+Dialogue: 0,0:04:15.27,0:04:19.41,Default,0,0,0,,could never love someone like me and I've let my\Nself hatred stop me from apologizing to anyone
+Dialogue: 0,0:04:19.44,0:04:21.09,Default,0,0,0,,I could ever care about!
+Dialogue: 0,0:04:22.00,0:04:23.98,Default,0,0,0,,Well, yes. That.
+Dialogue: 0,0:04:25.54,0:04:27.79,Default,0,0,0,,Weeell, fuck you!
+Dialogue: 0,0:04:28.55,0:04:30.54,Default,0,0,0,,I can sorry the fuck outta people!
+Dialogue: 0,0:04:30.75,0:04:32.24,Default,0,0,0,,Just you watch!
+Dialogue: 0,0:04:32.34,0:04:35.35,Default,0,0,0,,I sorried Fizz so hard he cried!
+Dialogue: 0,0:04:35.50,0:04:38.96,Default,0,0,0,,And I can sorry more people,\Neveryone but you!
+Dialogue: 0,0:04:39.00,0:04:41.47,Default,0,0,0,,Cause I don’t owe you dick!
+Dialogue: 0,0:04:42.69,0:04:45.17,Default,0,0,0,,Everyone but you.
+Dialogue: 0,0:04:54.40,0:04:58.34,Default,0,0,0,,I can toootally apologize\Nto the people I’ve fucked with.
+Dialogue: 0,0:04:58.50,0:05:00.50,Default,0,0,0,,I mean how many could there possibly be?
+Dialogue: 0,0:05:03.58,0:05:06.29,Default,0,0,0,,Yeas? Oh.
+Dialogue: 0,0:05:06.55,0:05:07.57,Default,0,0,0,,It's you.
+Dialogue: 0,0:05:07.65,0:05:09.61,Default,0,0,0,,Heeeyyy Martha,
+Dialogue: 0,0:05:09.70,0:05:12.07,Default,0,0,0,,look, I know we killed you in the past,\Nbut I just wanted to say no hard feelings,
+Dialogue: 0,0:05:12.17,0:05:13.97,Default,0,0,0,,and offer this.
+Dialogue: 0,0:05:18.62,0:05:21.39,Default,0,0,0,,Yeah, that’s fuckin’ right.
+Dialogue: 0,0:06:09.87,0:06:12.34,Default,0,0,0,,Alright, and now onto the exes.
+Dialogue: 0,0:06:12.50,0:06:14.90,Default,0,0,0,,Who are aaall in one place.
+Dialogue: 0,0:06:15.40,0:06:17.44,Default,0,0,0,,Yaaay.
+Dialogue: 0,0:06:21.41,0:06:25.10,Default,0,0,0,,Hey buddy, you know where\N666 South Maple avenue might be?
+Dialogue: 0,0:06:25.25,0:06:29.00,Default,0,0,0,,Down that way, demon dude!\NSick costume, bruh.
+Dialogue: 0,0:06:29.10,0:06:30.97,Default,0,0,0,,Hey, Happy Halloween!
+Dialogue: 0,0:06:31.05,0:06:33.70,Default,0,0,0,,Oh, looks like you\Nmissed some makeup there. 
+Dialogue: 0,0:06:33.80,0:06:34.77,Default,0,0,0,,Thaaanks!
+Dialogue: 0,0:06:34.82,0:06:36.13,Default,0,0,0,,It's my face.
+Dialogue: 0,0:06:56.63,0:06:59.43,Default,0,0,0,,The one day a year the spirits\Ncan rise amongst the living
+Dialogue: 0,0:06:59.47,0:07:02.43,Default,0,0,0,,and it’s spent celebrating mutual pettiness.
+Dialogue: 0,0:07:02.55,0:07:03.64,Default,0,0,0,,Uh, what?
+Dialogue: 0,0:07:03.74,0:07:05.90,Default,0,0,0,,Oh! Nothing!\NI was talking to myself.
+Dialogue: 0,0:07:05.99,0:07:08.97,Default,0,0,0,,Cool, man, I wish I was you.
+Dialogue: 0,0:07:17.15,0:07:19.69,Default,0,0,0,,Hellooo, freshest ex!
+Dialogue: 0,0:07:19.79,0:07:21.85,Default,0,0,0,,Stolas!!
+Dialogue: 0,0:07:22.35,0:07:24.91,Default,0,0,0,,How’re you doing baby,\Nyou holding up okay?
+Dialogue: 0,0:07:25.15,0:07:28.21,Default,0,0,0,,Oh, I’m fine. I felt\Nit rude not to stop by.
+Dialogue: 0,0:07:28.25,0:07:32.22,Default,0,0,0,,I don’t get invited out much,\Nbut I really shouldn’t stay long.
+Dialogue: 0,0:07:33.00,0:07:36.33,Default,0,0,0,,Well I’m glad you could make it, honey.
+Dialogue: 0,0:07:36.45,0:07:40.46,Default,0,0,0,,Well this certainly beats the last\Nearth party I attended on Hallows Eve.
+Dialogue: 0,0:07:41.00,0:07:45.86,Default,0,0,0,,All hail the demon prince, Stolas.
+Dialogue: 0,0:07:46.10,0:07:49.35,Default,0,0,0,,I was told there would be cake?
+Dialogue: 0,0:07:51.45,0:07:54.79,Default,0,0,0,,Speaking of cake, you wanna slice it?
+Dialogue: 0,0:07:54.90,0:07:57.04,Default,0,0,0,,Ohhh..eugh.
+Dialogue: 0,0:07:57.89,0:08:00.20,Default,0,0,0,,I like to start at the neck.
+Dialogue: 0,0:08:00.50,0:08:01.54,Default,0,0,0,,Or the dick.
+Dialogue: 0,0:08:01.65,0:08:02.78,Default,0,0,0,,Eeuughh.
+Dialogue: 0,0:08:02.85,0:08:03.87,Default,0,0,0,,You're right.
+Dialogue: 0,0:08:04.00,0:08:05.60,Default,0,0,0,,Nobody wants his dick anyway.
+Dialogue: 0,0:08:07.47,0:08:10.79,Default,0,0,0,,I- I think I’m content\Nwithout slicing any of it.
+Dialogue: 0,0:08:10.89,0:08:14.10,Default,0,0,0,,Well live it up baby,\Nyou are with friends here.
+Dialogue: 0,0:08:14.20,0:08:17.50,Default,0,0,0,,Fuck Blitzo in the fucking ass!
+Dialogue: 0,0:08:31.06,0:08:33.62,Default,0,0,0,,W-o-ow. Have I fucked this many people?
+Dialogue: 0,0:08:33.70,0:08:36.62,Default,0,0,0,,Christ on a stick, I should\Nstart keeping count.
+Dialogue: 0,0:08:38.46,0:08:40.13,Default,0,0,0,,Sorry for the comment I made\Nat your sister’s wedding.
+Dialogue: 0,0:08:40.18,0:08:41.47,Default,0,0,0,,Though she did deserve it, she’s a whore.
+Dialogue: 0,0:08:41.53,0:08:43.64,Default,0,0,0,,Sorry for fucking your mom,\Nthough I thought it was your dad.
+Dialogue: 0,0:08:49.96,0:08:51.59,Default,0,0,0,,Heeey!
+Dialogue: 0,0:08:51.90,0:08:52.53,Default,0,0,0,,He did it.
+Dialogue: 0,0:08:52.70,0:08:56.64,Default,0,0,0,,Way to go Dennis. You fucking suck.
+Dialogue: 0,0:08:56.74,0:08:58.73,Default,0,0,0,,Yeah, you suck Dennis!
+Dialogue: 0,0:09:18.05,0:09:18.63,Default,0,0,0,,Now,
+Dialogue: 0,0:09:18.63,0:09:19.16,Top,0,0,0,,Oh shit.
+Dialogue: 0,0:09:18.73,0:09:23.90,Default,0,0,0,,It’s time to hear from the special,\Nnew guest of honor of the night,
+Dialogue: 0,0:09:23.99,0:09:25.48,Default,0,0,0,,Stolaaassss!
+Dialogue: 0,0:09:25.82,0:09:27.89,Default,0,0,0,,Get up here, and say a few words!
+Dialogue: 0,0:09:27.99,0:09:31.67,Default,0,0,0,,Oh, no. No, no, no. No,\NI’m not really, um, heheh.
+Dialogue: 0,0:09:31.77,0:09:33.19,Default,0,0,0,,Uh, I really shouldn’t I-
+Dialogue: 0,0:09:33.25,0:09:36.41,Default,0,0,0,,Tell us all about your experience with Blitzo.
+Dialogue: 0,0:09:36.47,0:09:39.05,Default,0,0,0,,That cock sucking motherfucker!
+Dialogue: 0,0:09:39.12,0:09:41.37,Default,0,0,0,,C’mon baby, speak from your heart.
+Dialogue: 0,0:09:41.42,0:09:43.69,Default,0,0,0,,We all here know how you feel.
+Dialogue: 0,0:09:43.75,0:09:47.00,Default,0,0,0,,Um. Ohh, ahahaha, um.
+Dialogue: 0,0:09:52.88,0:09:55.75,Stolas,0,0,0,,♪ I let you get too close. ♪
+Dialogue: 0,0:09:55.78,0:09:59.14,Stolas,0,0,0,,♪ I let it go too far. ♪
+Dialogue: 0,0:09:59.20,0:10:02.56,Stolas,0,0,0,,♪ Now I know, now I know,\Nnow I know exactly ♪
+Dialogue: 0,0:10:02.60,0:10:06.12,Stolas,0,0,0,,♪ what you aaaaare. ♪
+Dialogue: 0,0:10:.,0:10:.,Stolas,0,0,0,,
+Dialogue: 0,0:10:.,0:10:.,Stolas,0,0,0,,
