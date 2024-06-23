@@ -22,6 +22,15 @@ Style: Left,Arial,50,&H00FFFFFF,&H000000FF,&H00472A27,&H00000000,-1,0,0,0,100,10
 Style: Right,Arial,50,&H00FFFFFF,&H000000FF,&H00472A27,&H00000000,-1,0,0,0,100,100,0,0,1,4,2,3,10,10,10,1
 Style: StolasUp,Arial,50,&H00585FD3,&H000000FF,&H00813D3D,&H00000000,-1,0,0,0,100,100,0,0,1,4,2,8,10,10,10,1
 Style: Stolas,Arial,50,&H00585FD3,&H000000FF,&H00813D3D,&H00000000,-1,0,0,0,100,100,0,0,1,4,2,2,10,10,10,1
+Style: Ver,Arial,50,&H00F02AED,&H000000FF,&H00F7ABF5,&H00000000,-1,0,0,0,100,100,0,0,1,4,2,2,10,10,10,1
+Style: VerL,Arial,50,&H00F02AED,&H000000FF,&H00F7ABF5,&H00000000,-1,0,0,0,100,100,0,0,1,4,2,1,10,10,10,1
+Style: Tex,Arial,50,&H00CFCECF,&H000000FF,&H006D6C6D,&H00000000,-1,0,0,0,100,100,0,0,1,4,2,2,10,10,10,1
+Style: TexR,Arial,50,&H00CFCECF,&H000000FF,&H006D6C6D,&H00000000,-1,0,0,0,100,100,0,0,1,4,2,3,10,10,10,1
+Style: VerUp,Arial,50,&H00F02AED,&H000000FF,&H00F7ABF5,&H00000000,-1,0,0,0,100,100,0,0,1,4,2,7,10,10,10,1
+Style: TexUp,Arial,50,&H00CFCECF,&H000000FF,&H006D6C6D,&H00000000,-1,0,0,0,100,100,0,0,1,4,2,9,10,10,10,1
+Style: TexUpL,Arial,50,&H00CFCECF,&H000000FF,&H006D6C6D,&H00000000,-1,0,0,0,100,100,0,0,1,4,2,7,10,10,10,1
+Style: VerR,Arial,50,&H00F02AED,&H000000FF,&H00F7ABF5,&H00000000,-1,0,0,0,100,100,0,0,1,4,2,3,10,10,10,1
+Style: TexL,Arial,50,&H00CFCECF,&H000000FF,&H006D6C6D,&H00000000,-1,0,0,0,100,100,0,0,1,4,2,1,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, MarginL, MarginR, MarginV, Effect, Text
@@ -199,5 +208,260 @@ Dialogue: 0,0:09:52.88,0:09:55.75,Stolas,0,0,0,,♪ I let you get too close. ♪
 Dialogue: 0,0:09:55.78,0:09:59.14,Stolas,0,0,0,,♪ I let it go too far. ♪
 Dialogue: 0,0:09:59.20,0:10:02.56,Stolas,0,0,0,,♪ Now I know, now I know,\Nnow I know exactly ♪
 Dialogue: 0,0:10:02.60,0:10:06.12,Stolas,0,0,0,,♪ what you aaaaare. ♪
-Dialogue: 0,0:10:.,0:10:.,Stolas,0,0,0,,
-Dialogue: 0,0:10:.,0:10:.,Stolas,0,0,0,,
+Dialogue: 0,0:10:06.35,0:10:10.06,TexR,0,0,0,,♪ Na na na, na na, na ♪
+Dialogue: 0,0:10:06.35,0:10:10.06,VerL,0,0,0,,♪ Na na na, na na, na ♪
+Dialogue: 0,0:10:10.10,0:10:12.69,TexR,0,0,0,,♪ A motherfucker. ♪
+Dialogue: 0,0:10:10.10,0:10:12.69,VerL,0,0,0,,♪ A motherfucker. ♪
+Dialogue: 0,0:10:12.79,0:10:16.33,TexR,0,0,0,,♪ Na na na, na na, na ♪
+Dialogue: 0,0:10:12.79,0:10:16.33,VerL,0,0,0,,♪ Na na na, na na, na ♪
+Dialogue: 0,0:10:16.40,0:10:18.71,TexR,0,0,0,,♪ A motherfucker. ♪
+Dialogue: 0,0:10:16.40,0:10:18.71,VerL,0,0,0,,♪ A motherfucker. ♪
+Dialogue: 0,0:10:19.00,0:10:21.63,Stolas,0,0,0,,♪ I don’t think you meant to hurt me, ♪
+Dialogue: 0,0:10:21.73,0:10:25.80,Stolas,0,0,0,,♪ cause I don’t think it\Nmeant a thing at all. ♪
+Dialogue: 0,0:10:26.80,0:10:31.99,Stolas,0,0,0,,♪ At all, at all, at all. ♪
+Dialogue: 0,0:10:26.80,0:10:31.99,TexUp,0,0,0,,♪ At all, at all, at all. ♪
+Dialogue: 0,0:10:26.80,0:10:31.99,VerUp,0,0,0,,♪ At all, at all, at all. ♪
+Dialogue: 0,0:10:33.03,0:10:38.50,Stolas,0,0,0,,♪ At all, at all, at all. ♪
+Dialogue: 0,0:10:33.80,0:10:34.40,VerUp,0,0,0,,♪ At all. ♪
+Dialogue: 0,0:10:33.80,0:10:34.40,TexUp,0,0,0,,♪ At all. ♪
+Dialogue: 0,0:10:35.00,0:10:35.80,VerUp,0,0,0,,♪ At all. ♪
+Dialogue: 0,0:10:35.00,0:10:35.80,TexUp,0,0,0,,♪ At all. ♪
+Dialogue: 0,0:10:36.60,0:10:38.80,VerUp,0,0,0,,♪ At all, at all, at all. ♪
+Dialogue: 0,0:10:36.60,0:10:38.80,TexUp,0,0,0,,♪ At all, at all, at all. ♪
+Dialogue: 0,0:10:39.05,0:10:44.95,Stolas,0,0,0,,♪ At all, at all, to you. ♪
+Dialogue: 0,0:10:49.30,0:10:51.86,Stolas,0,0,0,,♪ The motherfucker. ♪
+Dialogue: 0,0:10:46.10,0:10:49.26,TexR,0,0,0,,♪ Na na na, na na, na. ♪
+Dialogue: 0,0:10:46.10,0:10:49.26,VerL,0,0,0,,♪ Na na na, na na, na. ♪
+Dialogue: 0,0:10:49.30,0:10:51.86,VerUp,0,0,0,,♪ The motherfucker. ♪
+Dialogue: 0,0:10:49.30,0:10:51.86,TexUp,0,0,0,,♪ The motherfucker. ♪
+Dialogue: 0,0:10:51.99,0:10:55.15,VerUp,0,0,0,, ♪ Na na na, na na, na ♪
+Dialogue: 0,0:10:51.99,0:10:55.15,TexUp,0,0,0,, ♪ Na na na, na na, na ♪
+Dialogue: 0,0:10:51.99,0:10:55.15,Stolas,0,0,0,, ♪ Na na na, na na, na ♪
+Dialogue: 0,0:10:55.25,0:10:57.63,Stolas,0,0,0,,♪ The motherfucker. ♪
+Dialogue: 0,0:10:55.25,0:10:57.63,VerUp,0,0,0,,♪ The motherfucker. ♪
+Dialogue: 0,0:10:55.25,0:10:57.63,TexUp,0,0,0,,♪ The motherfucker. ♪
+Dialogue: 0,0:10:58.13,0:11:00.78,Stolas,0,0,0,,♪ I let it go too long. ♪
+Dialogue: 0,0:11:01.00,0:11:04.20,Stolas,0,0,0,,♪ I let you go too deep. ♪
+Dialogue: 0,0:11:04.40,0:11:06.90,Stolas,0,0,0,,♪ Now I know, now I know,\Nnow I know there’s ♪
+Dialogue: 0,0:11:06.95,0:11:09.30,Stolas,0,0,0,,♪ one thing I can’t keep but, ♪
+Dialogue: 0,0:11:09.35,0:11:12.52,Stolas,0,0,0,,♪ I, I keep on waiting! ♪
+Dialogue: 0,0:11:12.72,0:11:15.97,Stolas,0,0,0,,♪ Waiting to want you less than I do. ♪
+Dialogue: 0,0:11:16.10,0:11:19.62,Stolas,0,0,0,,♪ And I do, oh I do,\Nyes I still do ♪
+Dialogue: 0,0:11:19.67,0:11:21.45,Stolas,0,0,0,,♪ want you. ♪
+Dialogue: 0,0:11:21.60,0:11:23.73,Stolas,0,0,0,,♪ But maybe it’s all on me! ♪
+Dialogue: 0,0:11:23.83,0:11:27.49,Stolas,0,0,0,,♪ For missing every sign\Nand every glance and ♪
+Dialogue: 0,0:11:27.44,0:11:30.20,Stolas,0,0,0,,♪ every turn. ♪
+Dialogue: 0,0:11:32.25,0:11:35.49,Stolas,0,0,0,,♪ Maybe there’s something\Nhere for us to glean, ♪
+Dialogue: 0,0:11:29.45,0:11:32.13,VerL,0,0,0,,♪ No, no, no\Nhe’s a motherfucker. ♪
+Dialogue: 0,0:11:29.45,0:11:32.13,TexUp,0,0,0,,♪ No, no, no he’s a motherfucker. ♪
+Dialogue: 0,0:11:35.60,0:11:39.90,Stolas,0,0,0,,♪ for you to teach and me to try and learn. ♪
+Dialogue: 0,0:11:39.10,0:11:41.60,VerUp,0,0,0,,♪ Na, na, na he’s a motherfucker. ♪
+Dialogue: 0,0:11:39.10,0:11:41.60,TexUp,0,0,0,,♪ Na, na, na he’s a motherfucker. ♪
+Dialogue: 0,0:11:42.42,0:11:47.26,Stolas,0,0,0,,♪ Cause I am not a thief,\Nbut you were mine to earn. ♪
+Dialogue: 0,0:11:47.40,0:11:50.19,Stolas,0,0,0,,♪ What if I came on too strong?\NWhat if I read this all wrong? ♪
+Dialogue: 0,0:11:50.29,0:11:51.77,Stolas,0,0,0,,♪ What if we just don’t belong? ♪
+Dialogue: 0,0:11:51.80,0:11:53.13,Stolas,0,0,0,,♪ All this what if, what if, what if, ♪
+Dialogue: 0,0:11:53.15,0:11:54.17,Stolas,0,0,0,,♪ what if, what if, what if, ♪
+Dialogue: 0,0:11:54.18,0:11:55.08,Stolas,0,0,0,,♪ why, why, why, ♪
+Dialogue: 0,0:11:55.09,0:11:56.80,Stolas,0,0,0,,♪ why why why, makes me ♪
+Dialogue: 0,0:11:56.85,0:11:58.46,Stolas,0,0,0,,♪ burn! ♪
+Dialogue: 0,0:11:58.56,0:12:01.26,Stolas,0,0,0,,♪ Oh I don’t think you meant to hurt me. ♪
+Dialogue: 0,0:12:01.36,0:12:04.54,Stolas,0,0,0,,♪ Cause I don’t think it meant a thing at all! ♪
+Dialogue: 0,0:12:05.69,0:12:07.80,Stolas,0,0,0,,♪ No, not at all. ♪
+Dialogue: 0,0:12:04.60,0:12:05.69,VerL,0,0,0,,Well did it?
+Dialogue: 0,0:12:04.60,0:12:05.69,TexUpL,0,0,0,,Well did it?
+Dialogue: 0,0:12:06.60,0:12:07.90,VerL,0,0,0,,Didn't mean a goddamn thing.
+Dialogue: 0,0:12:07.30,0:12:09.39,TexUpL,0,0,0,,Didn't mean a goddamn thing.
+Dialogue: 0,0:12:09.45,0:12:12.92,VerR,0,0,0,,♪ At all, at all, at all ♪
+Dialogue: 0,0:12:09.45,0:12:12.92,TexL,0,0,0,,♪ At all, at all, at all ♪
+Dialogue: 0,0:12:09.45,0:12:12.92,StolasUp,0,0,0,,♪ At all, at all, at all ♪
+Dialogue: 0,0:12:15.50,0:12:18.93,Stolas,0,0,0,,♪ At all, at all, at all ♪
+Dialogue: 0,0:12:13.10,0:12:15.70,VerUp,0,0,0,,♪ Didn't mean a, Didn't mean a, ♪
+Dialogue: 0,0:12:13.10,0:12:15.70,TexUp,0,0,0,,♪ Didn't mean a, Didn't mean a, ♪
+Dialogue: 0,0:12:15.99,0:12:18.75,VerUp,0,0,0,,♪ At all, at all ♪
+Dialogue: 0,0:12:15.99,0:12:18.75,TexUp,0,0,0,,♪ At all, at all ♪
+Dialogue: 0,0:12:18.85,0:12:21.80,VerUp,0,0,0,,♪ Didn't mean a, Didn't mean a, ♪
+Dialogue: 0,0:12:18.85,0:12:21.80,TexUp,0,0,0,,♪ Didn't mean a, Didn't mean a, ♪
+Dialogue: 0,0:12:21.40,0:12:30.99,Stolas,0,0,0,,♪ At all, at all to you. ♪
+Dialogue: 0,0:12:31.10,0:12:34.50,StolasUp,0,0,0,,♪ Na na na, na na, na. ♪
+Dialogue: 0,0:12:31.10,0:12:34.50,VerL,0,0,0,,♪ Na na na, na na, na. ♪
+Dialogue: 0,0:12:31.10,0:12:34.50,TexR,0,0,0,,♪ Na na na, na na, na. ♪
+Dialogue: 0,0:12:34.60,0:12:37.29,StolasUp,0,0,0,,♪ The motherfucker. ♪
+Dialogue: 0,0:12:34.60,0:12:37.29,VerL,0,0,0,,♪ The motherfucker. ♪
+Dialogue: 0,0:12:34.60,0:12:37.29,TexR,0,0,0,,♪ The motherfucker. ♪
+Dialogue: 0,0:12:37.39,0:12:40.39,StolasUp,0,0,0,,♪ Na na na, na na, na. ♪
+Dialogue: 0,0:12:37.39,0:12:40.39,VerL,0,0,0,,♪ Na na na, na na, na. ♪
+Dialogue: 0,0:12:37.39,0:12:40.39,TexR,0,0,0,,♪ Na na na, na na, na. ♪
+Dialogue: 0,0:12:40.47,0:12:43.47,StolasUp,0,0,0,,♪ The motherfucker. ♪
+Dialogue: 0,0:12:40.47,0:12:43.47,VerL,0,0,0,,♪ The motherfucker. ♪
+Dialogue: 0,0:12:40.47,0:12:43.47,TexR,0,0,0,,♪ The motherfucker. ♪
+Dialogue: 0,0:12:43.55,0:12:46.40,StolasUp,0,0,0,,♪ Na na na, na na, na. ♪
+Dialogue: 0,0:12:43.55,0:12:46.40,VerL,0,0,0,,♪ Na na na, na na, na. ♪
+Dialogue: 0,0:12:43.55,0:12:46.40,TexR,0,0,0,,♪ Na na na, na na, na. ♪
+Dialogue: 0,0:12:47.22,0:12:50.43,Stolas,0,0,0,,♪ The {\i1}motherfucker{\i0}. ♪
+Dialogue: 0,0:12:51.58,0:12:54.09,Default,0,0,0,,Thank you for your time.
+Dialogue: 0,0:12:57.58,0:13:02.18,Default,0,0,0,,Alrighty bitches, let’s get wild! 
+Dialogue: 0,0:13:11.03,0:13:12.57,Default,0,0,0,,Hey.
+Dialogue: 0,0:13:14.48,0:13:15.13,Default,0,0,0,,Blitzø?!
+Dialogue: 0,0:13:15.20,0:13:16.46,Default,0,0,0,,What are you doing here?
+Dialogue: 0,0:13:16.56,0:13:20.70,Default,0,0,0,,You’re lucky everyone is drunk or\Nyou would be murdered right now. 
+Dialogue: 0,0:13:20.80,0:13:23.93,Default,0,0,0,,Ah, no, it’s good I’m in a disguise.
+Dialogue: 0,0:13:28.43,0:13:29.50,Default,0,0,0,,Wow.
+Dialogue: 0,0:13:29.60,0:13:31.69,Default,0,0,0,,I’ve never seen you\Nthrow 'em back like this. 
+Dialogue: 0,0:13:31.79,0:13:33.59,Default,0,0,0,,Came just to judge me, is that it? 
+Dialogue: 0,0:13:33.70,0:13:35.05,Default,0,0,0,,No, I just-
+Dialogue: 0,0:13:35.10,0:13:38.30,Default,0,0,0,,this was the final stop on the\Napology tour I’ve been on today.
+Dialogue: 0,0:13:38.50,0:13:40.89,Default,0,0,0,,Oh, yes, I recall.
+Dialogue: 0,0:13:41.00,0:13:44.12,Default,0,0,0,,Everyone but me is getting your\Ncheap apologies tonight, hm?
+Dialogue: 0,0:13:44.22,0:13:47.22,Default,0,0,0,,Well, you certainly have\Nyour work cut out for you. 
+Dialogue: 0,0:13:47.32,0:13:49.60,Default,0,0,0,,Look, how I acted this morning…
+Dialogue: 0,0:13:49.70,0:13:51.45,Default,0,0,0,,it was fucked, okay?
+Dialogue: 0,0:13:51.60,0:13:52.97,Default,0,0,0,,This morning?
+Dialogue: 0,0:13:53.10,0:13:56.71,Default,0,0,0,,Ughhh, why did you show up there?\NWhy’d you show up here?
+Dialogue: 0,0:13:56.85,0:13:59.97,Default,0,0,0,,You already asked that, but look,\NI-I just really need to…
+Dialogue: 0,0:14:00.10,0:14:02.66,Default,0,0,0,,to talk to you, to- to explain. 
+Dialogue: 0,0:14:02.76,0:14:03.35,Default,0,0,0,,Ooh?
+Dialogue: 0,0:14:03.90,0:14:06.09,Default,0,0,0,,I’ve always been real shit at sorries, kay?
+Dialogue: 0,0:14:06.19,0:14:08.76,Default,0,0,0,,They’re for pussies and no one\Nfuckin’ deserves them anyway,
+Dialogue: 0,0:14:08.86,0:14:12.98,Default,0,0,0,,but I... felt like maybe\Nyou actually needed one. 
+Dialogue: 0,0:14:13.05,0:14:15.39,Default,0,0,0,,Oooooh lucky meeeeee!
+Dialogue: 0,0:14:15.50,0:14:17.73,Default,0,0,0,,Oh shit. Okay, what I mean is,
+Dialogue: 0,0:14:17.83,0:14:20.39,Default,0,0,0,,I said sorry a lot today and, honestly,
+Dialogue: 0,0:14:20.50,0:14:21.86,Default,0,0,0,,didn’t really mean any of it.
+Dialogue: 0,0:14:22.00,0:14:24.79,Default,0,0,0,,Because the only one\NI wanted to say it to...
+Dialogue: 0,0:14:24.90,0:14:25.95,Default,0,0,0,,Was you, Stol's.
+Dialogue: 0,0:14:26.10,0:14:28.59,Default,0,0,0,,I just... this whole\Nthing we had going-
+Dialogue: 0,0:14:28.70,0:14:31.00,Default,0,0,0,,I’m- I mean you’re a fucking prince.
+Dialogue: 0,0:14:31.10,0:14:34.27,Default,0,0,0,,How could you ever actually\Ncare for an imp?
+Dialogue: 0,0:14:34.72,0:14:35.62,Default,0,0,0,,Me.
+Dialogue: 0,0:14:36.50,0:14:37.67,Default,0,0,0,,How could anybody?
+Dialogue: 0,0:14:37.77,0:14:39.15,Default,0,0,0,,Blitzø.
+Dialogue: 0,0:14:39.25,0:14:42.60,Default,0,0,0,,There is a crowd full of people here,
+Dialogue: 0,0:14:42.65,0:14:44.69,Default,0,0,0,,who cared so much,
+Dialogue: 0,0:14:44.85,0:14:48.95,Default,0,0,0,,they throw an entire fucking\Nparty about hating you,
+Dialogue: 0,0:14:49.05,0:14:50.43,Default,0,0,0,,every year!
+Dialogue: 0,0:14:51.20,0:14:53.92,Default,0,0,0,,Do you know how much you have to care\Nto do something as stupid as that?
+Dialogue: 0,0:14:54.05,0:14:56.62,Default,0,0,0,,Stolas, you are better\Noff without me. Kay?
+Dialogue: 0,0:14:56.72,0:14:58.00,Default,0,0,0,,You deserve so mu-
+Dialogue: 0,0:14:58.05,0:15:00.46,Default,0,0,0,,I don’t even know why you\Nwould want to be with me.
+Dialogue: 0,0:15:00.60,0:15:02.76,Default,0,0,0,,You wanna know what I want?
+Dialogue: 0,0:15:02.85,0:15:04.89,Default,0,0,0,,I want to know what it’s like,
+Dialogue: 0,0:15:04.95,0:15:06.79,Default,0,0,0,,to not be alone.
+Dialogue: 0,0:15:07.95,0:15:10.77,Default,0,0,0,,I want to be someone’s someone.
+Dialogue: 0,0:15:10.85,0:15:13.53,Default,0,0,0,,I want to feel wanted.
+Dialogue: 0,0:15:13.60,0:15:17.30,Default,0,0,0,,But like, in a romantic way,\Nlike I’m standing out in the rain
+Dialogue: 0,0:15:17.35,0:15:19.75,Default,0,0,0,,at a train station and\Nsomeone is shouting:
+Dialogue: 0,0:15:19.80,0:15:25.25,Default,0,0,0,,“Harriet! Don’t get on that train, it’s going\Nto London and I cannot be without you!”
+Dialogue: 0,0:15:25.40,0:15:28.03,Default,0,0,0,,Oh Stolas, that’s... a rom-com.
+Dialogue: 0,0:15:28.15,0:15:30.00,Default,0,0,0,,Oh fuck you.
+Dialogue: 0,0:15:30.60,0:15:32.10,Default,0,0,0,,The point is, I just…
+Dialogue: 0,0:15:32.15,0:15:34.76,Default,0,0,0,,want someone to care if I stay or go.
+Dialogue: 0,0:15:34.85,0:15:37.23,Default,0,0,0,,I want someone to want me.
+Dialogue: 0,0:15:37.30,0:15:39.66,Default,0,0,0,,To want to see me. To hold me.
+Dialogue: 0,0:15:39.80,0:15:42.10,Default,0,0,0,,Look at me and think:\N"Well you’re the only one I want."
+Dialogue: 0,0:15:42.20,0:15:47.38,Default,0,0,0,,"I desire to hold you and talk\Nto you, never let you feel so…"
+Dialogue: 0,0:15:50.95,0:15:53.06,Default,0,0,0,,You! Why are you here?
+Dialogue: 0,0:15:53.15,0:15:55.29,Default,0,0,0,,I don’t want you here, go home please!
+Dialogue: 0,0:15:55.40,0:15:57.08,Default,0,0,0,,Let me not feel so sad.
+Dialogue: 0,0:16:08.25,0:16:08.76,Default,0,0,0,,Hey.
+Dialogue: 0,0:16:08.83,0:16:10.35,Default,0,0,0,,Oh, heh. Hello.
+Dialogue: 0,0:16:10.45,0:16:11.96,Default,0,0,0,,Great song earlier.
+Dialogue: 0,0:16:12.05,0:16:12.79,Default,0,0,0,,You have great pipes.
+Dialogue: 0,0:16:13.16,0:16:14.06,Default,0,0,0,,Thank you.
+Dialogue: 0,0:16:14.16,0:16:16.75,Default,0,0,0,,Yeah, yeah, yeah, he sings\Nfantastic, we’re talking here.
+Dialogue: 0,0:16:16.85,0:16:20.49,Default,0,0,0,,Well, I just wanted to see\Nif maybe, I don't know,
+Dialogue: 0,0:16:20.55,0:16:22.45,Default,0,0,0,,you’d wanna... dance?
+Dialogue: 0,0:16:22.50,0:16:26.18,Default,0,0,0,,You want to dance…
+Dialogue: 0,0:16:26.40,0:16:27.10,Default,0,0,0,,with me?
+Dialogue: 0,0:16:27.20,0:16:28.46,Default,0,0,0,,Yeah!
+Dialogue: 0,0:16:32.75,0:16:34.63,Default,0,0,0,,Okay!
+Dialogue: 0,0:16:56.70,0:16:57.88,Default,0,0,0,,Hey Ver.
+Dialogue: 0,0:16:58.16,0:17:01.25,Default,0,0,0,,So. An apology tour, huh?
+Dialogue: 0,0:17:01.54,0:17:04.22,Default,0,0,0,,You got a lot of balls coming here, Blitzo.
+Dialogue: 0,0:17:04.30,0:17:06.59,Default,0,0,0,,Yeah, I know, everyone here hates me.
+Dialogue: 0,0:17:06.70,0:17:09.59,Default,0,0,0,,Yep. That's the point.
+Dialogue: 0,0:17:09.70,0:17:10.30,Default,0,0,0,,Dumbass.
+Dialogue: 0,0:17:10.50,0:17:11.92,Default,0,0,0,,So what, you’re waiting for your sorry?
+Dialogue: 0,0:17:12.05,0:17:14.38,Default,0,0,0,,Oh fuck you, you little prick.
+Dialogue: 0,0:17:14.50,0:17:19.15,Default,0,0,0,,Well I’m sorry, for always\Ntelling it like it is sister.
+Dialogue: 0,0:17:20.18,0:17:21.70,Default,0,0,0,,What, I’m just being honest!
+Dialogue: 0,0:17:21.80,0:17:23.40,Default,0,0,0,,I’m sorry for dumping ya!
+Dialogue: 0,0:17:23.45,0:17:26.02,Default,0,0,0,,Sorry for not falling head over heels for you!
+Dialogue: 0,0:17:26.12,0:17:28.90,Default,0,0,0,,Or that guy! Or fucking Dennis!
+Dialogue: 0,0:17:29.10,0:17:30.68,Default,0,0,0,,Or- or anyone at this
+Dialogue: 0,0:17:30.80,0:17:31.45,Default,0,0,0,,stupid
+Dialogue: 0,0:17:31.60,0:17:33.05,Default,0,0,0,,fucking party!
+Dialogue: 0,0:17:33.20,0:17:36.53,Default,0,0,0,,Ha, oh you are so fucking shitty!
+Dialogue: 0,0:17:36.75,0:17:37.83,Default,0,0,0,,Do you hear yourself?
+Dialogue: 0,0:17:37.95,0:17:41.22,Default,0,0,0,,Everyone’s shitty!\NHello!? We live in hell!
+Dialogue: 0,0:17:41.35,0:17:45.37,Default,0,0,0,,Why am I all of a sudden the bad guy\Njust for sucking at relationships?
+Dialogue: 0,0:17:45.50,0:17:47.68,Default,0,0,0,,Are you expecting... sympathy?
+Dialogue: 0,0:17:47.80,0:17:51.13,Default,0,0,0,,Awww poor Bwitzø,\Nfinawwy having to own
+Dialogue: 0,0:17:51.18,0:17:54.63,Default,0,0,0,,that his actions affect\Nother peoples fee fees.
+Dialogue: 0,0:17:54.73,0:17:56.96,Default,0,0,0,,Bitch, please.
+Dialogue: 0,0:17:59.58,0:18:01.26,Default,0,0,0,,How do you think I felt?
+Dialogue: 0,0:18:01.40,0:18:04.00,Default,0,0,0,,When the fun guy I was\Ndating decided to just-
+Dialogue: 0,0:18:04.05,0:18:06.56,Default,0,0,0,,bail on me because I made\Nthe shitty mistake of saying
+Dialogue: 0,0:18:06.61,0:18:08.30,Default,0,0,0,,I love...
+Dialogue: 0,0:18:08.35,0:18:08.78,Default,0,0,0,,Ugh!
+Dialogue: 0,0:18:08.90,0:18:11.85,Default,0,0,0,,It was the most embarrassing feeling.
+Dialogue: 0,0:18:11.99,0:18:14.30,Default,0,0,0,,To be vulnerable for once and,
+Dialogue: 0,0:18:14.45,0:18:15.91,Default,0,0,0,,you really just...
+Dialogue: 0,0:18:15.99,0:18:20.56,Default,0,0,0,,know how to send a message\Nin the shittiest fucking way.
+Dialogue: 0,0:18:20.75,0:18:25.43,Default,0,0,0,,The worst part is you still make me feel like\Na bad person for being angry at you now. 
+Dialogue: 0,0:18:29.93,0:18:35.00,Default,0,0,0,,But hosting this party for\Neveryone else you’ve dicked over?
+Dialogue: 0,0:18:35.10,0:18:38.50,Default,0,0,0,,At least I can help others cope with the shit you did.
+Dialogue: 0,0:18:39.80,0:18:42.35,Default,0,0,0,,What? No snarky come back?
+Dialogue: 0,0:18:42.50,0:18:43.58,Default,0,0,0,,No.
+Dialogue: 0,0:18:44.18,0:18:45.70,Default,0,0,0,,You're right.
+Dialogue: 0,0:18:46.30,0:18:49.28,Default,0,0,0,,I actually am, you know?
+Dialogue: 0,0:18:49.40,0:18:50.99,Default,0,0,0,,Sorry.
+Dialogue: 0,0:18:51.49,0:18:54.37,Default,0,0,0,,I- I don’t wanna be this way.
+Dialogue: 0,0:18:54.88,0:18:56.68,Default,0,0,0,,Not forever.
+Dialogue: 0,0:18:58.53,0:19:02.05,Default,0,0,0,,Hmph. Looks like Stolas\Nis having a good time. 
+Dialogue: 0,0:19:02.20,0:19:04.45,Default,0,0,0,,Yeah, well he needs it.
+Dialogue: 0,0:19:12.10,0:19:13.76,Default,0,0,0,,Oh, a really good time. 
+Dialogue: 0,0:19:13.90,0:19:14.95,Default,0,0,0,,Oh that
+Dialogue: 0,0:19:15.05,0:19:15.73,Default,0,0,0,,BIRD
+Dialogue: 0,0:19:15.80,0:19:16.71,Default,0,0,0,,STEALING
+Dialogue: 0,0:19:16.80,0:19:18.18,Default,0,0,0,,COCK BAG!
+Dialogue: 0,0:19:18.60,0:19:20.06,Default,0,0,0,,Hooold it Blitzø.
+Dialogue: 0,0:19:20.20,0:19:24.56,Default,0,0,0,,You know, if you wanna change,\Nit just starts with saying:
+Dialogue: 0,0:19:24.66,0:19:27.22,Default,0,0,0,,“Good for him, hope he gets laid.”
+Dialogue: 0,0:19:27.50,0:19:30.15,Default,0,0,0,,Heh, here have some cake, fuckwad.
+Dialogue: 0,0:19:38.59,0:19:41.69,Ver,0,0,0,,♪ Ever since you went away. ♪
+Dialogue: 0,0:19:41.80,0:19:45.30,Ver,0,0,0,,♪ I’ve been haunted. Haunted. ♪
+Dialogue: 0,0:19:45.80,0:19:49.24,Ver,0,0,0,,♪ I always get whatever I want. ♪
+Dialogue: 0,0:19:49.40,0:19:53.63,Ver,0,0,0,,♪ And I wanted. I wanted you. ♪
+Dialogue: 0,0:19:53.75,0:19:56.15,Ver,0,0,0,,♪ So now I’m drawing circles in the sand, ♪
+Dialogue: 0,0:19:56.25,0:19:57.76,Ver,0,0,0,,♪ try'na to understand ♪
+Dialogue: 0,0:19:57.85,0:20:00.45,Ver,0,0,0,,♪ how you do the things you do. ♪
+Dialogue: 0,0:20:01.45,0:20:04.13,Ver,0,0,0,,♪ Baby I’m not over it, ♪
+Dialogue: 0,0:20:04.25,0:20:06.50,Ver,0,0,0,,♪ but I’m over you. ♪
+Dialogue: 0,0:20:06.60,0:20:09.25,Ver,0,0,0,,♪ I’m over you, you, you. ♪
+Dialogue: 0,0:20:09.35,0:20:11.62,Ver,0,0,0,,♪ Baby I’m not over it, ♪
+Dialogue: 0,0:20:11.73,0:20:14.03,Ver,0,0,0,,♪ but I’m over you. ♪
+Dialogue: 0,0:20:14.15,0:20:16.80,Ver,0,0,0,,♪ I’m over you, you, you. ♪
+Dialogue: 0,0:20:27.06,0:20:28.79,Ver,0,0,0,,♪ Sometimes it still hurts a bit, ♪
+Dialogue: 0,0:20:28.90,0:20:30.72,Ver,0,0,0,,♪ sometimes I’m so full of shit, ♪
+Dialogue: 0,0:20:30.77,0:20:32.82,Ver,0,0,0,,♪ but this much is true. ♪
+Dialogue: 0,0:20:32.90,0:20:38.23,Top,0,0,0,,[Drawn out car honking]
+Dialogue: 0,0:20:34.63,0:20:36.99,Ver,0,0,0,,♪ Baby I’m not over it, ♪
+Dialogue: 0,0:20:37.25,0:20:39.30,Ver,0,0,0,,♪ I’m over you. ♪
+Dialogue: 0,0:20:39.50,0:20:49.20,Ver,0,0,0,,♪ I’m over you. ♪
+Dialogue: 0,0:20:49.62,0:20:52.98,Ver,0,0,0,,♪ I thought that I could stomp you out ♪
+Dialogue: 0,0:20:53.05,0:20:54.96,Ver,0,0,0,,♪ like a fire, ♪
+Dialogue: 0,0:20:55.05,0:20:56.80,Ver,0,0,0,,♪ like a flame. ♪
+Dialogue: 0,0:20:57.25,0:21:00.76,Ver,0,0,0,,♪ It’s done but now I'm covered in ashes, ♪
+Dialogue: 0,0:21:00.85,0:21:04.42,Ver,0,0,0,,♪ and I still feel the same. ♪
+Dialogue: 0,0:21:04.90,0:21:09.82,Ver,0,0,0,,♪ I guess if I get rid of every\Nsign of what we ever did ♪
+Dialogue: 0,0:21:10.30,0:21:16.43,Ver,0,0,0,,♪ there’d be no one left to blame! ♪
+Dialogue: 0,0:21:16.50,0:21:18.36,Ver,0,0,0,,♪ Ohhh. ♪
+Dialogue: 0,0:21:20.35,0:21:23.10,Ver,0,0,0,,♪ Baby I’m not over it, ♪
+Dialogue: 0,0:21:23.20,0:21:25.31,Ver,0,0,0,,♪ I’m over you, ♪
+Dialogue: 0,0:21:25.50,0:21:27.78,Ver,0,0,0,,♪ I’m over you. ♪
+Dialogue: 0,0:21:28.46,0:21:32.62,Ver,0,0,0,,♪ Yeah, I try to look ahead,\Nsometimes I look back instead. ♪
+Dialogue: 0,0:21:32.72,0:21:35.82,Ver,0,0,0,,♪ Think I always knew, ohhhh. ♪
+Dialogue: 0,0:21:35.90,0:21:38.60,Ver,0,0,0,,♪ Baby I’ll get over it, ♪
+Dialogue: 0,0:21:38.70,0:21:40.62,Ver,0,0,0,,♪ I got over you. ♪
+Dialogue: 0,0:21:40.80,0:21:50.02,Ver,0,0,0,,♪ I got over you. ♪
