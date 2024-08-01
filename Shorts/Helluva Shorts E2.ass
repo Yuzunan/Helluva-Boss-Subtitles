@@ -1,0 +1,97 @@
+[Script Info]
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+
+[Yuzunan Project Garbage]
+Last Style Storage: Default
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 0.375000
+Scroll Position: 414
+Active Line: 423
+Video Position: 30685
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,50,&H00FFFFFF,&H000000FF,&H00472A27,&H00000000,-1,0,0,0,100,100,0,0,1,4,2,2,10,10,10,1
+Style: Top,Arial,50,&H00FFFFFF,&H000000FF,&H00472A27,&H00000000,-1,0,0,0,100,100,0,0,1,4,2,8,10,10,10,1
+Style: Right,Arial,50,&H00FFFFFF,&H000000FF,&H00472A27,&H00000000,-1,0,0,0,100,100,0,0,1,4,2,1,10,10,10,1
+Style: Left,Arial,50,&H00FFFFFF,&H000000FF,&H00472A27,&H00000000,-1,0,0,0,100,100,0,0,1,4,2,3,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:14.40,0:00:15.72,Default,,0,0,0,,That was a big jump!
+Dialogue: 0,0:00:16.82,0:00:20.04,Default,,0,0,0,,Christ on a stick, I’m freezing\Nmy little red cock off!
+Dialogue: 0,0:00:20.06,0:00:21.73,Default,,0,0,0,,Where is that thing\Nsupposed to be?
+Dialogue: 0,0:00:21.76,0:00:24.84,Default,,0,0,0,,The client said it was\Nnear the research station.
+Dialogue: 0,0:00:24.87,0:00:26.83,Default,,0,0,0,,Th-th-th-that research station?
+Dialogue: 0,0:00:33.56,0:00:34.79,Default,,0,0,0,,Oh crumbs,
+Dialogue: 0,0:00:34.80,0:00:35.80,Default,,0,0,0,,that can’t be good.
+Dialogue: 0,0:00:35.81,0:00:37.81,Default,,0,0,0,,Oh shi-yikes. Yeah.
+Dialogue: 0,0:00:37.82,0:00:38.90,Default,,0,0,0,,What happened here?
+Dialogue: 0,0:00:38.91,0:00:41.69,Default,,0,0,0,,These guys were torn to shreds.
+Dialogue: 0,0:00:41.70,0:00:45.79,Default,,0,0,0,,I’ve seen wrath b-b-beasts\Nless brutal than this.
+Dialogue: 0,0:00:45.80,0:00:47.59,Default,,0,0,0,,What and or who could’ve done this?
+Dialogue: 0,0:00:50.77,0:00:52.63,Default,,0,0,0,,Uh, that. Probably.
+Dialogue: 0,0:00:52.90,0:00:55.00,Default,,0,0,0,,Okay, Moxxie, get up top,\NMillie, cover the entrances.
+Dialogue: 0,0:00:55.01,0:00:56.34,Default,,0,0,0,,I got it here.
+Dialogue: 0,0:00:56.35,0:00:57.09,Default,,0,0,0,,Yes, sir.
+Dialogue: 0,0:01:01.40,0:01:03.25,Default,,0,0,0,,Hey- y-you got him Mox?
+Dialogue: 0,0:01:03.26,0:01:04.20,Default,,0,0,0,,Yes, sir!
+Dialogue: 0,0:01:04.21,0:01:04.74,Default,,0,0,0,,Sweet,
+Dialogue: 0,0:01:04.75,0:01:06.55,Default,,0,0,0,,let’s turn him into some SWISS cheese!
+Dialogue: 0,0:01:21.60,0:01:23.47,Default,,0,0,0,,Guess he met his match, heh heh.
+Dialogue: 0,0:01:23.48,0:01:26.31,Default,,0,0,0,,Eat shit in Hell polar slut!
+Dialogue: 0,0:01:26.32,0:01:28.84,Default,,0,0,0,,Good job Mox, now let’s get\Nout of this frozen fuck-hole.
+Dialogue: 0,0:01:28.85,0:01:30.30,Default,,0,0,0,,Hold it, Blitzø.
+Dialogue: 0,0:01:30.50,0:01:32.17,Default,,0,0,0,,Look at these marks!
+Dialogue: 0,0:01:32.18,0:01:34.26,Default,,0,0,0,,They weren’t made by no bullets.
+Dialogue: 0,0:01:34.40,0:01:35.27,Default,,0,0,0,,And here-
+Dialogue: 0,0:01:35.76,0:01:36.84,Default,,0,0,0,,bitemarks.
+Dialogue: 0,0:01:36.85,0:01:38.64,Default,,0,0,0,,Shhhhit.
+Dialogue: 0,0:01:38.65,0:01:40.24,Default,,0,0,0,,Uh what, what’s the problem?
+Dialogue: 0,0:01:40.25,0:01:42.27,Default,,0,0,0,,This slut wasn’t running toward us.
+Dialogue: 0,0:01:42.28,0:01:43.71,Default,,0,0,0,,He was running away.
+Dialogue: 0,0:01:44.06,0:01:45.99,Default,,0,0,0,,From something else.
+Dialogue: 0,0:01:49.52,0:01:50.34,Default,,0,0,0,,Look!
+Dialogue: 0,0:01:52.55,0:01:53.67,Default,,0,0,0,,Drop him!
+Dialogue: 0,0:01:55.39,0:01:56.27,Default,,0,0,0,,Shit.
+Dialogue: 0,0:01:57.60,0:01:58.81,Default,,0,0,0,,Fuck, that’s like ten!
+Dialogue: 0,0:01:58.82,0:01:59.59,Default,,0,0,0,,Well...
+Dialogue: 0,0:02:00.09,0:02:01.87,Default,,0,0,0,,Maybe those ones are nice.
+Dialogue: 0,0:02:10.03,0:02:11.29,Default,,0,0,0,,They’re not!
+Dialogue: 0,0:02:11.30,0:02:11.96,Default,,0,0,0,,RUN!
+Dialogue: 0,0:02:16.19,0:02:18.25,Default,,0,0,0,,Mox, come on!
+Dialogue: 0,0:02:21.30,0:02:23.55,Default,,0,0,0,,Sir, uh, could you get us out of here!?
+Dialogue: 0,0:02:23.56,0:02:24.55,Default,,0,0,0,,Fucking wrist crystal!
+Dialogue: 0,0:02:24.56,0:02:26.38,Default,,0,0,0,,What’s the hold up, Blitzø?
+Dialogue: 0,0:02:26.39,0:02:29.48,Default,,0,0,0,,We- I can’t just make it go, okay? I’m\Nstill getting used to this fucking thing!
+Dialogue: 0,0:02:29.49,0:02:31.28,Default,,0,0,0,,God- ugh.
+Dialogue: 0,0:02:33.25,0:02:35.41,Default,,0,0,0,,Damn it, damn it, damn it,\Ndamn it, damn it, damn it!
+Dialogue: 0,0:02:37.73,0:02:38.95,Default,,0,0,0,,It’s from Lust!
+Dialogue: 0,0:02:38.96,0:02:41.11,Default,,0,0,0,,You can’t just brute force it!
+Dialogue: 0,0:02:39.96,0:02:41.11,Top,,0,0,0,,FUCK!
+Dialogue: 0,0:02:41.12,0:02:42.55,Default,,0,0,0,,You gotta treat it right,
+Dialogue: 0,0:02:42.56,0:02:43.40,Default,,0,0,0,,caress it.
+Dialogue: 0,0:02:44.17,0:02:45.63,Default,,0,0,0,,I don’t know I- ugh!
+Dialogue: 0,0:02:45.64,0:02:47.17,Default,,0,0,0,,I’ve never been good at this shit!
+Dialogue: 0,0:02:47.18,0:02:48.01,Default,,0,0,0,,Use your tongue!
+Dialogue: 0,0:02:52.18,0:02:54.18,Default,,0,0,0,,How do you not know how to do this?
+Dialogue: 0,0:02:54.19,0:02:56.34,Default,,0,0,0,,Moxxie, I’m a fucking top!
+Dialogue: 0,0:02:58.10,0:03:00.24,Default,,0,0,0,,T-T-Try spelling the alphabet.
+Dialogue: 0,0:03:01.19,0:03:03.38,Default,,0,0,0,,"A"... uh, um- "C- B!"
+Dialogue: 0,0:03:03.38,0:03:04.91,Default,,0,0,0,,With your tongue!
+Dialogue: 0,0:03:04.92,0:03:06.11,Default,,0,0,0,,Oh, I knew that.
+Dialogue: 0,0:03:06.12,0:03:08.90,Default,,0,0,0,,"A", "B", "C", and "D"
+Dialogue: 0,0:03:09.50,0:03:11.06,Default,,0,0,0,,Oh for Satan’s sake.
+Dialogue: 0,0:03:14.77,0:03:15.64,Default,,0,0,0,,Oh damn.
+Dialogue: 0,0:03:15.65,0:03:17.30,Default,,0,0,0,,I taught him that.
+Dialogue: 0,0:03:19.24,0:03:20.89,Default,,0,0,0,,Can we go, please?
+Dialogue: 0,0:03:27.99,0:03:30.83,Default,,0,0,0,,Eat this, bitches! Hah!
+
+Dialogue: 0,0:01:12.27,0:01:13.98,Default,,0,0,0,,[Shaky inhale]
+Dialogue: 0,0:01:13.99,0:01:15.98,Default,,0,0,0,,[Slow exhale]
