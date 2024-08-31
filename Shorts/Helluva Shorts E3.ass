@@ -1,0 +1,128 @@
+[Script Info]
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+
+[Yuzunan Project Garbage]
+Last Style Storage: Default
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 0.375000
+Scroll Position: 414
+Active Line: 423
+Video Position: 30685
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,50,&H00FFFFFF,&H000000FF,&H00472A27,&H00000000,-1,0,0,0,100,100,0,0,1,4,2,2,10,10,10,1
+Style: Top,Arial,50,&H00FFFFFF,&H000000FF,&H00472A27,&H00000000,-1,0,0,0,100,100,0,0,1,4,2,8,10,10,10,1
+Style: Right,Arial,50,&H00FFFFFF,&H000000FF,&H00472A27,&H00000000,-1,0,0,0,100,100,0,0,1,4,2,1,10,10,10,1
+Style: Left,Arial,50,&H00FFFFFF,&H000000FF,&H00472A27,&H00000000,-1,0,0,0,100,100,0,0,1,4,2,3,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:13.95,0:00:15.21,Default,,0,0,0,,Aw, thanks Mills, but-
+Dialogue: 0,0:00:15.23,0:00:19.28,Default,,0,0,0,,I don’t think I need back up to take\Ndown some suburban, college girl.
+Dialogue: 0,0:00:19.30,0:00:21.23,Default,,0,0,0,,You enjoy that bullshit musical,
+Dialogue: 0,0:00:21.25,0:00:23.35,Default,,0,0,0,,and stop trying to use me as\Nan excuse to get out of it-
+Dialogue: 0,0:00:23.36,0:00:24.18,Default,,0,0,0,,Hey, look.
+Dialogue: 0,0:00:24.19,0:00:28.00,Default,,0,0,0,,If I had to sit through that miserable,\NFrench hog shit well so do you, okay?
+Dialogue: 0,0:00:28.01,0:00:28.79,Default,,0,0,0,,Bye, Mills!
+Dialogue: 0,0:00:36.80,0:00:39.65,Default,,0,0,0,,Oh ho, ho. Bingo.
+Dialogue: 0,0:00:39.70,0:00:41.63,Default,,0,0,0,,"B-Y-N-G-O"
+Dialogue: 0,0:00:43.83,0:00:47.55,Default,,0,0,0,,♪ I love killing, shooting\Nthings, I’ll use a saw! I’ll use a fork, too! ♪
+Dialogue: 0,0:00:47.57,0:00:48.44,Default,,0,0,0,,♪ Da dun, da da. ♪
+Dialogue: 0,0:00:48.45,0:00:51.70,Default,,0,0,0,,♪ I love killing things\Nwith any kind of weapon, ♪
+Dialogue: 0,0:00:51.71,0:00:53.71,Default,,0,0,0,,♪ give me a knife and I’ll kill someone ♪
+Dialogue: 0,0:00:53.72,0:00:56.21,Default,,0,0,0,,♪ and today it’s gonna be a stupid bitch! ♪
+Dialogue: 0,0:00:56.22,0:00:56.97,Default,,0,0,0,,♪ Da da- ughn!
+Dialogue: 0,0:00:57.77,0:00:58.51,Default,,0,0,0,,Oof!!
+Dialogue: 0,0:00:58.52,0:00:59.57,Default,,0,0,0,,Ow! What the fuck?!
+Dialogue: 0,0:00:59.58,0:01:01.09,Default,,0,0,0,,AHH!
+Dialogue: 0,0:01:01.53,0:01:02.45,Default,,0,0,0,,Oh!
+Dialogue: 0,0:01:02.96,0:01:03.86,Default,,0,0,0,,Oooh.
+Dialogue: 0,0:01:04.70,0:01:07.68,Default,,0,0,0,,Ugh, must be watching them\Ndamn “hen-tays” again. 
+Dialogue: 0,0:01:07.69,0:01:09.30,Default,,0,0,0,,Why won’t she leave?!
+Dialogue: 0,0:01:09.67,0:01:11.24,Default,,0,0,0,,Oh my god!
+Dialogue: 0,0:01:11.67,0:01:13.14,Default,,0,0,0,,What... are you?
+Dialogue: 0,0:01:13.15,0:01:16.47,Default,,0,0,0,,I’m your worst fucking nightmare, bitch!
+Dialogue: 0,0:01:17.88,0:01:21.01,Default,,0,0,0,,Fuck. How are you doing this? What is that?!
+Dialogue: 0,0:01:21.02,0:01:23.55,Default,,0,0,0,,It’s official merch from "Akuma no Otto".
+Dialogue: 0,0:01:23.56,0:01:27.64,Default,,0,0,0,,It’s the pendant given to\NSetsuki in episode 5-6-9
+Dialogue: 0,0:01:27.65,0:01:29.63,Default,,0,0,0,,that protects its wearer from-
+Dialogue: 0,0:01:29.72,0:01:31.85,Default,,0,0,0,,wait are you a demon? Like…
+Dialogue: 0,0:01:31.90,0:01:33.75,Default,,0,0,0,,a real demon?
+Dialogue: 0,0:01:33.95,0:01:36.14,Default,,0,0,0,,Yeah, basically. Look, where\Ndid you even get something like-
+Dialogue: 0,0:01:36.15,0:01:37.30,Default,,0,0,0,,A demon?
+Dialogue: 0,0:01:37.31,0:01:40.35,Default,,0,0,0,,Here to steal a little kitten like me?
+Dialogue: 0,0:01:40.36,0:01:44.09,Default,,0,0,0,,Forced to be part of your\Ndemonic harem, "blushes".
+Dialogue: 0,0:01:44.10,0:01:44.68,Default,,0,0,0,,Huh.
+Dialogue: 0,0:01:44.69,0:01:47.01,Default,,0,0,0,,Why d'you think I would\Ndo something like that?
+Dialogue: 0,0:01:50.35,0:01:52.30,Default,,0,0,0,,Ohhhh, you’re one of those.
+Dialogue: 0,0:01:52.31,0:01:53.66,Default,,0,0,0,,So what’s your name?
+Dialogue: 0,0:01:53.67,0:01:54.75,Default,,0,0,0,,Uhhh.
+Dialogue: 0,0:01:54.76,0:01:55.32,Default,,0,0,0,,Blitzø.
+Dialogue: 0,0:01:55.33,0:01:58.40,Default,,0,0,0,,What are you gonna do to me, Blitzy-kun?
+Dialogue: 0,0:01:58.41,0:02:00.47,Default,,0,0,0,,Uh. Apparently nothing\Nwhile you’re wearing that. 
+Dialogue: 0,0:02:00.48,0:02:02.20,Default,,0,0,0,,I don’t feel like myself.
+Dialogue: 0,0:02:02.21,0:02:04.19,Default,,0,0,0,,Are- are you...
+Dialogue: 0,0:02:04.20,0:02:05.42,Default,,0,0,0,,putting some sort of-
+Dialogue: 0,0:02:05.43,0:02:07.75,Default,,0,0,0,,nasty spell over me?
+Dialogue: 0,0:02:07.76,0:02:10.31,Default,,0,0,0,,What? No, I’m literally\Njust standing here, lady. 
+Dialogue: 0,0:02:10.32,0:02:13.10,Default,,0,0,0,,If you say so, master.
+Dialogue: 0,0:02:13.11,0:02:13.85,Default,,0,0,0,,I mean...
+Dialogue: 0,0:02:14.69,0:02:15.93,Default,,0,0,0,,daddy.
+Dialogue: 0,0:02:16.50,0:02:18.89,Default,,0,0,0,,But when you look into my eyes,
+Dialogue: 0,0:02:19.15,0:02:21.85,Default,,0,0,0,,it’s like I have no control over my...
+Dialogue: 0,0:02:22.96,0:02:23.52,Default,,0,0,0,,No!
+Dialogue: 0,0:02:23.45,0:02:25.87,Top,,0,0,0,,Ahh-haaah, 'kaaay.
+Dialogue: 0,0:02:23.83,0:02:25.52,Default,,0,0,0,,You demonic brute!
+Dialogue: 0,0:02:25.57,0:02:28.10,Default,,0,0,0,,I’m too pure a heart for you to corrupt! 
+Dialogue: 0,0:02:28.11,0:02:30.05,Default,,0,0,0,,Oh, thank fucking Satan.
+Dialogue: 0,0:02:30.16,0:02:31.34,Default,,0,0,0,,Satan?
+Dialogue: 0,0:02:31.43,0:02:32.61,Default,,0,0,0,,Is that your lord?
+Dialogue: 0,0:02:33.19,0:02:36.25,Default,,0,0,0,,The one you plan to offer\Nme to as a sexual sacrifice?
+Dialogue: 0,0:02:36.97,0:02:39.38,Default,,0,0,0,,But once you have me, you realize\Nyou could never go through with it
+Dialogue: 0,0:02:39.39,0:02:41.48,Default,,0,0,0,,because I’m the only woman who\Ncould ever make you feel something
+Dialogue: 0,0:02:41.49,0:02:43.37,Default,,0,0,0,,after the loss of your wife!
+Dialogue: 0,0:02:44.77,0:02:45.62,Default,,0,0,0,,Your wife-
+Dialogue: 0,0:02:45.63,0:02:48.72,Default,,0,0,0,,who was the first one your\Nlord Satan took as a concubine.
+Dialogue: 0,0:02:48.73,0:02:50.66,Default,,0,0,0,,But now you’d rather have me!
+Dialogue: 0,0:02:50.67,0:02:54.35,Default,,0,0,0,,And you’d rather fight him to the death\Nthan allow me to come to the same fate!
+Dialogue: 0,0:02:54.36,0:02:57.22,Default,,0,0,0,,Ew. Lady look, I was sent\Nhere to kill you, alright?
+Dialogue: 0,0:02:57.23,0:02:59.12,Default,,0,0,0,,You were a bitch online one time,
+Dialogue: 0,0:02:59.13,0:03:01.40,Default,,0,0,0,,someone didn’t like it,\Nthey put a hit on you,
+Dialogue: 0,0:03:01.41,0:03:04.35,Default,,0,0,0,,I know it’s excessive but I\Ndon’t make the rules, oh well. 
+Dialogue: 0,0:03:04.36,0:03:06.56,Default,,0,0,0,,You want to kill...
+Dialogue: 0,0:03:06.57,0:03:07.54,Default,,0,0,0,,Meee?
+Dialogue: 0,0:03:07.55,0:03:09.00,Default,,0,0,0,,Oh yeah. Even more now.
+Dialogue: 0,0:03:09.01,0:03:10.65,Default,,0,0,0,,Of course!
+Dialogue: 0,0:03:10.66,0:03:15.36,Default,,0,0,0,,You want to take my mortal soul to Hell\Nso that we can be together forever! 
+Dialogue: 0,0:03:15.37,0:03:16.42,Default,,0,0,0,,Look, whatever gets you there.
+Dialogue: 0,0:03:16.43,0:03:18.94,Default,,0,0,0,,Can you just take off the\Nnecklace and hand over my knife.
+Dialogue: 0,0:03:18.95,0:03:20.10,Default,,0,0,0,,Yes master!!
+Dialogue: 0,0:03:20.65,0:03:22.45,Default,,0,0,0,,No, I mustn't.
+Dialogue: 0,0:03:22.47,0:03:23.98,Default,,0,0,0,,But I want you!
+Dialogue: 0,0:03:23.99,0:03:25.22,Default,,0,0,0,,My soul...
+Dialogue: 0,0:03:25.23,0:03:27.60,Default,,0,0,0,,but I’m destined for this!
+Dialogue: 0,0:03:27.61,0:03:29.12,Default,,0,0,0,,Bitch, can we hurry this up?
+Dialogue: 0,0:03:29.13,0:03:31.76,Default,,0,0,0,,OHHHHH YESSS!
+Dialogue: 0,0:03:32.79,0:03:33.37,Default,,0,0,0,,Thanks.
+Dialogue: 0,0:03:33.38,0:03:36.53,Default,,0,0,0,,Make it quick, my demon prince!
+Dialogue: 0,0:03:39.55,0:03:42.07,Default,,0,0,0,,Eugh. Can you please stop\Nenjoying this so much? Fuck. 
+Dialogue: 0,0:03:42.20,0:03:43.61,Default,,0,0,0,,I will see you...
+Dialogue: 0,0:03:43.62,0:03:45.31,Default,,0,0,0,,on the other side...
+Dialogue: 0,0:03:45.32,0:03:46.11,Default,,0,0,0,,my-
+Dialogue: 0,0:03:46.15,0:03:47.97,Default,,0,0,0,,Blitzy-kun.
+Dialogue: 0,0:03:49.64,0:03:51.80,Default,,0,0,0,,Stab. Stab stab.
+Dialogue: 0,0:03:56.48,0:03:57.78,Default,,0,0,0,,Hey, yeah, it’s done.
+Dialogue: 0,0:03:57.79,0:03:59.61,Default,,0,0,0,,So you can go ahead and\Nwire me that money now,
+Dialogue: 0,0:03:59.62,0:04:02.57,Default,,0,0,0,,and I’ll go ahead and never think\Nabout this night ever again. 
+Dialogue: 0,0:04:02.89,0:04:05.97,Top,,0,0,0,,I’m here, Blitzy-kuuun!!
+Dialogue: 0,0:04:06.16,0:04:08.05,Default,,0,0,0,,I saw your billboard!
+Dialogue: 0,0:04:08.06,0:04:09.55,Default,,0,0,0,,I’m here for you my love!
+Dialogue: 0,0:04:09.56,0:04:12.65,Default,,0,0,0,,I’ll be by your side forever!
+Dialogue: 0,0:04:12.66,0:04:14.93,Default,,0,0,0,,BLITZY-KUUUN!!!! 
