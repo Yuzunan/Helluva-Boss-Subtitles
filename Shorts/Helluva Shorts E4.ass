@@ -1,0 +1,147 @@
+[Script Info]
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+
+[Yuzunan Project Garbage]
+Last Style Storage: Default
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 0.375000
+Scroll Position: 414
+Active Line: 423
+Video Position: 30685
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,50,&H00FFFFFF,&H000000FF,&H00472A27,&H00000000,-1,0,0,0,100,100,0,0,1,4,2,2,10,10,10,1
+Style: Top,Arial,50,&H00FFFFFF,&H000000FF,&H00472A27,&H00000000,-1,0,0,0,100,100,0,0,1,4,2,8,10,10,10,1
+Style: Right,Arial,50,&H00FFFFFF,&H000000FF,&H00472A27,&H00000000,-1,0,0,0,100,100,0,0,1,4,2,1,10,10,10,1
+Style: Left,Arial,50,&H00FFFFFF,&H000000FF,&H00472A27,&H00000000,-1,0,0,0,100,100,0,0,1,4,2,3,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:12.89,0:00:13.85,Default,,0,0,0,,Alright.
+Dialogue: 0,0:00:13.96,0:00:15.45,Default,,0,0,0,,Seems like this one’s nice and remote.
+Dialogue: 0,0:00:15.56,0:00:16.88,Default,,0,0,0,,Won’t take us too long to-
+Dialogue: 0,0:00:16.99,0:00:17.88,Default,,0,0,0,,WHAT THE F-
+Dialogue: 0,0:00:19.44,0:00:20.95,Default,,0,0,0,,What the fuck are these things?!
+Dialogue: 0,0:00:21.16,0:00:23.49,Default,,0,0,0,,I want to say these are earth goats, sir.
+Dialogue: 0,0:00:24.47,0:00:27.92,Default,,0,0,0,,I don’t care how great they\Nare, they are In. My. Way!
+Dialogue: 0,0:00:32.66,0:00:33.90,Default,,0,0,0,,¡¿Que esta pasando!?\N(What's going on!?)
+Dialogue: 0,0:00:33.91,0:00:34.97,Default,,0,0,0,,¡¿Que carajo!?\N(What the Hell!?)
+Dialogue: 0,0:00:35.97,0:00:37.62,Default,,0,0,0,,Nice! Easy, easy goats! Easy!
+Dialogue: 0,0:00:37.63,0:00:39.16,Default,,0,0,0,,El Chupacabras!
+Dialogue: 0,0:00:42.44,0:00:43.58,Default,,0,0,0,,Shit! Scatter!
+Dialogue: 0,0:00:49.70,0:00:51.42,Default,,0,0,0,,Run you stretched asshole!
+Dialogue: 0,0:00:52.14,0:00:53.10,Default,,0,0,0,,Dammit!!
+Dialogue: 0,0:00:53.11,0:00:54.00,Default,,0,0,0,,Augh!!
+Dialogue: 0,0:00:54.13,0:00:56.95,Default,,0,0,0,,Pendejo que te voy a arrancar la cabeza-\N(You IDIOT, I'm gonna tear your fucking head off-)
+Dialogue: 0,0:00:56.96,0:00:59.05,Default,,0,0,0,,la Chupacabra de mierda esta...\N(piece of shit Chupacabra...)
+Dialogue: 0,0:00:59.06,0:01:00.71,Default,,0,0,0,,Ay caramba, he brought the big guns. 
+Dialogue: 0,0:01:00.75,0:01:03.85,Default,,0,0,0,,Come on gang, we lost the element of\Nsurprise, let’s just get 'em tomorrow.
+Dialogue: 0,0:01:03.90,0:01:04.94,Default,,0,0,0,,You got it, sir.
+Dialogue: 0,0:01:05.00,0:01:06.70,Default,,0,0,0,,Wooooah- let's go Millie!
+Dialogue: 0,0:01:22.00,0:01:22.88,Default,,0,0,0,,Augh!
+Dialogue: 0,0:01:23.37,0:01:25.81,Default,,0,0,0,,Mmmm, eughh.
+Dialogue: 0,0:01:26.80,0:01:27.95,Default,,0,0,0,,What the...
+Dialogue: 0,0:01:27.96,0:01:28.95,Default,,0,0,0,,Eff?!
+Dialogue: 0,0:01:29.67,0:01:31.35,Default,,0,0,0,,¡Vengan todos!\N(Come one, come all!)
+Dialogue: 0,0:01:31.40,0:01:33.11,Default,,0,0,0,,¡Señoras y Señores!\N(Ladies and gentleman!)
+Dialogue: 0,0:01:33.12,0:01:34.60,Default,,0,0,0,,¡Pásenle, pásenle!\N(Step right up, step right up!)
+Dialogue: 0,0:01:34.65,0:01:37.40,Default,,0,0,0,,¡Vengan a ver un AUTÉNTICO Chupacabra!\N(Come and see an AUTHENTIC Chupacabra!)
+Dialogue: 0,0:01:37.42,0:01:39.28,Default,,0,0,0,,Only a hundred pesos!
+Dialogue: 0,0:01:39.29,0:01:44.48,Default,,0,0,0,,To see a real chupacabras\Ncaught by ME last night. 
+Dialogue: 0,0:01:44.50,0:01:46.01,Default,,0,0,0,,A chupa what!?
+Dialogue: 0,0:01:46.58,0:01:49.74,Default,,0,0,0,,Look buddy, I’ll have you\Nknow that I am a dignified-
+Dialogue: 0,0:01:49.75,0:01:50.98,Default,,0,0,0,,No hablo Inglés.
+Dialogue: 0,0:01:51.00,0:01:52.75,Default,,0,0,0,,What? You were just speaking-
+Dialogue: 0,0:01:53.10,0:01:54.70,Default,,0,0,0,,Everyone!
+Dialogue: 0,0:01:54.71,0:01:57.38,Default,,0,0,0,,Watch this monstruo
+Dialogue: 0,0:01:57.39,0:02:00.90,Default,,0,0,0,,suck the blood from the goat!
+Dialogue: 0,0:02:03.93,0:02:05.45,Default,,0,0,0,,Bleh!! Urgh!
+Dialogue: 0,0:02:05.54,0:02:06.60,Default,,0,0,0,,Look asshole!
+Dialogue: 0,0:02:06.01,0:02:09.70,Default,,0,0,0,,The only sucking I do is on cocks-
+Dialogue: 0,0:02:09.70,0:02:10.74,Default,,0,0,0,,EUGH!
+Dialogue: 0,0:02:10.75,0:02:12.50,Default,,0,0,0,,Not that kind!
+Dialogue: 0,0:02:12.51,0:02:13.34,Default,,0,0,0,,Pussies-
+Dialogue: 0,0:02:13.35,0:02:14.32,Default,,0,0,0,,FUCK!
+Dialogue: 0,0:02:14.33,0:02:16.48,Default,,0,0,0,,Dammit I’m doing a bit!
+Dialogue: 0,0:02:16.49,0:02:19.11,Default,,0,0,0,,And cloacas, ah…
+Dialogue: 0,0:02:21.10,0:02:22.48,Default,,0,0,0,,Now if you don’t mind I-
+Dialogue: 0,0:02:22.50,0:02:25.37,Default,,0,0,0,,OH!! I’M GONNA PUT YOU\NIN THE FUCKING GROUND!
+Dialogue: 0,0:02:25.38,0:02:26.30,Default,,0,0,0,,Hang on.
+Dialogue: 0,0:02:29.29,0:02:33.18,Default,,0,0,0,,Fuuuuuuuuck me.
+Dialogue: 0,0:02:37.47,0:02:38.38,Default,,0,0,0,,Alright.
+Dialogue: 0,0:02:38.39,0:02:39.82,Default,,0,0,0,,We gotta secure the scene.
+Dialogue: 0,0:02:39.83,0:02:42.47,Default,,0,0,0,,We heard that there’s a real "chupacabra" here?
+Dialogue: 0,0:02:42.57,0:02:43.82,Default,,0,0,0,,Yes, over here!
+Dialogue: 0,0:02:44.15,0:02:45.56,Default,,0,0,0,,Hundred pesos please.
+Dialogue: 0,0:02:45.93,0:02:47.58,Default,,0,0,0,,Señor, we are with the government.
+Dialogue: 0,0:02:48.03,0:02:49.57,Default,,0,0,0,,Hundred.
+Dialogue: 0,0:02:49.58,0:02:51.80,Default,,0,0,0,,Pesos.
+Dialogue: 0,0:02:52.87,0:02:53.72,Default,,0,0,0,,Right.
+Dialogue: 0,0:02:54.19,0:02:55.34,Default,,0,0,0,,So uhhh…
+Dialogue: 0,0:02:55.79,0:02:56.56,Default,,0,0,0,,How much is that?
+Dialogue: 0,0:02:56.57,0:02:58.05,Default,,0,0,0,,Five dollars and sixty nine cents.
+Dialogue: 0,0:02:58.06,0:02:59.31,Default,,0,0,0,,Uhh, you have any cash on you?
+Dialogue: 0,0:02:59.32,0:03:00.75,Default,,0,0,0,,Who has cash anymore?
+Dialogue: 0,0:03:00.76,0:03:02.52,Default,,0,0,0,,You paid the tip with cash\Nat brunch the other day.
+Dialogue: 0,0:03:02.54,0:03:04.09,Default,,0,0,0,,Yeah, that’s all I had.
+Dialogue: 0,0:03:04.30,0:03:05.37,Default,,0,0,0,,Why don’t you pay him?
+Dialogue: 0,0:03:05.57,0:03:07.07,Default,,0,0,0,,I bought us the coffee this morning.
+Dialogue: 0,0:03:07.08,0:03:10.00,Default,,0,0,0,,Are you really pulling that card in\Nfront of this fine man and his fine goats?
+Dialogue: 0,0:03:11.25,0:03:13.74,Default,,0,0,0,,No, what? I literally never have cash in my life.
+Dialogue: 0,0:03:13.75,0:03:15.26,Default,,0,0,0,,You're always the one who pays cash. 
+Dialogue: 0,0:03:15.27,0:03:16.48,Default,,0,0,0,,Hey, hey psst!
+Dialogue: 0,0:03:16.49,0:03:18.48,Default,,0,0,0,,Yeah, I know I killed some\Nof your family earlier,
+Dialogue: 0,0:03:18.49,0:03:20.52,Default,,0,0,0,,but if you help me out of this little pickle
+Dialogue: 0,0:03:20.53,0:03:22.53,Default,,0,0,0,,I’ll make it up to you little fella!
+Dialogue: 0,0:03:25.27,0:03:27.10,Default,,0,0,0,,Sooo, can you take caaard, or-
+Dialogue: 0,0:03:27.11,0:03:28.56,Default,,0,0,0,,OW!
+Dialogue: 0,0:03:28.77,0:03:31.81,Default,,0,0,0,,Ffff-uck, you stupid goat!
+Dialogue: 0,0:03:31.82,0:03:34.26,Default,,0,0,0,,YOU INSULT MY
+Dialogue: 0,0:03:34.27,0:03:35.57,Default,,0,0,0,,GOOOAT?!
+Dialogue: 0,0:03:36.79,0:03:39.15,Default,,0,0,0,,YOU PAY WITH YOUR
+Dialogue: 0,0:03:39.16,0:03:40.51,Default,,0,0,0,,LIIIIIIIIFE!
+Dialogue: 0,0:03:40.51,0:03:42.45,Default,,0,0,0,,Hey, hey, hey, hey. Hey, hey, hey, hey,
+Dialogue: 0,0:03:42.46,0:03:44.34,Default,,0,0,0,,hey, hey, hey, hey, hey,\Nhey, hey, hey, hey, hey.
+Dialogue: 0,0:03:44.35,0:03:45.97,Right,,0,0,0,,Wooahhh.
+Dialogue: 0,0:03:44.35,0:03:45.97,Left,,0,0,0,,Heyyyy.
+Dialogue: 0,0:03:54.25,0:03:56.81,Default,,0,0,0,,Estoy. muerto.\N(I'm... dead.)
+Dialogue: 0,0:03:56.82,0:03:57.77,Default,,0,0,0,,Bleh.
+Dialogue: 0,0:03:58.05,0:04:00.20,Default,,0,0,0,,Oh dear god.
+Dialogue: 0,0:04:00.21,0:04:01.65,Default,,0,0,0,,DEMON GUN!!
+Dialogue: 0,0:04:05.15,0:04:06.87,Default,,0,0,0,,Hey, thatta boy!
+Dialogue: 0,0:04:11.15,0:04:12.47,Default,,0,0,0,,Hey dipshits!
+Dialogue: 0,0:04:12.48,0:04:13.97,Default,,0,0,0,,Remember me?
+Dialogue: 0,0:04:14.65,0:04:15.58,Default,,0,0,0,,It’s him!
+Dialogue: 0,0:04:15.59,0:04:16.55,Default,,0,0,0,,Get him!
+Dialogue: 0,0:04:30.40,0:04:31.67,Default,,0,0,0,,Chupacabra! 
+Dialogue: 0,0:04:31.68,0:04:33.48,Default,,0,0,0,,Yaaay! ¡Me gustaaa!\N(Yaaay! I like iiiit!)
+Dialogue: 0,0:04:34.20,0:04:35.20,Default,,0,0,0,,Yeah, bitch!
+Dialogue: 0,0:04:35.21,0:04:37.80,Default,,0,0,0,,I’m the fucking "chupra-ca-dupra"-
+Dialogue: 0,0:04:37.81,0:04:41.61,Default,,0,0,0,,and I’m here\Nto fuck you aaaall.
+Dialogue: 0,0:04:41.76,0:04:43.24,Default,,0,0,0,,Oh my god, everybody run!
+Dialogue: 0,0:04:43.25,0:04:45.47,Default,,0,0,0,,He’s got a gun! 
+Dialogue: 0,0:04:45.48,0:04:47.75,Default,,0,0,0,,¡¡Aye dio mío!! ¡¡¡Tiene pistola!!!\N(Oh my god!! He has a gun!!!)
+Dialogue: 0,0:04:51.73,0:04:53.14,Left,,0,0,0,,We got badges, we're legit!
+Dialogue: 0,0:04:51.03,0:04:52.84,Right,,0,0,0,,Agent one! Get over here!
+Dialogue: 0,0:04:53.15,0:04:54.04,Default,,0,0,0,,We’re important!
+Dialogue: 0,0:04:54.05,0:04:55.23,Default,,0,0,0,,Get out of our way!
+Dialogue: 0,0:04:57.36,0:04:59.40,Default,,0,0,0,,No! More goats!
+Dialogue: 0,0:04:59.41,0:05:00.82,Default,,0,0,0,,Oh my god, run!
+Dialogue: 0,0:05:00.83,0:05:01.82,Default,,0,0,0,,What are you do- 
+Dialogue: 0,0:05:01.83,0:05:03.75,Default,,0,0,0,,Do NOT trip, do not trip!
+Dialogue: 0,0:05:04.14,0:05:05.05,Default,,0,0,0,,Come on!
+Dialogue: 0,0:05:05.07,0:05:06.92,Default,,0,0,0,,AHHH! Too many goats!!!
+Dialogue: 0,0:05:06.93,0:05:09.05,Default,,0,0,0,,Oh, too many goats!!
+Dialogue: 0,0:05:09.06,0:05:10.99,Default,,0,0,0,,Oh my god, more goats!
+Dialogue: 0,0:05:14.16,0:05:16.03,Default,,0,0,0,,Amazing work there lil' buddy.
+Dialogue: 0,0:05:16.24,0:05:18.20,Default,,0,0,0,,You really helped my little red ass out.
+Dialogue: 0,0:05:18.31,0:05:24.10,Default,,0,0,0,,And for that I’m making you an\Nhonorary I.M.P V.I.P uh… associate.
+Dialogue: 0,0:05:24.45,0:05:27.37,Default,,0,0,0,,Here, have a sticker. Ha ha! Nyonk!
+Dialogue: 0,0:05:28.47,0:05:29.48,Default,,0,0,0,,Later!
