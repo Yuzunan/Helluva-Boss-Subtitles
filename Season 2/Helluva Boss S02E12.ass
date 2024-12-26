@@ -1,0 +1,566 @@
+[Script Info]
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+
+[Yuzunan Project Garbage]
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 0.625000
+Scroll Position: 374
+Active Line: 376
+Video Position: 32782
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Top,Arial,50,&H00FFFFFF,&H000000FF,&H00472A27,&H00000000,-1,0,0,0,100,100,0,0,1,4,2,8,10,10,10,1
+Style: Xmas,Arial,50,&H0048C405,&H000000FF,&H00171EC4,&H00000000,-1,0,0,0,100,100,0,0,1,4,2,8,10,10,10,1
+Style: XmasD,Arial,50,&H0048C405,&H000000FF,&H00171EC4,&H00000000,-1,0,0,0,100,100,0,0,1,4,2,2,10,10,10,1
+Style: Default,Arial,50,&H00FFFFFF,&H000000FF,&H00472A27,&H00000000,-1,0,0,0,100,100,0,0,1,4,2,2,10,10,10,1
+Style: JOLIVIOLET,Arial,50,&H00FFFFFF,&H000000FF,&H00F32FB4,&H00000000,-1,0,0,0,100,100,0,0,1,4,2,1,10,10,10,1
+Style: Right,Arial,50,&H00FFFFFF,&H000000FF,&H00472A27,&H00000000,-1,0,0,0,100,100,0,0,1,4,2,3,10,10,10,1
+Style: StolasUp,Arial,50,&H00585FD3,&H000000FF,&H00813D3D,&H00000000,-1,0,0,0,100,100,0,0,1,4,2,8,10,10,10,1
+Style: Stolas,Arial,50,&H00585FD3,&H000000FF,&H00813D3D,&H00000000,-1,0,0,0,100,100,0,0,1,4,2,2,10,10,10,1
+Style: Via,Arial,50,&H00C67AEF,&H000000FF,&H00C41795,&H00000000,-1,0,0,0,100,100,0,0,1,4,2,2,10,10,10,1
+Style: Song,Arial,50,&H00FFFFFF,&H000000FF,&H007071FF,&H00000000,-1,0,0,0,100,100,0,0,1,4,2,8,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,0,0,0,,
+Dialogue: 0,0:00:12.60,0:00:15.80,Default,0,0,0,,Well good morning there,\NPrince Sleeps-A-Lot!
+Dialogue: 0,0:00:16.60,0:00:18.21,Default,0,0,0,,D’you sleep well, big bird?
+Dialogue: 0,0:00:18.97,0:00:21.03,Default,0,0,0,,Best I could, I suppose.
+Dialogue: 0,0:00:21.56,0:00:23.06,Default,0,0,0,,Uhhh...
+Dialogue: 0,0:00:23.09,0:00:25.15,Default,0,0,0,,My, Blitzø... hoohoo
+Dialogue: 0,0:00:25.35,0:00:27.03,Default,0,0,0,,you sure have a lot of...
+Dialogue: 0,0:00:27.06,0:00:28.31,Default,0,0,0,,horses.
+Dialogue: 0,0:00:28.90,0:00:32.07,Default,0,0,0,,Iiissss there a story behind that?
+Dialogue: 0,0:00:32.10,0:00:33.03,Default,0,0,0,,There is...
+Dialogue: 0,0:00:33.39,0:00:34.70,Default,0,0,0,,But it’s way too long,
+Dialogue: 0,0:00:34.90,0:00:37.23,Default,0,0,0,,and way too traumatic.
+Dialogue: 0,0:00:37.26,0:00:39.07,Default,0,0,0,,Breakfast’ll be ready in a jiff!
+Dialogue: 0,0:00:44.63,0:00:46.33,Default,0,0,0,,Blitzø? Um...
+Dialogue: 0,0:00:46.36,0:00:48.06,Default,0,0,0,,would you be able to grab some-
+Dialogue: 0,0:00:48.09,0:00:49.27,Default,0,0,0,,Grab some what?
+Dialogue: 0,0:00:50.04,0:00:51.44,Default,0,0,0,,Nevermind!
+Dialogue: 0,0:00:53.73,0:00:55.76,Default,0,0,0,,Okay, so I don’t know what you eat,
+Dialogue: 0,0:00:55.79,0:00:59.27,Default,0,0,0,,so I just made a little of everything in\Nhopes that something works for ya.
+Dialogue: 0,0:00:59.30,0:01:02.71,Default,0,0,0,,Got some eggs, made ‘em special!
+Dialogue: 0,0:01:03.49,0:01:05.21,Default,0,0,0,,Oh. Oh shit. I’m sorry.
+Dialogue: 0,0:01:05.25,0:01:07.53,Default,0,0,0,,Is this- th-that’s like\Ncannibalism for you, isn’t it?
+Dialogue: 0,0:01:07.56,0:01:10.04,Default,0,0,0,,No, just rather off-putting.
+Dialogue: 0,0:01:10.19,0:01:12.30,Default,0,0,0,,But it is protein, I suppose.
+Dialogue: 0,0:01:12.72,0:01:13.73,Default,0,0,0,,Uh huh...
+Dialogue: 0,0:01:13.76,0:01:15.67,Default,0,0,0,,So w-wha- what do you normally eat?
+Dialogue: 0,0:01:16.33,0:01:19.91,Default,0,0,0,,Normally I dine on a custom diet\Nprepared by my waiting staff,
+Dialogue: 0,0:01:19.94,0:01:22.60,Default,0,0,0,,full of essential nutrients and\Nfreshly prepared rarities
+Dialogue: 0,0:01:22.63,0:01:25.50,Default,0,0,0,,such as roasted vole or...
+Dialogue: 0,0:01:25.53,0:01:26.72,Default,0,0,0,,fire koi?
+Dialogue: 0,0:01:27.66,0:01:28.69,Default,0,0,0,,A fresh kale salad?
+Dialogue: 0,0:01:28.72,0:01:31.23,Default,0,0,0,,Oh, nice. Anything that I\Ncan get that’s affordable?
+Dialogue: 0,0:01:31.26,0:01:32.54,Default,0,0,0,,Maybe some...
+Dialogue: 0,0:01:32.57,0:01:33.19,Default,0,0,0,,rats?
+Dialogue: 0,0:01:33.22,0:01:33.93,Default,0,0,0,,On it!
+Dialogue: 0,0:01:33.96,0:01:37.43,Default,0,0,0,,I’ll grab my stompers and head\Nout to that alley this afternoon.
+Dialogue: 0,0:01:37.46,0:01:39.26,Default,0,0,0,,Mmm well, that’d be nice.
+Dialogue: 0,0:01:39.47,0:01:41.97,Default,0,0,0,,Rats were always Via’s favorite snack.
+Dialogue: 0,0:01:42.00,0:01:44.03,Default,0,0,0,,Oh no! Where’s your phone?
+Dialogue: 0,0:01:46.77,0:01:48.43,Default,0,0,0,,Sorry sweetie,
+Dialogue: 0,0:01:48.64,0:01:51.34,Default,0,0,0,,no talking to that deadbeat.
+Dialogue: 0,0:01:51.92,0:01:56.31,Default,0,0,0,,Andrealphus! Look who’s finally calling!
+Dialogue: 0,0:01:56.35,0:01:58.27,Default,0,0,0,,Oooh! Took him this long?
+Dialogue: 0,0:01:58.30,0:02:00.21,Default,0,0,0,,That’s hilarious.
+Dialogue: 0,0:02:00.24,0:02:04.19,Default,0,0,0,,He thinks he’s going to\Ntalk to his daughter!
+Dialogue: 0,0:02:04.22,0:02:06.71,Default,0,0,0,,Hilarious!
+Dialogue: 0,0:02:06.74,0:02:09.90,Default,0,0,0,,Hilarious!
+Dialogue: 0,0:02:09.93,0:02:11.90,Default,0,0,0,,Hilarious!
+Dialogue: 0,0:02:11.93,0:02:16.77,Top,0,0,0,,[Laughing together]
+Dialogue: 0,0:02:17.36,0:02:19.26,Default,0,0,0,,Pick up, pick up, pick up!
+Dialogue: 0,0:02:19.29,0:02:21.36,Default,0,0,0,,Via dear, please pick up.
+Dialogue: 0,0:02:21.90,0:02:23.27,Default,0,0,0,,Please pick up.
+Dialogue: 0,0:02:23.96,0:02:25.79,Default,0,0,0,,No! No, no, no.
+Dialogue: 0,0:02:25.82,0:02:26.39,Default,0,0,0,,Shit.
+Dialogue: 0,0:02:26.42,0:02:29.17,Default,0,0,0,,Hey, hey, hey, whoa! Look I’m\Nsure it’s gonna be okay, alright?
+Dialogue: 0,0:02:29.22,0:02:30.73,Default,0,0,0,,I- I’m sure she’s...
+Dialogue: 0,0:02:30.76,0:02:32.90,Default,0,0,0,,she’s just away from the\Nphone right now, okay?
+Dialogue: 0,0:02:32.92,0:02:34.19,Default,0,0,0,,And breathe.
+Dialogue: 0,0:02:34.22,0:02:36.06,Default,0,0,0,,It’ll be okay.
+Dialogue: 0,0:02:40.54,0:02:42.91,Song,0,0,0,,♪ Oooh, ♪
+Dialogue: 0,0:02:42.95,0:02:46.21,Song,0,0,0,,♪ you take it day by day. ♪
+Dialogue: 0,0:02:46.24,0:02:47.97,Song,0,0,0,,♪ You got everything that you ♪
+Dialogue: 0,0:02:48.00,0:02:50.49,Song,0,0,0,,♪ had thought you wanted, ♪
+Dialogue: 0,0:02:50.52,0:02:52.91,Song,0,0,0,,♪ but you still feel so blue, ♪
+Dialogue: 0,0:02:52.94,0:02:56.51,Song,0,0,0,,♪ and you don’t know what to do. ♪
+Dialogue: 0,0:02:56.54,0:02:57.94,Song,0,0,0,,♪ You’re sitting at the end ♪
+Dialogue: 0,0:02:57.97,0:03:00.14,Song,0,0,0,,♪ of the rainbow, but the pain grows ♪
+Dialogue: 0,0:03:00.16,0:03:03.07,Song,0,0,0,,♪ and you can’t help let the strain show ♪
+Dialogue: 0,0:03:03.10,0:03:06.64,Song,0,0,0,,♪ Cause what else are you to do? ♪
+Dialogue: 0,0:03:06.67,0:03:07.96,Song,0,0,0,,♪ Keep it calm, ♪
+Dialogue: 0,0:03:07.99,0:03:10.46,Song,0,0,0,,♪ life goes on, and on, and on, ♪
+Dialogue: 0,0:03:10.49,0:03:13.21,Song,0,0,0,,♪ nothing’s wrong, nothing’s wrong. ♪
+Dialogue: 0,0:03:13.24,0:03:17.33,Song,0,0,0,,♪ So why do I still feel this way? ♪
+Dialogue: 0,0:03:17.36,0:03:20.83,Song,0,0,0,,♪ Oooh, ♪
+Dialogue: 0,0:03:20.86,0:03:24.09,Song,0,0,0,,♪ you take it day by day. ♪
+Dialogue: 0,0:03:22.69,0:03:24.09,Default,0,0,0,,Is this how everyone acts
+Dialogue: 0,0:03:24.12,0:03:25.23,Default,0,0,0,,when they don’t have money?
+Dialogue: 0,0:03:25.26,0:03:27.50,Default,0,0,0,,Nope, this is how I act\Nwhen I don’t have money!
+Dialogue: 0,0:03:36.87,0:03:39.24,Default,0,0,0,,Eyyy Stolas!!
+Dialogue: 0,0:03:39.27,0:03:40.80,Default,0,0,0,,Merry Sinsmas!!
+Dialogue: 0,0:03:40.83,0:03:41.93,Default,0,0,0,,Ahhh!
+Dialogue: 0,0:03:42.12,0:03:44.04,Default,0,0,0,,What the fuck was that for?!
+Dialogue: 0,0:03:44.07,0:03:45.47,Default,0,0,0,,Uh, it’s Sinsmas!
+Dialogue: 0,0:03:45.50,0:03:48.47,Default,0,0,0,,You know, the day every Hellborn\Ncelebrates and acts on their birth sin?
+Dialogue: 0,0:03:48.50,0:03:50.80,Default,0,0,0,,Or any sin, whichever\Nones they want, honestly!
+Dialogue: 0,0:03:50.83,0:03:53.03,Default,0,0,0,,I cannot say I’m familiar\Nwith this holiday.
+Dialogue: 0,0:03:53.06,0:03:55.71,Default,0,0,0,,Really? Wow, rich people\Ndon’t have any fun, do they?
+Dialogue: 0,0:03:55.74,0:03:59.91,Default,0,0,0,,No, fun is free, but we\Ncan afford nice things. 
+Dialogue: 0,0:03:59.95,0:04:02.86,Default,0,0,0,,You know what might help\Nthat privileged little attitude?
+Dialogue: 0,0:04:02.89,0:04:03.69,Default,0,0,0,,Paperwork!
+Dialogue: 0,0:04:03.72,0:04:05.30,Default,0,0,0,,Why dontcha come on with me to the office,
+Dialogue: 0,0:04:05.33,0:04:08.27,Default,0,0,0,,and help Loony with wi- wh- you know\Nwhatever the fuck her job is?
+Dialogue: 0,0:04:08.30,0:04:11.13,Default,0,0,0,,Eugh, you have to spend\Nyour holiday at work?
+Dialogue: 0,0:04:11.16,0:04:13.16,Default,0,0,0,,I choose to spend my holiday at work!
+Dialogue: 0,0:04:13.19,0:04:14.91,Default,0,0,0,,See, last year I set my apartment on fire,
+Dialogue: 0,0:04:14.93,0:04:16.63,Default,0,0,0,,so this year we’re doing it at the office.
+Dialogue: 0,0:04:16.66,0:04:17.84,Default,0,0,0,,It’s insured.
+Dialogue: 0,0:04:22.56,0:04:25.34,Default,0,0,0,,Oof, oh. Son of a bitch.
+Dialogue: 0,0:04:25.77,0:04:27.40,Default,0,0,0,,Heh, he he!
+Dialogue: 0,0:04:27.87,0:04:28.92,Default,0,0,0,,Ow! Millie!
+Dialogue: 0,0:04:30.12,0:04:31.70,Default,0,0,0,,Ouch! You’re good!
+Dialogue: 0,0:04:35.53,0:04:37.44,Default,0,0,0,,Gna gna gna gna,
+Dialogue: 0,0:04:37.47,0:04:38.36,Default,0,0,0,,I’m gonna bite you Millie!
+Dialogue: 0,0:04:38.39,0:04:41.12,Default,0,0,0,,You always make me watch old musicals
+Dialogue: 0,0:04:41.15,0:04:44.96,Default,0,0,0,,when I wanna watch Cleaver Hand 6:\NUltimate Cleavage!
+Dialogue: 0,0:04:45.94,0:04:48.66,Default,0,0,0,,Well you snore all the time!!
+Dialogue: 0,0:04:48.69,0:04:49.69,Default,0,0,0,,Arrrrgh!
+Dialogue: 0,0:04:49.82,0:04:52.37,Default,0,0,0,,I will wreck you!
+Dialogue: 0,0:04:52.40,0:04:54.40,Default,0,0,0,,Not if I do first!!
+Dialogue: 0,0:05:03.04,0:05:05.00,Default,0,0,0,,Happy Sinsmas!
+Dialogue: 0,0:05:07.84,0:05:09.87,Default,0,0,0,,Happy Sinsmas, honey!!
+Dialogue: 0,0:05:09.90,0:05:11.23,Default,0,0,0,,Listen up, chuckle-fucks!
+Dialogue: 0,0:05:11.26,0:05:12.67,Default,0,0,0,,Today we got Stolas in the office,
+Dialogue: 0,0:05:12.70,0:05:15.51,Default,0,0,0,,so I want each of your red asses\Non the best behavior possible. 
+Dialogue: 0,0:05:15.54,0:05:17.09,Default,0,0,0,,Uh, sir?
+Dialogue: 0,0:05:17.12,0:05:19.93,Default,0,0,0,,You are literally the only one\Nwho needs to adhere to that.
+Dialogue: 0,0:05:19.96,0:05:22.04,Default,0,0,0,,And that’s detention Mox,\NMillie punch him.
+Dialogue: 0,0:05:22.07,0:05:23.64,Default,0,0,0,,Oof! Aw!
+Dialogue: 0,0:05:23.67,0:05:25.51,Default,0,0,0,,Good, happy Sinsmas, Mox.
+Dialogue: 0,0:05:25.54,0:05:26.59,Default,0,0,0,,Now, Loony-
+Dialogue: 0,0:05:26.62,0:05:29.30,Default,0,0,0,,Stolas wants to learn how to secretate\Nso show him how it’s done.
+Dialogue: 0,0:05:29.33,0:05:30.86,Default,0,0,0,,[sighs] It’s literally this:
+Dialogue: 0,0:05:30.89,0:05:34.11,Default,0,0,0,,Ring ring, hello? I.M.P. - Yeah,\Nwe can kill that asshole,
+Dialogue: 0,0:05:34.14,0:05:35.27,Default,0,0,0,,wanna schedule an appointment?
+Dialogue: 0,0:05:35.30,0:05:36.13,Default,0,0,0,,Thursday cool?
+Dialogue: 0,0:05:36.16,0:05:37.04,Default,0,0,0,,See you then, dipshit.
+Dialogue: 0,0:05:37.07,0:05:37.64,Default,0,0,0,,Click.
+Dialogue: 0,0:05:37.67,0:05:39.00,Default,0,0,0,,It’s easy as sin, Blitzø.
+Dialogue: 0,0:05:39.03,0:05:40.79,Default,0,0,0,,Can I go with you guys if\Nhe’s on the phone today?
+Dialogue: 0,0:05:40.82,0:05:42.13,Default,0,0,0,,I mean, I- I guess?
+Dialogue: 0,0:05:42.16,0:05:43.36,Default,0,0,0,,Yes!!
+Dialogue: 0,0:05:43.57,0:05:44.57,Default,0,0,0,,See, Stolas?
+Dialogue: 0,0:05:44.60,0:05:47.28,Default,0,0,0,,Finally, something to help you out,\Nsomething to do!
+Dialogue: 0,0:05:47.30,0:05:48.49,Default,0,0,0,,And I can pay you for it!
+Dialogue: 0,0:05:48.69,0:05:51.09,Default,0,0,0,,You could use a little money coming in, right?
+Dialogue: 0,0:05:51.12,0:05:53.16,Default,0,0,0,,Money coming in?
+Dialogue: 0,0:05:53.80,0:05:55.16,Default,0,0,0,,Oh lords...
+Dialogue: 0,0:05:55.77,0:05:58.57,Default,0,0,0,,I’M POOR NOW!
+Dialogue: 0,0:05:58.60,0:06:02.30,Default,0,0,0,,Oh-ho-ho-ho fuck!
+Dialogue: 0,0:06:04.87,0:06:06.54,Default,0,0,0,,Oh, answer it, answer it!
+Dialogue: 0,0:06:06.57,0:06:08.43,Default,0,0,0,,You can do it Stolas, come on,\Nanswer the phone!
+Dialogue: 0,0:06:09.84,0:06:12.06,Default,0,0,0,,Hello, I.M.P?
+Dialogue: 0,0:06:13.47,0:06:16.02,Default,0,0,0,,Yes, we can kill your asshole.
+Dialogue: 0,0:06:16.22,0:06:19.01,Default,0,0,0,,Immediately, just bring it here.
+Dialogue: 0,0:06:19.21,0:06:20.40,Default,0,0,0,,Thank you!
+Dialogue: 0,0:06:20.99,0:06:22.53,Default,0,0,0,,Good day ma’am.
+Dialogue: 0,0:06:23.66,0:06:24.52,Default,0,0,0,,Uhhh...
+Dialogue: 0,0:06:24.55,0:06:25.81,Default,0,0,0,,Close enough!
+Dialogue: 0,0:06:25.84,0:06:27.06,Default,0,0,0,,Good job buddy.
+Dialogue: 0,0:06:27.09,0:06:29.90,Default,0,0,0,,You said you could kill\Nsomeone immediately?
+Dialogue: 0,0:06:29.93,0:06:33.53,Default,0,0,0,,Oh- yeah! Yes, we sure can!
+Dialogue: 0,0:06:33.56,0:06:35.43,Default,0,0,0,,Good. Because it’s Christmas.
+Dialogue: 0,0:06:35.46,0:06:37.61,Default,0,0,0,,It’s Sinsmas, lady, get it right.
+Dialogue: 0,0:06:37.64,0:06:41.19,Default,0,0,0,,I can’t stand the idea of\Nmy fucking ex-husband
+Dialogue: 0,0:06:41.22,0:06:44.34,Default,0,0,0,,enjoying this sacred holiday\Nwith my daughters
+Dialogue: 0,0:06:44.37,0:06:46.70,Default,0,0,0,,when he fucking left me for another man!
+Dialogue: 0,0:06:46.90,0:06:47.81,Default,0,0,0,,Oh, well [nervous laugh]
+Dialogue: 0,0:06:47.84,0:06:50.16,Default,0,0,0,,that sounds like something that\Ncan happen from time to time. 
+Dialogue: 0,0:06:50.19,0:06:52.29,Default,0,0,0,,And he probably cheated on me.
+Dialogue: 0,0:06:52.54,0:06:53.96,Default,0,0,0,,[Nervous chuckle] Well that’s-
+Dialogue: 0,0:06:53.99,0:06:54.99,Top,0,0,0,,[Bird screech]
+Dialogue: 0,0:06:55.02,0:06:57.16,Default,0,0,0,,not really worth killing\Nsomeone over though, right?
+Dialogue: 0,0:06:57.19,0:07:00.34,Default,0,0,0,,I mean, cheating isn’t really\Nthat big of a deal anymore is it?
+Dialogue: 0,0:07:00.39,0:07:02.87,Default,0,0,0,,Isn’t that what this business does?
+Dialogue: 0,0:07:02.90,0:07:06.02,Default,0,0,0,,He doesn’t deserve to live\Nthat heinous lifestyle
+Dialogue: 0,0:07:06.22,0:07:08.29,Default,0,0,0,,and poison my daughters with it.
+Dialogue: 0,0:07:08.32,0:07:09.74,Default,0,0,0,,Uh huh.
+Dialogue: 0,0:07:09.77,0:07:12.26,Default,0,0,0,,Look, I don’t think this is\Na job we want to take on.
+Dialogue: 0,0:07:12.42,0:07:13.53,Default,0,0,0,,Really?
+Dialogue: 0,0:07:13.56,0:07:15.89,Default,0,0,0,,Why not?\NMaybe he deserves it.
+Dialogue: 0,0:07:15.92,0:07:18.41,Default,0,0,0,,Selfish men like him don’t deserve to-
+Dialogue: 0,0:07:18.61,0:07:22.20,Default,0,0,0,,to li-i-i-i-i-i-iiive!
+Dialogue: 0,0:07:22.23,0:07:23.21,Default,0,0,0,,That...
+Dialogue: 0,0:07:23.49,0:07:24.86,Default,0,0,0,,No, that’s not-
+Dialogue: 0,0:07:24.89,0:07:26.41,Default,0,0,0,,Ugh.
+Dialogue: 0,0:07:26.44,0:07:30.40,Default,0,0,0,,Alright fine, we’ll do your shitty job,\Nbut you’re paying us double, bitch.
+Dialogue: 0,0:07:44.42,0:07:48.82,Default,0,0,0,,He’s been trying\Nto call her all fucking month
+Dialogue: 0,0:07:48.85,0:07:50.69,Default,0,0,0,,and it’s hilarious!
+Dialogue: 0,0:07:57.99,0:08:02.80,Default,0,0,0,,Fra fra fra fra fra
+FRA fra fra fra fra fraa!
+Dialogue: 0,0:08:44.42,0:08:47.74,Via,0,0,0,,♪ Your boxes packed up on the bed. ♪
+Dialogue: 0,0:08:47.77,0:08:50.80,Via,0,0,0,,♪ Your words are in my head. ♪
+Dialogue: 0,0:08:50.83,0:08:53.04,Via,0,0,0,,♪ Tellin’ me that we’ll be okay, ♪
+Dialogue: 0,0:08:53.07,0:08:56.63,Via,0,0,0,,♪ you’ll remember what you said. ♪
+Dialogue: 0,0:08:58.47,0:09:01.31,Via,0,0,0,,♪ Or was it just another lie? ♪
+Dialogue: 0,0:09:05.63,0:09:08.97,Via,0,0,0,,♪ This place that used to be your home, ♪
+Dialogue: 0,0:09:09.00,0:09:11.86,Via,0,0,0,,♪ would you call me on the phone? ♪
+Dialogue: 0,0:09:11.89,0:09:14.51,Via,0,0,0,,♪ Will I hear your voice\Nin the middle of the night ♪
+Dialogue: 0,0:09:14.54,0:09:18.59,Via,0,0,0,,♪ when I turn off the lights? ♪
+Dialogue: 0,0:09:19.77,0:09:22.20,Via,0,0,0,,♪ Or are you just another ghost? ♪
+Dialogue: 0,0:09:23.90,0:09:25.91,Via,0,0,0,,♪ Ohhhh ♪
+Dialogue: 0,0:09:27.24,0:09:29.71,Via,0,0,0,,♪ How could you lie to my face? ♪
+Dialogue: 0,0:09:29.75,0:09:34.13,Via,0,0,0,,♪ And did our time mean nothing to you? ♪
+Dialogue: 0,0:09:34.16,0:09:37.99,Via,0,0,0,,♪ Were you bluffing all along? ♪
+Dialogue: 0,0:09:38.02,0:09:40.56,Via,0,0,0,,♪ That you would be there to see ♪
+Dialogue: 0,0:09:40.59,0:09:43.36,Via,0,0,0,,♪ yourself forgiven by me ♪
+Dialogue: 0,0:09:43.46,0:09:51.04,Via,0,0,0,,♪ if you thought that\NI’d take it you were wrong! ♪
+Dialogue: 0,0:09:51.47,0:09:57.74,Via,0,0,0,,♪ Oh you were wrong! ♪
+Dialogue: 0,0:09:59.57,0:10:06.86,Via,0,0,0,,♪ And when you’re gone I will be okay. ♪
+Dialogue: 0,0:10:07.44,0:10:16.36,Via,0,0,0,,♪ I will be okay, though\NI’ll never be the same. ♪
+Dialogue: 0,0:10:20.26,0:10:28.47,Via,0,0,0,,♪ And I’ll know that I\Nwas right to doubt you! ♪
+Dialogue: 0,0:10:28.50,0:10:38.24,Via,0,0,0,,♪ I’ll grow without you and\Nyou’ll only know my name. ♪
+Dialogue: 0,0:10:42.29,0:10:49.47,Via,0,0,0,,♪ You always told me I’d be okay. ♪
+Dialogue: 0,0:10:50.03,0:10:58.66,Via,0,0,0,,♪ Well I’ll be okay, though\NI’m not okay today. ♪
+Dialogue: 0,0:11:02.84,0:11:10.51,Via,0,0,0,,♪ But my tears won’t fall\Nupon your shoulder. ♪
+Dialogue: 0,0:11:11.42,0:11:20.64,Via,0,0,0,,♪ I’ll just get older and\Nyou’ll only know my name. ♪
+Dialogue: 0,0:11:58.80,0:11:59.59,Default,0,0,0,,Ugh!
+Dialogue: 0,0:11:59.62,0:12:02.30,Default,0,0,0,,Don’t you have any\Nreading material anywhere?
+Dialogue: 0,0:12:02.33,0:12:04.46,Default,0,0,0,,Are we supposed to\Njust sit here and wait?
+Dialogue: 0,0:12:04.66,0:12:06.17,Default,0,0,0,,How long do they take?
+Dialogue: 0,0:12:06.20,0:12:09.56,Default,0,0,0,,They take their time, it’s a\Ndifficult business, I imagine.
+Dialogue: 0,0:12:09.59,0:12:11.82,Default,0,0,0,,You "imagine", huh?
+Dialogue: 0,0:12:11.85,0:12:14.19,Default,0,0,0,,Well they should hurry up if\Nthey expect people to just
+Dialogue: 0,0:12:14.22,0:12:16.33,Default,0,0,0,,stick around without anything to do.
+Dialogue: 0,0:12:16.36,0:12:19.32,Default,0,0,0,,What a shoddy business operation!
+Dialogue: 0,0:12:19.35,0:12:20.64,Default,0,0,0,,Ooh, here’s an idea!
+Dialogue: 0,0:12:20.67,0:12:21.80,Default,0,0,0,,You could shut the fuck up!
+Dialogue: 0,0:12:23.82,0:12:24.77,Default,0,0,0,,Rude.
+Dialogue: 0,0:12:25.33,0:12:26.09,Default,0,0,0,,Oh!
+Dialogue: 0,0:12:26.12,0:12:27.90,Default,0,0,0,,Oh, yes, yes, yes yes!\NHello?
+Dialogue: 0,0:12:27.93,0:12:29.00,Default,0,0,0,,{\i1}Hey I’m calling you about your{\i0}
+Dialogue: 0,0:12:29.03,0:12:31.42,Default,0,0,0,,{\i1}extended warranty on your\Nnew Robo Pony 2000-{\i0}
+Dialogue: 0,0:12:31.44,0:12:32.49,Default,0,0,0,,AUGH!!
+Dialogue: 0,0:12:35.03,0:12:38.44,Default,0,0,0,,Augh! C’mon you suck, you fucking\Nsuck you fucking piece of shit,
+Dialogue: 0,0:12:38.47,0:12:42.62,Default,0,0,0,,move your fucking face you\Ngoddamn sucking motherfucker-
+Dialogue: 0,0:12:42.65,0:12:43.21,Default,0,0,0,,GAH!
+Dialogue: 0,0:12:43.24,0:12:45.61,Default,0,0,0,,WHAT A FUCKING IDIOT I AM!
+Dialogue: 0,0:12:45.64,0:12:46.90,Default,0,0,0,,THIS WAS SO STUPID
+Dialogue: 0,0:12:46.93,0:12:48.87,Default,0,0,0,,I CANNOT BELIEVE I COULD\NBE THIS FUCKING STUPID
+Dialogue: 0,0:12:48.90,0:12:50.02,Default,0,0,0,,I RUINED EVERYTHING!
+Dialogue: 0,0:12:50.53,0:12:52.79,Default,0,0,0,,MOVE!!! YOU SHITTY DESK!!
+Dialogue: 0,0:12:53.22,0:12:54.74,Default,0,0,0,,And I did it for what?
+Dialogue: 0,0:12:54.77,0:12:57.64,Default,0,0,0,,These stupid, foolish fantasies!?
+Dialogue: 0,0:12:57.67,0:12:59.37,Default,0,0,0,,I can’t stand it any longer!
+Dialogue: 0,0:12:59.40,0:13:01.33,Default,0,0,0,,I don’t care what they fucking do!
+Dialogue: 0,0:13:01.36,0:13:03.80,Default,0,0,0,,I’m seeing Octavia!
+Dialogue: 0,0:13:05.27,0:13:07.34,Default,0,0,0,,I guess it’s something to read.
+Dialogue: 0,0:13:14.57,0:13:16.96,Default,0,0,0,,Ahhh, it is cold as shit!
+Dialogue: 0,0:13:16.99,0:13:18.26,Default,0,0,0,,What is this?
+Dialogue: 0,0:13:18.34,0:13:20.88,Default,0,0,0,,Do humans have Sinsmas too?
+Dialogue: 0,0:13:20.90,0:13:22.43,Default,0,0,0,,I- I don’t think so.
+Dialogue: 0,0:13:22.46,0:13:24.49,Default,0,0,0,,This seems to be something else.
+Dialogue: 0,0:13:25.04,0:13:26.01,Default,0,0,0,,Blagh!
+Dialogue: 0,0:13:26.05,0:13:26.91,Default,0,0,0,,You okay, babe?
+Dialogue: 0,0:13:26.95,0:13:28.51,Default,0,0,0,,Oh yeah! [coughs]
+Dialogue: 0,0:13:28.55,0:13:30.49,Default,0,0,0,,Must just be the cold.
+Dialogue: 0,0:13:30.52,0:13:31.56,Default,0,0,0,,Okay, let’s just hurry up and
+Dialogue: 0,0:13:31.59,0:13:33.99,Default,0,0,0,,kill this son of a bitch so\Nwe can get the fuck back home.
+Dialogue: 0,0:13:46.30,0:13:47.47,Default,0,0,0,,Sir?
+Dialogue: 0,0:13:47.87,0:13:49.76,Default,0,0,0,,This may be out of turn...
+Dialogue: 0,0:13:50.13,0:13:53.27,Default,0,0,0,,But I feel like this one\Nisn’t worth the money.
+Dialogue: 0,0:13:54.44,0:13:55.04,Default,0,0,0,,What?
+Dialogue: 0,0:13:55.07,0:13:57.64,Default,0,0,0,,I don’t think I wanna\Nbe part of this one, sir.
+Dialogue: 0,0:13:58.03,0:13:59.34,Default,0,0,0,,You okay, dad?
+Dialogue: 0,0:14:00.94,0:14:02.50,Default,0,0,0,,I can handle this one.
+Dialogue: 0,0:14:02.70,0:14:04.67,Default,0,0,0,,You know, if you’re not up for it.
+Dialogue: 0,0:14:04.70,0:14:05.99,Default,0,0,0,,Really?
+Dialogue: 0,0:14:15.80,0:14:17.31,Default,0,0,0,,Nah, fuck this.
+Dialogue: 0,0:14:18.52,0:14:19.54,Default,0,0,0,,We’re going home.
+Dialogue: 0,0:14:19.57,0:14:20.37,Default,0,0,0,,What?
+Dialogue: 0,0:14:20.40,0:14:22.96,Default,0,0,0,,Didn’t he cheat or s-s-something?
+Dialogue: 0,0:14:23.16,0:14:24.75,Default,0,0,0,,Come on, this is fun!
+Dialogue: 0,0:14:24.96,0:14:27.82,Default,0,0,0,,We’ve done this kind of t-t-thing before.
+Dialogue: 0,0:14:27.85,0:14:28.53,Default,0,0,0,,Just...
+Dialogue: 0,0:14:28.56,0:14:30.20,Default,0,0,0,,not this one, Mils.
+Dialogue: 0,0:14:30.96,0:14:32.17,Default,0,0,0,,Not today.
+Dialogue: 0,0:14:35.46,0:14:38.19,Default,0,0,0,,I can do this one, I can do this!
+Dialogue: 0,0:14:38.22,0:14:39.47,Default,0,0,0,,Millie!
+Dialogue: 0,0:14:41.44,0:14:43.21,Default,0,0,0,,We’ll do it next time!
+Dialogue: 0,0:14:43.25,0:14:44.51,Default,0,0,0,,It’s just not worth it.
+Dialogue: 0,0:14:43.83,0:14:45.51,Top,0,0,0,,Don’t start, Moxxie!!
+Dialogue: 0,0:14:45.54,0:14:47.86,Default,0,0,0,,Just because you aren’t\Ndemon enough to do this job,
+Dialogue: 0,0:14:47.89,0:14:48.85,Default,0,0,0,,doesn’t mean--
+Dialogue: 0,0:14:49.89,0:14:51.31,Default,0,0,0,,I’m sorry.
+Dialogue: 0,0:14:51.40,0:14:56.10,Default,0,0,0,,Sweetie, I know it’s Sinsmas\Nand it’s in the spirit of Wrath...
+Dialogue: 0,0:14:56.46,0:14:57.36,Default,0,0,0,,But are you okay?
+Dialogue: 0,0:14:57.39,0:14:59.38,Default,0,0,0,,I’m fine, I don’t...
+Dialogue: 0,0:14:59.77,0:15:02.03,Default,0,0,0,,know what’s gotten into me today.
+Dialogue: 0,0:15:02.06,0:15:03.27,Default,0,0,0,,It’s okay.
+Dialogue: 0,0:15:03.47,0:15:05.09,Default,0,0,0,,I’m here for you.
+Dialogue: 0,0:15:07.44,0:15:11.19,Default,0,0,0,,Wow! I never wanna go\Nanywhere cold again.
+Dialogue: 0,0:15:11.47,0:15:13.69,Default,0,0,0,,Uhh. Stolas?
+Dialogue: 0,0:15:13.72,0:15:14.50,Default,0,0,0,,He’s gone!
+Dialogue: 0,0:15:14.53,0:15:18.12,Default,0,0,0,,And he left this terribly\Nsinful erotic novel behind.
+Dialogue: 0,0:15:18.15,0:15:20.16,Default,0,0,0,,Can you believe this trash?
+Dialogue: 0,0:15:20.19,0:15:22.00,Default,0,0,0,,Didn’t make me wet at all.
+Dialogue: 0,0:15:26.26,0:15:28.33,Default,0,0,0,,Wow, I feel lighter!
+Dialogue: 0,0:15:28.36,0:15:29.27,Default,0,0,0,,Dad?
+Dialogue: 0,0:15:29.30,0:15:30.51,Default,0,0,0,,Octavia?
+Dialogue: 0,0:15:30.70,0:15:31.77,Default,0,0,0,,Wh-what are you doing here?
+Dialogue: 0,0:15:31.80,0:15:34.21,Default,0,0,0,,I came to give these back to my dad,\Nwhere the fuck is he?
+Dialogue: 0,0:15:34.24,0:15:36.13,Default,0,0,0,,I swear, he was just right here.
+Dialogue: 0,0:15:36.16,0:15:37.77,Default,0,0,0,,Ugh, where would he go?
+Dialogue: 0,0:15:39.04,0:15:40.49,Default,0,0,0,,I think I know.
+Dialogue: 0,0:15:59.85,0:16:05.03,Default,0,0,0,,Ugh, fucking ice queen,\Nhow extra can you get?
+Dialogue: 0,0:16:05.06,0:16:08.72,Default,0,0,0,,Oh this is just sad, Stolas.
+Dialogue: 0,0:16:08.75,0:16:12.52,Default,0,0,0,,Let me see my daughter this instant.
+Dialogue: 0,0:16:14.14,0:16:18.06,Default,0,0,0,,I imagine this is rather\Nhard for you, Stolas.
+Dialogue: 0,0:16:18.09,0:16:20.56,Default,0,0,0,,Awww, poor thing,
+Dialogue: 0,0:16:20.59,0:16:23.79,Default,0,0,0,,All alone now without your lovely plants,
+Dialogue: 0,0:16:23.82,0:16:25.97,Default,0,0,0,,your lovely stars,
+Dialogue: 0,0:16:26.00,0:16:29.26,Default,0,0,0,,or your lovely little daughter.
+Dialogue: 0,0:16:29.72,0:16:31.44,Default,0,0,0,,Everything you are now-
+Dialogue: 0,0:16:31.47,0:16:32.36,Default,0,0,0,,AHH!
+Dialogue: 0,0:16:45.46,0:16:47.47,Default,0,0,0,,AAUGH!
+Dialogue: 0,0:17:03.39,0:17:04.56,Default,0,0,0,,Goetia be damned!
+Dialogue: 0,0:17:04.59,0:17:07.23,Default,0,0,0,,You are dead for that!!
+Dialogue: 0,0:17:07.26,0:17:08.40,Default,0,0,0,,Do it...
+Dialogue: 0,0:17:09.19,0:17:10.19,Default,0,0,0,,Pussy.
+Dialogue: 0,0:17:12.17,0:17:14.20,Default,0,0,0,,I will enjoy this.
+Dialogue: 0,0:17:14.23,0:17:16.05,Default,0,0,0,,Hey Elsa!
+Dialogue: 0,0:17:16.25,0:17:20.63,Default,0,0,0,,GET YOUR ICY HANDS OFF\NMY BOTTOM, BITCH!
+Dialogue: 0,0:17:20.66,0:17:23.46,Default,0,0,0,,[Laugh] The imp?
+Dialogue: 0,0:17:23.59,0:17:26.13,Default,0,0,0,,The imp is challenging me?
+Dialogue: 0,0:17:26.33,0:17:27.62,Default,0,0,0,,SCATTER!
+Dialogue: 0,0:17:34.14,0:17:35.17,Default,0,0,0,,Millie!
+Dialogue: 0,0:17:36.06,0:17:37.82,Default,0,0,0,,Loona! Launch me!
+Dialogue: 0,0:17:37.85,0:17:39.87,Default,0,0,0,,Ahhhh, Ha ha!
+Dialogue: 0,0:17:51.44,0:17:55.06,Default,0,0,0,,You little insects really think\Nyou can do anything to me?
+Dialogue: 0,0:17:55.09,0:17:56.86,Default,0,0,0,,A marquis of Hell?
+Dialogue: 0,0:17:56.92,0:17:59.23,Default,0,0,0,,You are delusional.
+Dialogue: 0,0:17:59.26,0:18:01.29,Default,0,0,0,,Eeehhh! Try again, bitch!
+Dialogue: 0,0:18:01.32,0:18:03.53,Default,0,0,0,,I’ve been called so much worse.
+Dialogue: 0,0:18:03.56,0:18:05.13,Default,0,0,0,,[Profanity bleep]
+Dialogue: 0,0:18:05.16,0:18:08.57,Default,0,0,0,,It’ll be rather amusing to squash you all.
+Dialogue: 0,0:18:26.75,0:18:28.57,Default,0,0,0,,Oh fuck me.
+Dialogue: 0,0:18:28.60,0:18:31.46,Default,0,0,0,,Ugh, eugh. Oh.
+Dialogue: 0,0:18:32.04,0:18:33.37,Default,0,0,0,,Fuck yes!
+Dialogue: 0,0:18:36.34,0:18:37.93,Default,0,0,0,,Catch, baby!
+Dialogue: 0,0:18:39.37,0:18:41.77,Default,0,0,0,,You are so fucking hot right now.
+Dialogue: 0,0:18:41.80,0:18:45.42,Default,0,0,0,,I think I’m gonna give the firepower a try this time.
+Dialogue: 0,0:18:45.45,0:18:46.23,Default,0,0,0,,Mwah.
+Dialogue: 0,0:18:46.26,0:18:48.09,Default,0,0,0,,Millie, big weapon, stat!
+Dialogue: 0,0:19:05.56,0:19:09.69,Default,0,0,0,,Da da duh dun dun!
+Dialogue: 0,0:19:10.60,0:19:12.33,Default,0,0,0,,This is fun!
+Dialogue: 0,0:19:13.39,0:19:14.97,Default,0,0,0,,Alright sweetie, cover me.
+Dialogue: 0,0:19:15.00,0:19:17.47,Default,0,0,0,,The prince’s knight needs his sword!
+Dialogue: 0,0:19:28.50,0:19:30.91,Default,0,0,0,,Eughhh, disgusting!
+Dialogue: 0,0:19:30.94,0:19:31.64,Default,0,0,0,,Blitzø!
+Dialogue: 0,0:19:31.67,0:19:33.71,Default,0,0,0,,Whoo, impressive, Moxxie!
+Dialogue: 0,0:19:33.74,0:19:34.73,Default,0,0,0,,Catch!
+Dialogue: 0,0:19:34.76,0:19:36.86,Default,0,0,0,,Yeah Moxxie! High five-
+Dialogue: 0,0:19:36.89,0:19:38.59,Default,0,0,0,,OH, woah shit!!!
+Dialogue: 0,0:19:45.43,0:19:49.36,Default,0,0,0,,You’ve just risked\Nyour life to save mine.
+Dialogue: 0,0:19:49.39,0:19:50.54,Default,0,0,0,,Well...
+Dialogue: 0,0:19:51.19,0:19:52.27,Default,0,0,0,,So did you.
+Dialogue: 0,0:20:03.16,0:20:04.62,Default,0,0,0,,How dare-
+Dialogue: 0,0:20:04.65,0:20:09.09,Default,0,0,0,,you pathetic, waste of\Nlower class scum attack ME!
+Dialogue: 0,0:20:10.44,0:20:14.90,Default,0,0,0,,For this, I will see aaaall\Nyour heads mounted!
+Dialogue: 0,0:20:25.19,0:20:26.79,Default,0,0,0,,Stand down, girl!
+Dialogue: 0,0:20:27.12,0:20:29.32,Default,0,0,0,,This doesn’t concern you.
+Dialogue: 0,0:20:29.95,0:20:31.90,Default,0,0,0,,ENOUGH!
+Dialogue: 0,0:20:32.62,0:20:33.79,Default,0,0,0,,Stoppit!
+Dialogue: 0,0:20:34.33,0:20:37.63,Default,0,0,0,,You will not. Hurt. My. Dad.
+Dialogue: 0,0:20:37.66,0:20:41.44,Default,0,0,0,,You are in no position\Nto make demands of me!
+Dialogue: 0,0:20:41.52,0:20:43.84,Default,0,0,0,,Imagine what your mother will say.
+Dialogue: 0,0:20:43.87,0:20:45.07,Default,0,0,0,,Uh huh. Exactly.
+Dialogue: 0,0:20:45.10,0:20:46.37,Default,0,0,0,,Imagine what her mother will say
+Dialogue: 0,0:20:46.40,0:20:48.54,Default,0,0,0,,when she finds out you\Ngot your ass handed to you
+Dialogue: 0,0:20:48.57,0:20:50.57,Default,0,0,0,,by a gaggle of imps and a hellhound.
+Dialogue: 0,0:20:50.60,0:20:52.13,Default,0,0,0,,I think that’s what folks call a-
+Dialogue: 0,0:20:52.16,0:20:53.01,Default,0,0,0,,BAD LOOK!
+Dialogue: 0,0:20:53.04,0:20:54.59,Default,0,0,0,,A very bad look.
+Dialogue: 0,0:20:56.32,0:20:59.90,Default,0,0,0,,Ptttff, you aren’t worth\Nmy time anyway!
+Dialogue: 0,0:21:00.18,0:21:02.19,Default,0,0,0,,But you will regret this.
+Dialogue: 0,0:21:03.83,0:21:04.64,Default,0,0,0,,Via!
+Dialogue: 0,0:21:05.33,0:21:07.07,Default,0,0,0,,My brave powerful girl,
+Dialogue: 0,0:21:07.10,0:21:09.20,Default,0,0,0,,I am so proud of you!
+Dialogue: 0,0:21:09.69,0:21:11.06,Default,0,0,0,,You lied to me.
+Dialogue: 0,0:21:11.09,0:21:11.77,Default,0,0,0,,What?
+Dialogue: 0,0:21:11.80,0:21:13.80,Default,0,0,0,,You LIED to me!
+Dialogue: 0,0:21:13.83,0:21:15.70,Default,0,0,0,,You said you would never leave me.
+Dialogue: 0,0:21:15.73,0:21:16.64,Default,0,0,0,,You promised!
+Dialogue: 0,0:21:16.84,0:21:18.80,Default,0,0,0,,Via, I- I didn’t leave you. I-
+Dialogue: 0,0:21:18.83,0:21:20.71,Default,0,0,0,,I would never, it wasn’t my choice.
+Dialogue: 0,0:21:20.74,0:21:23.87,Default,0,0,0,,It was your choice, you chose him.
+Dialogue: 0,0:21:23.90,0:21:25.17,Default,0,0,0,,Via! No! I-
+Dialogue: 0,0:21:25.19,0:21:26.34,Default,0,0,0,,I didn’t I just-
+Dialogue: 0,0:21:26.54,0:21:28.43,Default,0,0,0,,I had to, you don’t understand.
+Dialogue: 0,0:21:28.46,0:21:30.44,Default,0,0,0,,I do understand!
+Dialogue: 0,0:21:30.47,0:21:34.19,Default,0,0,0,,I understand we were\Nnever enough for you!
+Dialogue: 0,0:21:34.22,0:21:38.65,Default,0,0,0,,You never loved mother and\Nyou don’t love me, you love him.
+Dialogue: 0,0:21:39.10,0:21:40.79,Default,0,0,0,,And you needed THESE!
+Dialogue: 0,0:21:40.82,0:21:43.01,Default,0,0,0,,Was this my fault that you needed these?
+Dialogue: 0,0:21:43.04,0:21:44.74,Default,0,0,0,,No! No! Never Via!
+Dialogue: 0,0:21:44.77,0:21:48.79,Default,0,0,0,,Sweetie, please, you have always\Nbeen the only good thing in my life.
+Dialogue: 0,0:21:48.82,0:21:52.01,Default,0,0,0,,So does that mean you just\Nstayed miserable because of me?
+Dialogue: 0,0:21:52.04,0:21:53.58,Default,0,0,0,,Was I some fucking obligation?
+Dialogue: 0,0:21:53.61,0:21:56.71,Default,0,0,0,,Is that why you didn’t even hesitate\Nwhen you got a chance to leave?
+Dialogue: 0,0:21:56.74,0:21:58.69,Default,0,0,0,,I love you Via, so, so much.
+Dialogue: 0,0:21:58.72,0:22:00.47,Default,0,0,0,,Please sweetie, let me explain.
+Dialogue: 0,0:22:00.50,0:22:01.84,Default,0,0,0,,I can’t.
+Dialogue: 0,0:22:02.53,0:22:05.23,Default,0,0,0,,You lied to me once,\Nand you’ll do it again.
+Dialogue: 0,0:22:05.26,0:22:07.83,Default,0,0,0,,Have a great fucking life with him, dad.
+Dialogue: 0,0:22:07.86,0:22:09.90,Default,0,0,0,,No! Via! Please!
+Dialogue: 0,0:22:10.39,0:22:11.59,Default,0,0,0,,Please!!
+Dialogue: 0,0:22:38.20,0:22:38.87,Default,0,0,0,,Whew!
+Dialogue: 0,0:22:38.90,0:22:39.71,Default,0,0,0,,That was intense.
+Dialogue: 0,0:22:39.73,0:22:42.00,Default,0,0,0,,I’m gonna see if my friends\Ncan still come tonight.
+Dialogue: 0,0:22:42.03,0:22:44.04,Default,0,0,0,,I need some drinks after\Nwhat happened today.
+Dialogue: 0,0:22:44.07,0:22:46.63,Default,0,0,0,,Yeah, sure! Whatever you want, Loony.\NMmkay?
+Dialogue: 0,0:23:14.69,0:23:16.24,Default,0,0,0,,She hates me.
+Dialogue: 0,0:23:30.33,0:23:33.31,Default,0,0,0,,You wanna try some of my home baked Sinsmas
+Dialogue: 0,0:23:33.34,0:23:35.00,Default,0,0,0,,cookies, your highness?
+Dialogue: 0,0:23:35.03,0:23:36.44,Default,0,0,0,,Eeh? Eeeh??
+Dialogue: 0,0:23:36.47,0:23:39.64,Default,0,0,0,,I think I’ll pass, but thank you.
+Dialogue: 0,0:23:39.66,0:23:42.51,Default,0,0,0,,And you don’t need to address me like that.
+Dialogue: 0,0:23:43.52,0:23:44.46,Default,0,0,0,,Hey, where’s Mils?
+Dialogue: 0,0:23:54.32,0:23:56.20,Default,0,0,0,,Shit.
+Dialogue: 0,0:23:59.20,0:24:00.44,Default,0,0,0,,Oh, hey sweetie!
+Dialogue: 0,0:23:30.33,0:23:33.31,Xmas,0,0,0,,♪ Everyone at the sinmas party ♪
+Dialogue: 0,0:23:33.34,0:23:36.44,Xmas,0,0,0,,♪ would like a piece of pie! ♪
+Dialogue: 0,0:23:36.47,0:23:39.64,Xmas,0,0,0,,♪ But everyone at the sinsmas party ♪
+Dialogue: 0,0:23:39.66,0:23:42.52,Xmas,0,0,0,,♪ is gonna fucking die! ♪
+Dialogue: 0,0:23:42.54,0:23:44.46,Xmas,0,0,0,,♪ Cause I’m making a list, ♪
+Dialogue: 0,0:23:44.49,0:23:46.00,Xmas,0,0,0,,♪ I’m checking it twice, ♪
+Dialogue: 0,0:23:46.03,0:23:49.01,Xmas,0,0,0,,♪ I’m gonna make sure that nobody is nice! ♪
+Dialogue: 0,0:23:49.04,0:23:50.03,Xmas,0,0,0,,♪ By the time ♪
+Dialogue: 0,0:23:50.06,0:23:51.69,Xmas,0,0,0,,♪ the night is through, ♪
+Dialogue: 0,0:23:51.72,0:23:54.31,Xmas,0,0,0,,♪ I’m gonna murder you! ♪
+Dialogue: 0,0:23:54.32,0:23:56.20,Xmas,0,0,0,,♪ Wo-oh-oh-ah!! ♪
+Dialogue: 0,0:24:00.47,0:24:02.31,Default,0,0,0,,We’re about to start board games!
+Dialogue: 0,0:24:02.34,0:24:03.29,Default,0,0,0,,I’ll be right there baby!
+Dialogue: 0,0:24:03.32,0:24:05.03,Default,0,0,0,,Calling the fam for Sins first.
+Dialogue: 0,0:24:08.52,0:24:09.51,Default,0,0,0,,Hay!
+Dialogue: 0,0:24:09.54,0:24:11.99,Default,0,0,0,,Hey Sal, you alone?
+Dialogue: 0,0:24:14.33,0:24:18.10,Default,0,0,0,,Uhhhhhhhhmmmmmmm...
+Dialogue: 0,0:24:18.13,0:24:18.73,Default,0,0,0,,Yes.
+Dialogue: 0,0:24:18.76,0:24:19.69,Default,0,0,0,,Okay.
+Dialogue: 0,0:24:19.94,0:24:20.94,Default,0,0,0,,Good.
+Dialogue: 0,0:24:20.97,0:24:23.69,Default,0,0,0,,I just need someone to\Ntalk to about something.
+Dialogue: 0,0:24:23.72,0:24:25.36,Default,0,0,0,,What’s going on?
+Dialogue: 0,0:24:29.10,0:24:31.36,Default,0,0,0,,I don’t know what to do.
+Dialogue: 0,0:24:31.39,0:24:32.37,Default,0,0,0,,Okay, okay!
+Dialogue: 0,0:24:32.40,0:24:35.23,Default,0,0,0,,So did you see fucking\NVikki’s post the other day?
+Dialogue: 0,0:24:35.26,0:24:36.29,Default,0,0,0,,Fucking Vikki?
+Dialogue: 0,0:24:36.32,0:24:37.40,Default,0,0,0,,I swear,
+Dialogue: 0,0:24:37.43,0:24:40.81,Default,0,0,0,,if she posts one more humble\Nbrag about that ugly ass car,
+Dialogue: 0,0:24:40.84,0:24:41.70,Default,0,0,0,,I’m gonna commit.
+Dialogue: 0,0:24:41.73,0:24:43.59,Default,0,0,0,,Cha, for real.
+Dialogue: 0,0:24:43.85,0:24:45.77,Default,0,0,0,,Oh hey sweetie, how’d the call go?
+Dialogue: 0,0:24:45.92,0:24:47.21,Default,0,0,0,,It was nice!
+Dialogue: 0,0:24:48.24,0:24:49.33,Default,0,0,0,,You know I love you?
+Dialogue: 0,0:24:49.36,0:24:50.77,Default,0,0,0,,Love you, too!
+Dialogue: 0,0:24:50.96,0:24:54.31,Default,0,0,0,,Okay! Time for the board games...
+Dialogue: 0,0:24:54.34,0:24:55.79,Default,0,0,0,,WITH DRINKS!!
+Dialogue: 0,0:24:55.99,0:25:00.34,Default,0,0,0,,Ha ha ha, merry fucking\NSinsmas, am I right?
+Dialogue: 0,0:25:01.59,0:25:03.30,Top,0,0,0,,Vikki’s such a bitch!
+Dialogue: 0,0:25:02.20,0:25:02.70,Default,0,0,0,,You know,
+Dialogue: 0,0:25:02.72,0:25:04.17,Default,0,0,0,,you guys go on without me ’kay?
+Dialogue: 0,0:25:03.33,0:25:05.17,Top,0,0,0,,No I didn’t invite her!
+Dialogue: 0,0:25:04.20,0:25:06.29,Default,0,0,0,,I’ll just- I’m- need a moment.
+Dialogue: 0,0:25:05.20,0:25:07.20,Top,0,0,0,,She brings the whole party down!
+Dialogue: 0,0:25:08.69,0:25:09.69,Default,0,0,0,,You mind if I steal?
+Dialogue: 0,0:25:09.72,0:25:12.07,Default,0,0,0,,Oh, when have you ever asked?
+Dialogue: 0,0:25:14.62,0:25:16.84,Default,0,0,0,,Today was a lot, wasn’t it?
+Dialogue: 0,0:25:17.39,0:25:20.29,Default,0,0,0,,I-I- I know you can’t see your kid.
+Dialogue: 0,0:25:22.10,0:25:26.03,Default,0,0,0,,And I know you did so fucking\Nmuch just to save my life-
+Dialogue: 0,0:25:26.06,0:25:27.29,Default,0,0,0,,It’s okay.
+Dialogue: 0,0:25:28.12,0:25:30.79,Default,0,0,0,,Saving you was the right thing to do.
+Dialogue: 0,0:25:30.82,0:25:34.39,Default,0,0,0,,And you have risked your\Nlife for mine in return.
+Dialogue: 0,0:25:35.76,0:25:38.79,Default,0,0,0,,You don’t need to feel\Nany guilt for my situation,
+Dialogue: 0,0:25:38.82,0:25:40.16,Default,0,0,0,,it was my choice.
+Dialogue: 0,0:25:40.44,0:25:42.16,Default,0,0,0,,It was all my choice.
+Dialogue: 0,0:25:42.64,0:25:44.66,Default,0,0,0,,I caused all of this.
+Dialogue: 0,0:25:44.69,0:25:46.44,Default,0,0,0,,Well, she’ll understand eventually.
+Dialogue: 0,0:25:46.47,0:25:47.87,Default,0,0,0,,You just gotta give her time.
+Dialogue: 0,0:25:47.90,0:25:48.70,Default,0,0,0,,Blitzø,
+Dialogue: 0,0:25:48.73,0:25:50.37,Default,0,0,0,,she’s gone.
+Dialogue: 0,0:25:51.20,0:25:55.49,Default,0,0,0,,For one hundred years, she’s gone.
+Dialogue: 0,0:25:56.19,0:25:57.98,Default,0,0,0,,And after all that time,
+Dialogue: 0,0:25:58.01,0:25:59.54,Default,0,0,0,,she’ll never forgive me.
+Dialogue: 0,0:25:59.83,0:26:01.89,Default,0,0,0,,I’ll be a stranger to her.
+Dialogue: 0,0:26:03.20,0:26:05.36,Default,0,0,0,,You know, my twin sister...
+Dialogue: 0,0:26:05.99,0:26:07.50,Default,0,0,0,,She hates me too,
+Dialogue: 0,0:26:07.53,0:26:09.59,Default,0,0,0,,for something that I did.
+Dialogue: 0,0:26:09.62,0:26:12.21,Default,0,0,0,,And I miss her every day.
+Dialogue: 0,0:26:12.82,0:26:15.49,Default,0,0,0,,We were so fucking close, you know, we--
+Dialogue: 0,0:26:16.30,0:26:18.38,Default,0,0,0,,It’s a shitty feeling.
+Dialogue: 0,0:26:18.83,0:26:19.91,Default,0,0,0,,But,
+Dialogue: 0,0:26:19.94,0:26:21.66,Default,0,0,0,,you just gotta keep trying.
+Dialogue: 0,0:26:22.14,0:26:23.14,Default,0,0,0,,Yes.
+Dialogue: 0,0:26:23.90,0:26:24.90,Default,0,0,0,,Of course.
+Dialogue: 0,0:26:26.13,0:26:26.99,Default,0,0,0,,No "o"!
+Dialogue: 0,0:26:27.02,0:26:28.47,Default,0,0,0,,Get your ass in here!
+Dialogue: 0,0:26:28.67,0:26:30.14,Default,0,0,0,,We’re starting the games!
+Dialogue: 0,0:26:30.33,0:26:32.24,Default,0,0,0,,Yeah, I need you to show up Russ!
+Dialogue: 0,0:26:32.27,0:26:35.27,Default,0,0,0,,Hey, I’ll be back in just a sec, ‘kay?
+Dialogue: 0,0:26:35.99,0:26:37.27,Default,0,0,0,,Sounds like, uh...
+Dialogue: 0,0:26:37.64,0:26:39.06,Default,0,0,0,,They want me back in there.
+Dialogue: 0,0:26:39.09,0:26:42.36,Default,0,0,0,,Go enjoy your Sinsmas, Blitzø.
+Dialogue: 0,0:26:42.39,0:26:43.90,Default,0,0,0,,I’m fine.
+Dialogue: 0,0:26:43.93,0:26:46.47,Default,0,0,0,,You don’t have to stay here with me.
+Dialogue: 0,0:26:47.33,0:26:48.30,Default,0,0,0,,What are you doing?
+Dialogue: 0,0:26:48.33,0:26:50.02,Default,0,0,0,,Well I can’t fucking dance with you
+Dialogue: 0,0:26:50.02,0:26:52.81,Default,0,0,0,,Without- come here- getting inventive.
+Dialogue: 0,0:26:39.09,0:26:40.56,Xmas,0,0,0,,♪ You pack a bag, ♪
+Dialogue: 0,0:26:40.59,0:26:42.36,Xmas,0,0,0,,♪ you say goodbye, ♪
+Dialogue: 0,0:26:42.39,0:26:45.04,Xmas,0,0,0,,♪ you kiss me on the cheek, ♪
+Dialogue: 0,0:26:45.06,0:26:47.63,Xmas,0,0,0,,♪ and look me in the eye ♪
+Dialogue: 0,0:26:47.64,0:26:49.57,Xmas,0,0,0,,♪ you tell a lie ♪
+Dialogue: 0,0:26:49.59,0:26:52.81,Xmas,0,0,0,,♪ that you will soon return to me. ♪
+Dialogue: 0,0:26:52.84,0:26:54.37,Xmas,0,0,0,,♪ I loved you then, ♪
+Dialogue: 0,0:26:54.40,0:26:56.09,Xmas,0,0,0,,♪ I love you still, ♪
+Dialogue: 0,0:26:56.12,0:26:59.63,Xmas,0,0,0,,♪ and now it won’t be long until ♪
+Dialogue: 0,0:26:59.66,0:27:01.53,Xmas,0,0,0,,♪ you’re here at last, ♪
+Dialogue: 0,0:27:01.03,0:27:02.10,Default,0,0,0,,Hah.
+Dialogue: 0,0:27:02.11,0:27:04.46,Default,0,0,0,,I imagine we look ridiculous right now.
+Dialogue: 0,0:27:05.34,0:27:07.30,Default,0,0,0,,Yeah, like that’s anything new.
+Dialogue: 0,0:27:07.33,0:27:07.90,Default,0,0,0,,I mean look at me,
+Dialogue: 0,0:27:07.91,0:27:09.49,Default,0,0,0,,I’m like four feet tall and you?
+Dialogue: 0,0:27:01.54,0:27:03.20,Xmas,0,0,0,,♪ and then I ask: ♪
+Dialogue: 0,0:27:03.23,0:27:06.70,Xmas,0,0,0,,♪ if your heart still burns for me? ♪
+Dialogue: 0,0:27:06.73,0:27:13.16,Xmas,0,0,0,,♪ I would travel every ring of hell ♪
+Dialogue: 0,0:27:13.19,0:27:19.59,Xmas,0,0,0,,♪ just to see if you’ll be mine. ♪
+Dialogue: 0,0:27:19.62,0:27:23.11,Xmas,0,0,0,,♪ Merry Sinsmas! ♪
+Dialogue: 0,0:27:09.50,0:27:10.80,Default,0,0,0,,You’re like the size of one of those
+Dialogue: 0,0:27:10.82,0:27:13.16,Default,0,0,0,,really very tall, tall horses.
+Dialogue: 0,0:27:13.19,0:27:15.14,Default,0,0,0,,Never really seemed to be an issue,
+Dialogue: 0,0:27:16.01,0:27:17.17,Default,0,0,0,,I guess you were just...
+Dialogue: 0,0:27:17.20,0:27:18.13,Default,0,0,0,,creative.
+Dialogue: 0,0:27:18.16,0:27:21.19,Default,0,0,0,,Only as creative as you were flexible.
+Dialogue: 0,0:27:.,0:27:.,Default,0,0,0,,
+Dialogue: 0,0:27:.,0:27:.,Default,0,0,0,,
+Dialogue: 0,0:27:.,0:27:.,Default,0,0,0,,
+Dialogue: 0,0:27:.,0:27:.,Default,0,0,0,,
+Dialogue: 0,0:27:23.14,0:27:31.77,Xmas,0,0,0,,♪ Know that you are on my mind! ♪
+Dialogue: 0,0:27:33.50,0:27:37.04,Xmas,0,0,0,,♪ Merry Sinsmas! ♪
+Dialogue: 0,0:27:37.06,0:27:44.93,Xmas,0,0,0,,♪ Truer love is hard to find. ♪
+Dialogue: 0,0:28:15.30,0:28:21.97,XmasD,0,0,0,,♪ I would travel every ring of hell, ♪
+Dialogue: 0,0:28:22.17,0:28:28.06,XmasD,0,0,0,,♪ just to see if you’ll be mine! ♪
+Dialogue: 0,0:28:28.09,0:28:31.53,XmasD,0,0,0,,♪ Merry Sinsmas! ♪
+Dialogue: 0,0:28:31.73,0:28:40.35,XmasD,0,0,0,,♪ Know that you are on my mind. ♪
+Dialogue: 0,0:28:42.64,0:28:46.87,XmasD,0,0,0,,♪ Merry Sinsmas! ♪
+Dialogue: 0,0:28:46.90,0:28:55.56,XmasD,0,0,0,,♪ Truer love is hard to find. ♪
